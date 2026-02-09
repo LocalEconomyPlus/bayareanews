@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Bay Area Digest</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet" />
+<style>
+  .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+var e = React.createElement;
+var useState = React.useState;
+var useMemo = React.useMemo;
+var STORIES = [{"id": "8b69e8e65441", "title": "Super Bowl 'sex trafficking' stings raise concerns about ICE using them for deportation", "summary": "The Santa Clara County Board of Supervisors funded human trafficking operations for Super Bowl LX. But advocates worry the stings — now bolstered by a new state law — may be used as cover for federal immigration enforcement.", "link": "https://48hills.org/2026/02/sex-trafficking-stings-or-ice-deportation-at-the-super-bowl/", "source": "48 Hills", "county": "San Francisco", "published": "2026-02-08T10:00:00Z", "themes": [{"name": "Governance & Power", "strength": 5}], "nationalSignificance": 9}, {"id": "43a263eb3928", "title": "Oakland issues executive orders mirroring Alameda County 'ICE-free zones'", "summary": "Oakland has issued executive orders that mirror Alameda County's 'ICE-free zones' and emergency response plans, reinforcing the city's sanctuary protections amid heightened federal immigration enforcement.", "link": "https://oaklandside.org/", "source": "The Oaklandside", "county": "Alameda", "published": "2026-02-08T11:00:00Z", "themes": [{"name": "Governance & Power", "strength": 3}], "nationalSignificance": 7}, {"id": "5cbb11bf79ee", "title": "Rep. Sam Liccardo secures nearly $14 million in federal funding for Silicon Valley projects", "summary": "The federal funding will support affordable housing, flood protection, fire infrastructure, and homeless services in San Jose, Mountain View, Palo Alto, and Campbell.", "link": "https://sanjosespotlight.com/congressman-secures-millions-of-dollars-for-silicon-valley-projects/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-07T10:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 3}, {"name": "Tech & Economy", "strength": 1}, {"name": "Climate & Environment", "strength": 1}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 5}, {"id": "fad1b10948a0", "title": "San Mateo County is first in California to remove a voter-elected sheriff", "summary": "The San Mateo County Board of Supervisors voted to remove Sheriff Christina Corpus after nepotism allegations, making it the first county in California to remove a sheriff chosen by voters.", "link": "https://www.smdailyjournal.com/", "source": "SM Daily Journal", "county": "San Mateo", "published": "2026-02-05T10:00:00Z", "themes": [{"name": "Governance & Power", "strength": 3}], "nationalSignificance": 5}, {"id": "63554ad2af11", "title": "Silicon Valley lawmakers and community rally against ICE violence ahead of Super Bowl", "summary": "Reps. Zoe Lofgren and Sam Liccardo, Mayor Matt Mahan, and Sheriff Bob Jonsen held a press conference denouncing expected ICE enforcement. Lofgren and Liccardo are calling to defund the agency in the spending bill.", "link": "https://sanjosespotlight.com/silicon-valley-lawmakers-take-stand-against-ice-violence/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-06T16:00:00Z", "themes": [{"name": "Governance & Power", "strength": 3}, {"name": "Tech & Economy", "strength": 1}], "nationalSignificance": 4}, {"id": "5ded2edac726", "title": "Rep. Jared Huffman secures federal funding for Marin affordable housing and water supply", "summary": "Federal funding requested by Rep. Huffman will support affordable housing and water supply projects across Marin County.", "link": "https://www.marinij.com/", "source": "Marin IJ", "county": "Marin", "published": "2026-02-06T10:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 2}, {"name": "Climate & Environment", "strength": 1}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 4}, {"id": "0cd8361536b1", "title": "Solano County braces for 2,100 job losses as Valero refinery, Anheuser-Busch close", "summary": "The Solano County Workforce Board is preparing for 2,100 job losses from closures of Valero (1,326 jobs), Anheuser-Busch (541), Mare Island Dry Dock (135), and school district cuts. A $3 million emergency grant has been sought.", "link": "https://www.dailyrepublic.com/", "source": "Daily Republic", "county": "Solano", "published": "2026-02-04T08:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 3}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 4}, {"id": "a1ca9b9bfd33", "title": "If AI is booming, why are AI workers being cut? The Bay Area's paradox", "summary": "Despite record AI investment — valuations nearing $2.7 trillion for Anthropic, OpenAI, and SSI, and Nvidia at $4.5 trillion — tech companies continue laying off workers. SF's chief economist says AI adoption is one reason firms aren't hiring.", "link": "https://www.sfexaminer.com/news/technology/san-francisco-ai-boom-tech-jobs-plateau/", "source": "SF Examiner", "county": "San Francisco", "published": "2026-02-05T16:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 5}], "nationalSignificance": 3}, {"id": "822d031ff1d2", "title": "Two killed in downtown San Jose shooting after Super Bowl celebration", "summary": "Two men are dead following a shooting in downtown San Jose reported around 2:20 a.m. Sunday, near the Paseo de San Antonio. Officers working crowd control for Super Bowl LX arrived to find both men with fatal gunshot wounds.", "link": "https://www.mercurynews.com/2026/02/08/san-jose-two-killed-in-late-night-downtown-shooting/", "source": "Mercury News", "county": "Santa Clara", "published": "2026-02-09T03:00:00Z", "themes": [], "nationalSignificance": 2}, {"id": "6379b50f66f0", "title": "Seahawks defeat Patriots to win Super Bowl LX at Levi's Stadium", "summary": "The Seattle Seahawks defeated the New England Patriots in Super Bowl LX at Levi's Stadium in Santa Clara — the Bay Area's third time hosting the big game.", "link": "https://www.nbcbayarea.com/", "source": "NBC Bay Area", "county": "Regional", "published": "2026-02-09T01:00:00Z", "themes": [], "nationalSignificance": 2}, {"id": "296d695ed534", "title": "Could the United Nations return to San Francisco? Trump-era defunding opens the door", "summary": "The U.N. was founded in San Francisco in 1945. With the organization nearly bankrupt in New York amid federal defunding, 48 Hills asks whether SF could bring it back — a move that would reshape the city's identity and global role.", "link": "https://48hills.org/2026/02/united-nations-wont-you-come-on-home/", "source": "48 Hills", "county": "San Francisco", "published": "2026-02-07T16:00:00Z", "themes": [{"name": "Governance & Power", "strength": 1}], "nationalSignificance": 2}, {"id": "ba9c0a364dc3", "title": "Scale AI cuts 14% of staff weeks after $14.3 billion Meta investment", "summary": "Weeks after Meta invested $14.3 billion and tapped its founder for a new AI initiative, Scale AI is cutting about 14% of staff and parting ways with 500 contractors.", "link": "https://techcrunch.com/", "source": "TechCrunch", "county": "Santa Clara", "published": "2026-02-07T12:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 2}], "nationalSignificance": 2}, {"id": "b6c8268979fd", "title": "Rep. Kevin Mullin secures nearly $13 million for Peninsula and SF infrastructure", "summary": "Federal cash will fund day care renovation in San Mateo, bike safety in San Bruno, and 170+ new bus shelters across the county. SamTrans will also get nearly 200 real-time info signs.", "link": "https://localnewsmatters.org/2026/02/07/mullin-federal-funding-peninsula-sf-projects/", "source": "Local News Matters", "county": "San Mateo", "published": "2026-02-07T11:00:00Z", "themes": [{"name": "Governance & Power", "strength": 1}], "nationalSignificance": 2}, {"id": "2803b05d028c", "title": "Green Day ad-libs anti-ICE message ahead of Super Bowl LX performance", "summary": "The East Bay punk band added 'chinga la migra' during a pre-Super Bowl set, raising questions about what they'll do at the big game. The band has a history of political statements at major events.", "link": "https://www.berkeleyside.org/2026/02/06/green-day-super-bowl-lx-trump-ice-opening-ceremony", "source": "Berkeleyside", "county": "Alameda", "published": "2026-02-06T14:00:00Z", "themes": [{"name": "Governance & Power", "strength": 1}], "nationalSignificance": 2}, {"id": "b01444e0f331", "title": "Mountain View disables all license plate cameras after federal agencies improperly access data", "summary": "All of Mountain View's Flock license plate reader cameras are being disabled immediately after federal agencies improperly accessed the surveillance data, per Police Chief Mike Canfield.", "link": "https://sanjosespotlight.com/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-05T13:00:00Z", "themes": [{"name": "Governance & Power", "strength": 2}], "nationalSignificance": 2}, {"id": "baed96d1ce2e", "title": "Sonoma County strikes deal to use opioid settlement funds for sober living homes", "summary": "After pressure from the Gallaher family, a deal was struck to use Sonoma County opioid settlement funds to build sober living homes — a potential model for other counties managing settlement payouts.", "link": "https://www.pressdemocrat.com/", "source": "Press Democrat", "county": "Sonoma", "published": "2026-02-05T10:00:00Z", "themes": [], "nationalSignificance": 2}, {"id": "5744ff53389d", "title": "Oracle lays off 254 Bay Area employees as part of nationwide cuts", "summary": "Tech giant Oracle has laid off an additional 254 employees in the Bay Area as part of a major round of cuts affecting workers around the country.", "link": "https://www.mercurynews.com/", "source": "Mercury News", "county": "Santa Clara", "published": "2026-02-04T14:00:00Z", "themes": [], "nationalSignificance": 2}, {"id": "dc79ecb6abf4", "title": "San Jose ranked world's least affordable city for first-time homebuyers", "summary": "A new global study ranks San Jose as the least affordable city in the world for first-time homebuyers, underscoring Silicon Valley's extreme housing costs.", "link": "https://sanjosespotlight.com/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-04T09:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 3}, {"name": "Tech & Economy", "strength": 2}], "nationalSignificance": 2}, {"id": "8925642098d6", "title": "Bay Area lost 20,000 jobs in 2025 but South Bay tech hiring shows signs of life", "summary": "The Bay Area lost 20,000 jobs in 2025, but December brought a glimmer: the South Bay added 1,800 tech jobs, even as SF-San Mateo lost 900 and the East Bay lost 600.", "link": "https://www.mercurynews.com/", "source": "Mercury News", "county": "Regional", "published": "2026-02-04T07:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 2}], "nationalSignificance": 2}, {"id": "4d323500c1da", "title": "Washington Post story marks media breakthrough challenging pro-YIMBY housing narrative", "summary": "A Washington Post investigation highlighted growing scholarly dissent from the YIMBY supply-side housing agenda, marking a shift in national media coverage of housing policy debates that originated in the Bay Area.", "link": "https://48hills.org/2026/02/finally-a-media-breakthrough-of-the-pro-yimby-narrative-that-has-dominated-press-and-politics/", "source": "48 Hills", "county": "San Francisco", "published": "2026-02-03T14:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 2}], "nationalSignificance": 2}, {"id": "029c5d45f3e2", "title": "BART publishes 2026-2035 Sustainability Action Plan: GHG emissions down 75%", "summary": "BART's new 10-year sustainability plan highlights a 75% reduction in greenhouse gas emissions through GHG-free electricity. The plan addresses sea level rise, wildfire, and extreme heat threats to its stations and infrastructure.", "link": "https://www.bart.gov/sites/default/files/2026-01/2026-01-23_BART%20Final%20SAP_0.pdf", "source": "BART", "county": "Regional", "published": "2026-02-03T12:00:00Z", "themes": [{"name": "Climate & Environment", "strength": 4}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 2}, {"id": "d832dbdae8e0", "title": "SF supervisors approve affordable senior housing at foot of Bernal Hill over neighborhood opposition", "summary": "The Board of Supervisors unanimously rejected an attempt to delay an affordable housing project for seniors at the foot of Bernal Hill, despite neighbors complaining the project would reduce the size of an existing park.", "link": "https://48hills.org/2026/02/supes-approve-affordable-senior-housing-project-but-discussion-raises-larger-issue/", "source": "48 Hills", "county": "San Francisco", "published": "2026-02-08T14:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 2}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 1}, {"id": "bbd5022132e4", "title": "SF committee to vote on taking over PG&E's assets in the city after repeated blackouts", "summary": "The Public Safety and Neighborhood Services Committee will hold a hearing and vote to reaffirm San Francisco's mandate to take over PG&E's local assets, following a string of blackouts that have left residents frustrated.", "link": "https://48hills.org/2026/02/when-oh-when-we-sf-finally-take-action-to-get-rid-of-pge/", "source": "48 Hills", "county": "San Francisco", "published": "2026-02-08T12:00:00Z", "themes": [{"name": "Climate & Environment", "strength": 1}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 1}, {"id": "4d1d106e4d23", "title": "Oakland Unified sees alarming spike in unhoused students since pandemic", "summary": "Ever since COVID-19, the Oakland Unified School District has seen a sharp spike in unhoused students who face challenges far beyond what most children encounter.", "link": "https://abc7news.com/", "source": "ABC7 News", "county": "Alameda", "published": "2026-02-06T11:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 1}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 1}, {"id": "35b731ae96b0", "title": "Silicon Valley workers struggle as minimum wage lags behind cost of living", "summary": "San Jose's minimum wage inches up 50 cents to $18.45/hr — adding just $1,040/year. Once a trailblazer, San Jose now lags behind six cities in its own county. Mountain View leads at $19.70/hr.", "link": "https://sanjosespotlight.com/silicon-valley-workers-struggle-amid-minimum-wage-increase/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-06T09:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 3}], "nationalSignificance": 1}, {"id": "30cd0831259b", "title": "Meta, Pinterest, and Google trim 300+ Bay Area jobs in fresh layoff rounds", "summary": "Meta is planning 100+ permanent cuts for March. Pinterest eliminated 118 jobs and Google cut 77 in Sunnyvale. The layoffs continue despite booming AI investment.", "link": "https://www.siliconvalley.com/", "source": "Silicon Valley", "county": "Santa Clara", "published": "2026-02-06T09:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 5}], "nationalSignificance": 1}, {"id": "c834aa8ba363", "title": "Cupertino council approves unique affordable housing project", "summary": "The Cupertino City Council approved an innovative affordable housing project, one of several moves by South Bay cities to address the region's severe housing shortage.", "link": "https://sanjosespotlight.com/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-05T15:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 2}, {"name": "Governance & Power", "strength": 1}], "nationalSignificance": 1}, {"id": "e6a58a5da420", "title": "Salesforce cuts 250+ San Francisco jobs, CEO credits AI with reducing need for workers", "summary": "Salesforce is cutting more than 250 jobs in San Francisco, days after CEO Marc Benioff credited AI with reducing the company's need for human workers. The cuts are the latest in a wave of tech layoffs hitting the Bay Area.", "link": "https://www.mercurynews.com/", "source": "Mercury News", "county": "San Francisco", "published": "2026-02-05T10:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 4}], "nationalSignificance": 1}, {"id": "a4e6bba19dd9", "title": "State authorizes $590 million emergency loan to prevent BART and Muni collapse", "summary": "The state and Metropolitan Transportation Commission approved a $590 million loan to bolster four Bay Area transit systems for fiscal 2026-27, buying time for a November ballot measure.", "link": "https://growsf.org/", "source": "GrowSF", "county": "Regional", "published": "2026-02-05T08:00:00Z", "themes": [{"name": "Governance & Power", "strength": 4}], "nationalSignificance": 1}, {"id": "d70a366ea0ba", "title": "Dominican Valley residents fight 64-home development, propose preservation instead", "summary": "Residents fighting a 64-home plan in Marin's Dominican Valley neighborhood have proposed preserving the site, in the latest Bay Area clash between housing development and neighborhood conservation.", "link": "https://www.marinij.com/", "source": "Marin IJ", "county": "Marin", "published": "2026-02-04T15:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 1}, {"name": "Climate & Environment", "strength": 1}], "nationalSignificance": 1}, {"id": "b96c94ee3331", "title": "North Bay economy at a crossroads: economist warns of stagnation and structural shifts", "summary": "The North Bay economy is undergoing a profound transition marked by stalled job growth, shifting demographics, housing stagnation, and a wine industry facing long-term restructuring. Solano County's growth hinges on California Forever.", "link": "https://www.sonomanews.com/2026/01/08/sonoma-marin-napa-solano-mendocino-lake-economy-010726/", "source": "Sonoma Index-Tribune", "county": "Sonoma", "published": "2026-02-03T10:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 1}, {"name": "Housing & Displacement", "strength": 1}], "nationalSignificance": 1}, {"id": "b5b49d6c18b6", "title": "BART cuts deal with Uber without elected board approval", "summary": "BART management entered into a deal with Uber allowing riders to book Uber rides through the BART app — without first getting approval from the elected board, raising governance questions.", "link": "https://48hills.org/2026/01/bart-cuts-deal-with-uber-without-approval-of-the-elected-board/", "source": "48 Hills", "county": "Regional", "published": "2026-02-03T09:00:00Z", "themes": [{"name": "Governance & Power", "strength": 2}, {"name": "Tech & Economy", "strength": 1}], "nationalSignificance": 1}, {"id": "19572fc0cd4e", "title": "SFUSD teachers strike begins — first labor stoppage since 1979", "summary": "Teachers in the San Francisco Unified School District began striking Monday after the union and district failed to reach a deal over class sizes, support staff, and pay. It's the first teacher strike in the city since 1979.", "link": "https://www.nbcbayarea.com/", "source": "NBC Bay Area", "county": "San Francisco", "published": "2026-02-09T08:00:00Z", "themes": [{"name": "Governance & Power", "strength": 1}], "nationalSignificance": 0}, {"id": "2564b774bc30", "title": "Oakland finance department fast-tracks takeover of parking enforcement, alarming staff", "summary": "Oakland's finance department is on a fast track to take over parking enforcement from the transportation department, alarming staff and business leaders. The turf dispute will get aired out at a Feb. 10 council committee meeting.", "link": "https://oaklandside.org/", "source": "The Oaklandside", "county": "Alameda", "published": "2026-02-09T07:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "64179c97c27c", "title": "SF daycare policy shift could keep families in the city — but challenges some providers", "summary": "Supporters say it's a critical move to keep families from leaving San Francisco altogether, but for some daycare providers, this shift could trigger serious, immediate challenges.", "link": "https://www.nbcbayarea.com/", "source": "NBC Bay Area", "county": "San Francisco", "published": "2026-02-08T15:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "45aabe7fd537", "title": "250 demonstrators rally at Indivisible Sonoma County protest", "summary": "Approximately 250 demonstrators attended a protest organized by Indivisible Sonoma County on Saturday, joining a broader wave of political activism across the North Bay.", "link": "https://www.pressdemocrat.com/", "source": "Press Democrat", "county": "Sonoma", "published": "2026-02-08T14:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "dcb20d53856a", "title": "Former Oakland police chief Floyd Mitchell tapped to lead Fremont PD", "summary": "Two months after leaving his post as Oakland's police chief, Floyd Mitchell will lead Fremont's police department — a move that raises questions about his departure from Oakland.", "link": "https://oaklandside.org/", "source": "The Oaklandside", "county": "Alameda", "published": "2026-02-08T09:00:00Z", "themes": [{"name": "Governance & Power", "strength": 1}], "nationalSignificance": 0}, {"id": "8e65c970b940", "title": "Pamela Price gears up for another shot at Alameda County district attorney", "summary": "After being recalled, former DA Pamela Price is gearing up for another run at the Alameda County district attorney's office, while two councilmembers running unopposed have raked in tens of thousands in campaign funds.", "link": "https://oaklandside.org/", "source": "The Oaklandside", "county": "Alameda", "published": "2026-02-07T14:00:00Z", "themes": [{"name": "Governance & Power", "strength": 1}], "nationalSignificance": 0}, {"id": "274b10c58ea7", "title": "Wave of new restaurants coming to Sonoma County this spring", "summary": "A wave of new restaurants is lining up across Sonoma County from spring through summer, including a second Wild Poppy, a new Windsor pub, and a major Sonoma Plaza project.", "link": "https://www.pressdemocrat.com/", "source": "Press Democrat", "county": "Sonoma", "published": "2026-02-07T12:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "af3b52908248", "title": "Intel lays off 400+ Bay Area workers as global cost-cutting expands", "summary": "Intel has laid off more than 400 workers in the Bay Area this week, expanding a wave of job cuts across its U.S. operations as part of a global cost-cutting initiative.", "link": "https://www.mercurynews.com/", "source": "Mercury News", "county": "Alameda", "published": "2026-02-07T09:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "99610b98a77c", "title": "Death cap mushroom poisoning: San Mateo County issues health warning about foraging", "summary": "San Mateo County Health is warning residents about potentially deadly risks of eating wild mushrooms after a resident was hospitalized from death cap mushroom poisoning.", "link": "https://www.smdailyjournal.com/", "source": "SM Daily Journal", "county": "San Mateo", "published": "2026-02-07T09:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "ddfbf13561b8", "title": "King tide flooding catches Greenbrae by surprise in most severe event in two decades", "summary": "Friday's extensive king tide flooding of low-lying Greenbrae came as a surprise even to a community prepared for most flooding events. Heavy rain and high tides — the most severe in two decades — caused road closures and car rescues.", "link": "https://www.marinij.com/", "source": "Marin IJ", "county": "Marin", "published": "2026-02-07T08:00:00Z", "themes": [{"name": "Climate & Environment", "strength": 2}], "nationalSignificance": 0}, {"id": "1edb5b241440", "title": "Bank employee and two conspirators arrested in armed Marin home invasion robberies", "summary": "A Novato bank employee and two conspirators were arrested for targeting customers who had withdrawn large amounts of cash, conducting armed home invasion robberies across Marin County.", "link": "https://www.marinij.com/", "source": "Marin IJ", "county": "Marin", "published": "2026-02-07T06:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "f99fb3b6e3d1", "title": "Mountain View wants more parks — but it won't be cheap", "summary": "As Mountain View densifies rapidly, the city is grappling with how to fund new park space in one of the most expensive real estate markets in the country.", "link": "https://sanjosespotlight.com/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-06T14:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "ff80a9a084c4", "title": "Santa Rosa schools tighten exit transfer policy to address declining enrollment", "summary": "More Santa Rosa City Schools students will be denied exit transfers under a tighter policy meant to address declining enrollment — a challenge facing districts across the Bay Area.", "link": "https://www.pressdemocrat.com/", "source": "Press Democrat", "county": "Sonoma", "published": "2026-02-06T11:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "59c1e0b6b0b4", "title": "San Mateo County home prices surge 11.6% year-over-year to $2.058 million median", "summary": "San Mateo County led the Bay Area with median home prices rising 11.6% to $2,058,000 and sales volume skyrocketing 25%. Contra Costa was down 4.1% to $839,500.", "link": "https://www.noradarealestate.com/blog/san-francisco-real-estate-market/", "source": "Norada Real Estate", "county": "San Mateo", "published": "2026-02-06T08:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "d4bc3ecd2b3c", "title": "Contra Costa home prices drop 4.1% as San Mateo surges — Bay Area housing market splits", "summary": "While San Mateo County home prices surged 11.6%, Contra Costa fell 4.1% to $839,500, illustrating deepening geographic divides in the Bay Area housing market.", "link": "https://www.noradarealestate.com/", "source": "Norada Real Estate", "county": "Contra Costa", "published": "2026-02-06T08:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 1}], "nationalSignificance": 0}, {"id": "fc4f2cc1f150", "title": "Annual homeless count conducted across Napa and Sonoma counties", "summary": "Annual point-in-time homeless counts were conducted last week across Napa and Sonoma counties, with results expected to inform housing and service allocation for the coming year.", "link": "https://napavalleyregister.com/", "source": "Napa Valley Register", "county": "Napa", "published": "2026-02-06T08:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 2}], "nationalSignificance": 0}, {"id": "6930c52f2e60", "title": "BART makes plans for its own death — shutdown could come in just two years", "summary": "BART's contingency plans include a nuclear 'Phase 3' scenario: shutting the rail system down entirely if voters decline a sales tax in November. Phase 2 would close 15 stations, cut 70% of service, and lay off 1,200+ workers.", "link": "https://www.sfchronicle.com/bayarea/article/bart-service-cost-cut-21338581.php", "source": "SF Chronicle", "county": "Regional", "published": "2026-02-06T06:00:00Z", "themes": [{"name": "Governance & Power", "strength": 2}], "nationalSignificance": 0}, {"id": "950e8524a997", "title": "UC Berkeley reopens multicultural center it abruptly closed last year", "summary": "UC Berkeley's Multicultural Community Center, a student-run space with roots in the ethnic studies movement, will reopen this spring after being shuttered last summer. The center had operated for more than 20 years.", "link": "https://www.berkeleyside.org/2026/02/05/uc-berkeley-multicultural-community-center", "source": "Berkeleyside", "county": "Alameda", "published": "2026-02-05T17:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "ea8163570a11", "title": "Future of Santa Clara County guaranteed income programs uncertain", "summary": "Pilot participants can now afford childcare and clothes, but some control group members have left Silicon Valley entirely, unable to shoulder the crushing cost of living. The program's future funding is uncertain.", "link": "https://sanjosespotlight.com/future-of-santa-clara-county-guaranteed-income-programs-uncertain/", "source": "San Jose Spotlight", "county": "Santa Clara", "published": "2026-02-05T11:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 2}], "nationalSignificance": 0}, {"id": "6e0b5af06904", "title": "Contra Costa County faces $307 million in annual Medi-Cal losses by 2028-29", "summary": "Already down $24 million this fiscal year from cuts, Contra Costa faces projected annual losses of $307 million by FY 2028-29 as public hospitals and clinics face higher demand with fewer resources.", "link": "https://contracosta.news/", "source": "Contra Costa News", "county": "Contra Costa", "published": "2026-02-05T11:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "5688c839a96c", "title": "Napa County forecast to have strongest North Bay job growth through 2030", "summary": "Despite the broader North Bay economic slowdown, Napa County is projected to have the strongest job growth in the region through 2030, driven by tourism and hospitality.", "link": "https://napavalleyregister.com/", "source": "Napa Valley Register", "county": "Napa", "published": "2026-02-05T09:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 1}], "nationalSignificance": 0}, {"id": "b25b645caea7", "title": "Richmond leads Bay Area with biggest minimum wage jump — $1.41 to $19.18/hr", "summary": "Richmond raised its minimum wage with a $1.41 increase to $19.18, the greatest jump of any Bay Area city. El Cerrito rose to $18.82 in Contra Costa County.", "link": "https://www.sfgate.com/", "source": "SFGate", "county": "San Mateo", "published": "2026-02-05T08:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 1}], "nationalSignificance": 0}, {"id": "15d7a69f8723", "title": "SF music venues Thee Parkside, Bottom of the Hill to close — latest casualties of nightlife decline", "summary": "Thee Parkside will cease booking live music by end of March and eventually go dark, following news that Bottom of the Hill would close by year's end. The closures mark a continued erosion of the city's storied live music ecosystem.", "link": "https://48hills.org/", "source": "48 Hills", "county": "San Francisco", "published": "2026-02-04T12:00:00Z", "themes": [], "nationalSignificance": 0}, {"id": "c1385a7f2f86", "title": "Yountville Commons unveiled: up to 150 affordable homes for local workers in wine country", "summary": "Town officials unveiled Yountville Commons — 15 three-story buildings with up to 150 homes designed for local employees to live where they work, at the site of the old Yountville Elementary.", "link": "https://napavalleyregister.com/", "source": "Napa Valley Register", "county": "Napa", "published": "2026-02-04T10:00:00Z", "themes": [{"name": "Housing & Displacement", "strength": 1}], "nationalSignificance": 0}, {"id": "c324294b3f4d", "title": "California Forever's planned city remains wild card for Solano County's economic future", "summary": "Solano County's projected growth is heavily influenced by plans for a large planned community backed by California Forever, but the project's timeline and viability remain uncertain.", "link": "https://www.sonomanews.com/", "source": "Sonoma Index-Tribune", "county": "Solano", "published": "2026-02-03T11:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 1}], "nationalSignificance": 0}, {"id": "02f824eba51b", "title": "Amazon slashes 769 Bay Area jobs across Sunnyvale, Santa Clara, and San Francisco", "summary": "Amazon revealed plans to cut 769 jobs in the Bay Area, including 272 in Sunnyvale, 233 in Santa Clara, 89 in East Palo Alto, 72 in Mountain View, and 103 in San Francisco.", "link": "https://www.mercurynews.com/2026/02/03/amazon-tech-jobs-layoff-ai-commerce-south-bay-google-facebook-economy/", "source": "Mercury News", "county": "Santa Clara", "published": "2026-02-03T10:00:00Z", "themes": [{"name": "Tech & Economy", "strength": 1}], "nationalSignificance": 0}];
+var GENERATED_AT = "February 09, 2026 at 07:55 PM UTC";
+
+var THEME_COLORS = {
+  "Tech & Economy": { bg: "#EEF2FF", text: "#4338CA", border: "#C7D2FE" },
+  "Housing & Displacement": { bg: "#FFF7ED", text: "#C2410C", border: "#FED7AA" },
+  "Climate & Environment": { bg: "#F0FDF4", text: "#15803D", border: "#BBF7D0" },
+  "Governance & Power": { bg: "#FDF2F8", text: "#BE185D", border: "#FBCFE8" }
+};
+var THEME_ICONS = {
+  "Tech & Economy": "\uD83D\uDCBB",
+  "Housing & Displacement": "\uD83C\uDFE0",
+  "Climate & Environment": "\uD83C\uDF3F",
+  "Governance & Power": "\u2696\uFE0F"
+};
+var COUNTY_COLORS = {
+  "San Francisco": "#6366F1", "Alameda": "#F59E0B", "Santa Clara": "#10B981",
+  "San Mateo": "#8B5CF6", "Marin": "#06B6D4", "Contra Costa": "#EC4899",
+  "Sonoma": "#EF4444", "Napa": "#84CC16", "Solano": "#F97316", "Regional": "#6B7280"
+};
+
+function timeAgo(ds) {
+  var now = new Date(), then = new Date(ds);
+  var m = Math.floor((now - then) / 60000);
+  if (m < 1) return "Just now";
+  if (m < 60) return m + "m ago";
+  var h = Math.floor(m / 60);
+  if (h < 24) return h + "h ago";
+  var d = Math.floor(h / 24);
+  if (d === 1) return "Yesterday";
+  if (d < 7) return d + "d ago";
+  return then.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+}
+
+function SignificanceBadge(p) {
+  if (p.score < 3) return null;
+  var hi = p.score >= 6;
+  return e("span", {
+    className: "text-xs font-semibold px-2 py-0.5 rounded-full border " +
+      (hi ? "bg-red-50 text-red-700 border-red-200" : "bg-yellow-50 text-yellow-700 border-yellow-200")
+  }, hi ? "National Impact" : "Broader Reach");
+}
+
+function ThemeTag(p) {
+  var c = THEME_COLORS[p.theme.name] || { bg: "#F3F4F6", text: "#374151", border: "#D1D5DB" };
+  var icon = THEME_ICONS[p.theme.name] || "";
+  return e("span", {
+    className: "text-xs font-medium px-2 py-0.5 rounded-full border inline-flex items-center gap-1",
+    style: { backgroundColor: c.bg, color: c.text, borderColor: c.border }
+  }, icon + " " + p.theme.name);
+}
+
+function CountyBadge(p) {
+  var color = COUNTY_COLORS[p.county] || "#6B7280";
+  return e("span", {
+    className: "text-xs font-medium px-1.5 py-0.5 rounded border",
+    style: { backgroundColor: color + "15", color: color, borderColor: color + "40" }
+  }, p.county);
+}
+
+function StoryCard(p) {
+  var s = p.story;
+  return e("div", { className: "bg-white rounded-lg border border-gray-200 hover:shadow-md transition-all" },
+    e("div", { className: "p-4" },
+      e("div", { className: "flex items-start justify-between gap-3 mb-2" },
+        e("a", { href: s.link, target: "_blank", rel: "noopener noreferrer",
+          className: "text-base font-semibold text-gray-900 leading-snug hover:text-blue-700 transition-colors flex-1"
+        }, s.title),
+        e(SignificanceBadge, { score: s.nationalSignificance })
+      ),
+      s.summary ? e("p", {
+        className: "text-sm text-gray-600 mb-3 leading-relaxed " + (p.expanded ? "" : "line-clamp-2")
+      }, s.summary) : null,
+      s.summary && s.summary.length > 120 ? e("button", {
+        onClick: p.onToggle, className: "text-xs text-blue-600 hover:text-blue-800 mb-2"
+      }, p.expanded ? "Show less" : "Read more") : null,
+      e("div", { className: "flex items-center justify-between flex-wrap gap-2" },
+        e("div", { className: "flex flex-wrap gap-1.5 items-center" },
+          s.themes.map(function(t, i) { return e(ThemeTag, { key: i, theme: t }); }),
+          e(CountyBadge, { county: s.county })
+        ),
+        e("div", { className: "flex items-center gap-2 text-xs text-gray-400" },
+          e("span", { className: "font-medium text-gray-500" }, s.source),
+          e("span", null, "\u00B7"),
+          e("span", null, timeAgo(s.published))
+        )
+      )
+    )
+  );
+}
+
+function FilterBtn(p) {
+  return e("button", { onClick: p.onClick, className: p.className, style: p.style || {} }, p.children);
+}
+
+function App() {
+  var _at = useState([]), activeThemes = _at[0], setActiveThemes = _at[1];
+  var _sn = useState(false), showNational = _sn[0], setShowNational = _sn[1];
+  var _ac = useState(null), activeCounty = _ac[0], setActiveCounty = _ac[1];
+  var _as2 = useState(null), activeSource = _as2[0], setActiveSource = _as2[1];
+  var _ex = useState({}), expanded = _ex[0], setExpanded = _ex[1];
+  var _fo = useState(false), filtersOpen = _fo[0], setFiltersOpen = _fo[1];
+
+  var counties = useMemo(function() {
+    return Array.from(new Set(STORIES.map(function(s) { return s.county; }))).sort();
+  }, []);
+  var sources = useMemo(function() {
+    return Array.from(new Set(STORIES.map(function(s) { return s.source; }))).sort();
+  }, []);
+
+  function toggleTheme(theme) {
+    setActiveThemes(function(prev) {
+      return prev.indexOf(theme) >= 0 ? prev.filter(function(t) { return t !== theme; }) : prev.concat([theme]);
+    });
+  }
+  function toggleExpand(id) {
+    setExpanded(function(prev) { var n = Object.assign({}, prev); n[id] = !n[id]; return n; });
+  }
+
+  var filtered = useMemo(function() {
+    return STORIES.filter(function(story) {
+      if (showNational && story.nationalSignificance < 3) return false;
+      if (activeThemes.length > 0) {
+        var st = story.themes.map(function(t) { return t.name; });
+        if (!activeThemes.some(function(t) { return st.indexOf(t) >= 0; })) return false;
+      }
+      if (activeCounty && story.county !== activeCounty) return false;
+      if (activeSource && story.source !== activeSource) return false;
+      return true;
+    });
+  }, [activeThemes, showNational, activeCounty, activeSource]);
+
+  var natCount = STORIES.filter(function(s) { return s.nationalSignificance >= 3; }).length;
+  var srcCount = new Set(STORIES.map(function(s) { return s.source; })).size;
+  var ctyCount = new Set(STORIES.map(function(s) { return s.county; })).size;
+  var themes = Object.keys(THEME_COLORS);
+  var hasDetail = activeCounty || activeSource;
+
+  return e("div", { className: "min-h-screen bg-gray-50" },
+    e("header", { className: "bg-white border-b border-gray-200 sticky top-0", style: { zIndex: 10 } },
+      e("div", { className: "max-w-4xl mx-auto px-4 py-3" },
+        e("div", { className: "flex items-baseline justify-between" },
+          e("h1", { className: "text-xl font-bold text-gray-900 tracking-tight" }, "Bay Area Digest"),
+          e("div", { className: "flex items-baseline gap-3" },
+            e("span", { className: "text-xs text-gray-400" },
+              STORIES.length + " stories \u00B7 ",
+              e("span", { className: "text-red-500" }, natCount + " national"),
+              " \u00B7 " + srcCount + " sources \u00B7 " + ctyCount + " counties"
+            ),
+            e("span", { className: "text-xs text-gray-300" }, GENERATED_AT)
+          )
+        ),
+        e("div", { className: "mt-2 space-y-2" },
+          e("div", { className: "flex flex-wrap items-center gap-2" },
+            e("button", {
+              onClick: function() { setShowNational(!showNational); },
+              className: "px-3 py-1.5 rounded-full text-sm font-medium border transition-all " +
+                (showNational ? "bg-red-600 text-white border-red-600" : "bg-white text-gray-600 border-gray-300 hover:border-red-300 hover:text-red-600")
+            }, "\uD83D\uDD25 National Significance"),
+            themes.map(function(theme) {
+              var active = activeThemes.indexOf(theme) >= 0;
+              var c = THEME_COLORS[theme];
+              return e("button", {
+                key: theme,
+                onClick: function() { toggleTheme(theme); },
+                className: "px-3 py-1.5 rounded-full text-sm font-medium border transition-all " +
+                  (active ? "text-white border-transparent" : "bg-white border-gray-300 hover:border-gray-400"),
+                style: active ? { backgroundColor: c.text, borderColor: c.text } : { color: c.text }
+              }, (THEME_ICONS[theme] || "") + " " + theme);
+            }),
+            e("button", {
+              onClick: function() { setFiltersOpen(!filtersOpen); },
+              className: "ml-auto px-2 py-1.5 rounded text-xs font-medium transition-all " +
+                (filtersOpen || hasDetail ? "text-blue-600" : "text-gray-400 hover:text-gray-600")
+            }, filtersOpen ? "Less filters \u25B2" : "More filters \u25BC" + (hasDetail && !filtersOpen ? " \u2022" : ""))
+          ),
+          filtersOpen ? e("div", { className: "space-y-2 pt-1 border-t border-gray-100" },
+            e("div", { className: "flex flex-wrap gap-1.5" },
+              e("span", { className: "text-xs text-gray-400 self-center mr-1" }, "County:"),
+              e("button", {
+                onClick: function() { setActiveCounty(null); },
+                className: "px-2.5 py-1 rounded text-xs font-medium " + (!activeCounty ? "bg-gray-800 text-white" : "bg-gray-100 text-gray-600 hover:bg-gray-200")
+              }, "All"),
+              counties.map(function(county) {
+                var color = COUNTY_COLORS[county] || "#6B7280";
+                return e("button", {
+                  key: county,
+                  onClick: function() { setActiveCounty(activeCounty === county ? null : county); },
+                  className: "px-2.5 py-1 rounded text-xs font-medium " + (activeCounty === county ? "text-white" : "bg-gray-100 hover:bg-gray-200"),
+                  style: activeCounty === county ? { backgroundColor: color } : { color: color }
+                }, county);
+              })
+            ),
+            e("div", { className: "flex flex-wrap gap-1.5" },
+              e("span", { className: "text-xs text-gray-400 self-center mr-1" }, "Source:"),
+              e("button", {
+                onClick: function() { setActiveSource(null); },
+                className: "px-2.5 py-1 rounded text-xs font-medium " + (!activeSource ? "bg-gray-800 text-white" : "bg-gray-100 text-gray-600 hover:bg-gray-200")
+              }, "All"),
+              sources.map(function(source) {
+                return e("button", {
+                  key: source,
+                  onClick: function() { setActiveSource(activeSource === source ? null : source); },
+                  className: "px-2.5 py-1 rounded text-xs font-medium " + (activeSource === source ? "bg-gray-800 text-white" : "bg-gray-100 text-gray-600 hover:bg-gray-200")
+                }, source);
+              })
+            )
+          ) : null
+        )
+      )
+    ),
+    e("main", { className: "max-w-4xl mx-auto px-4 py-6" },
+      filtered.length === 0
+        ? e("div", { className: "text-center py-16 text-gray-400" },
+            e("p", { className: "text-lg" }, "No stories match your filters"),
+            e("p", { className: "text-sm mt-1" }, "Try adjusting your selection"))
+        : e("div", { className: "space-y-3" },
+            filtered.map(function(story) {
+              return e(StoryCard, { key: story.id, story: story, expanded: !!expanded[story.id],
+                onToggle: function() { toggleExpand(story.id); } });
+            })),
+      filtered.length > 0 ? e("div", { className: "text-center py-6 text-xs text-gray-400" },
+        "Showing " + filtered.length + " of " + STORIES.length + " stories") : null
+    ),
+    e("footer", { className: "max-w-4xl mx-auto px-4 py-8 text-center border-t border-gray-100" },
+      e("p", { className: "text-xs text-gray-400" }, "Bay Area Digest \u2014 Local stories, wider impact"),
+      e("p", { className: "text-xs text-gray-300 mt-1" }, "Covering all 9 Bay Area counties")
+    )
+  );
+}
+
+ReactDOM.render(e(App), document.getElementById("root"));
+</script>
+</body>
+</html>
