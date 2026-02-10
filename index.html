@@ -139,6 +139,7 @@ function App() {
   var _as2 = useState(null), activeSource = _as2[0], setActiveSource = _as2[1];
   var _ex = useState({}), expanded = _ex[0], setExpanded = _ex[1];
   var _fo = useState(false), filtersOpen = _fo[0], setFiltersOpen = _fo[1];
+  var _sm = useState("ranked"), sortMode = _sm[0], setSortMode = _sm[1];
 
   var counties = useMemo(function() {
     return Array.from(new Set(STORIES.map(function(s) { return s.county; }))).sort();
@@ -170,6 +171,14 @@ function App() {
     });
   }, [activeThemes, showNational, showEnterprise, activeCounty, activeSource]);
 
+  var sorted = useMemo(function() {
+    var arr = filtered.slice();
+    if (sortMode === "recent") {
+      arr.sort(function(a, b) { return new Date(b.published) - new Date(a.published); });
+    }
+    return arr;
+  }, [filtered, sortMode]);
+
   var natCount = STORIES.filter(function(s) { return s.nationalSignificance >= 3; }).length;
   var entCount = STORIES.filter(function(s) { return s.isEnterprise; }).length;
   var srcCount = new Set(STORIES.map(function(s) { return s.source; })).size;
@@ -195,6 +204,21 @@ function App() {
         ),
         e("div", { className: "mt-2 space-y-2" },
           e("div", { className: "flex flex-wrap items-center gap-2" },
+            e("div", {
+              className: "inline-flex rounded-full border border-gray-300 overflow-hidden mr-1",
+              style: { flexShrink: 0 }
+            },
+              e("button", {
+                onClick: function() { setSortMode("ranked"); },
+                className: "px-3 py-1.5 text-xs font-medium transition-all " +
+                  (sortMode === "ranked" ? "bg-gray-800 text-white" : "bg-white text-gray-500 hover:bg-gray-50")
+              }, "\u2728 Claude-sorted"),
+              e("button", {
+                onClick: function() { setSortMode("recent"); },
+                className: "px-3 py-1.5 text-xs font-medium transition-all " +
+                  (sortMode === "recent" ? "bg-gray-800 text-white" : "bg-white text-gray-500 hover:bg-gray-50")
+              }, "\uD83D\uDD53 Most recent")
+            ),
             e("button", {
               onClick: function() { setShowNational(!showNational); },
               className: "px-3 py-1.5 rounded-full text-sm font-medium border transition-all " +
@@ -258,17 +282,17 @@ function App() {
       )
     ),
     e("main", { className: "max-w-4xl mx-auto px-4 py-6" },
-      filtered.length === 0
+      sorted.length === 0
         ? e("div", { className: "text-center py-16 text-gray-400" },
             e("p", { className: "text-lg" }, "No stories match your filters"),
             e("p", { className: "text-sm mt-1" }, "Try adjusting your selection"))
         : e("div", { className: "space-y-3" },
-            filtered.map(function(story) {
+            sorted.map(function(story) {
               return e(StoryCard, { key: story.id, story: story, expanded: !!expanded[story.id],
                 onToggle: function() { toggleExpand(story.id); } });
             })),
-      filtered.length > 0 ? e("div", { className: "text-center py-6 text-xs text-gray-400" },
-        "Showing " + filtered.length + " of " + STORIES.length + " stories") : null
+      sorted.length > 0 ? e("div", { className: "text-center py-6 text-xs text-gray-400" },
+        "Showing " + sorted.length + " of " + STORIES.length + " stories") : null
     ),
     e("footer", { className: "max-w-4xl mx-auto px-4 py-8 text-center border-t border-gray-100" },
       e("p", { className: "text-xs text-gray-400" }, "Bay Area Digest \u2014 Local stories, wider impact"),
