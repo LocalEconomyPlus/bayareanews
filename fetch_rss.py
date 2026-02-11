@@ -21,15 +21,15 @@ SCRIPT_DIR = Path(__file__).parent
 RSS_FEEDS = [
     # San Francisco
     ("Mission Local", "https://missionlocal.org/feed/", "San Francisco"),
-    ("SFist", "https://sfist.com/rss/rss.xml", "San Francisco"),
+    ("SFist", "https://sfist.com/rss", "San Francisco"),
     ("SF Standard", "https://sfstandard.com/feed/", "San Francisco"),
     ("48 Hills", "https://48hills.org/feed/", "San Francisco"),
-    ("El Tecolote", "https://eltecolote.org/content/feed/", "San Francisco"),
+    ("El Tecolote", "https://eltecolote.org/content/en/feed/", "San Francisco"),
     ("Gazetteer SF", "https://sf.gazetteer.co/feed/", "San Francisco"),
-    ("Coyote Media", "https://www.coyotemedia.org/feed/", "San Francisco"),
+    ("Coyote Media", "https://www.coyotemedia.org/rss/", "San Francisco"),
     ("Hoodline", "https://hoodline.com/news/san-francisco/rss", "San Francisco"),
     ("SF Bay Times", "https://sfbaytimes.com/feed/", "San Francisco"),
-    ("SF Examiner", "https://www.sfexaminer.com/feed/", "San Francisco"),
+    ("SF Examiner", "https://www.sfexaminer.com/search/?f=rss&t=article&l=25&s=start_time&sd=desc", "San Francisco"),
 
     # Alameda County
     ("Berkeleyside", "https://www.berkeleyside.org/feed/", "Alameda"),
@@ -43,7 +43,7 @@ RSS_FEEDS = [
     ("The Almanac", "https://www.almanacnews.com/feed/", "San Mateo"),
 
     # San Mateo County
-    ("SM Daily Journal", "https://www.smdailyjournal.com/search/?f=rss&t=article&l=25", "San Mateo"),
+    ("SM Daily Journal", "https://www.smdailyjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc", "San Mateo"),
 
     # Marin County
     ("Marin IJ", "https://www.marinij.com/feed/", "Marin"),
@@ -54,7 +54,7 @@ RSS_FEEDS = [
     ("Press Democrat", "https://www.pressdemocrat.com/feed/", "Sonoma"),
 
     # Napa County
-    ("Napa Valley Register", "https://napavalleyregister.com/search/?f=rss&t=article&l=25", "Napa"),
+    ("Napa Valley Register", "https://napavalleyregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc", "Napa"),
 
     # Solano County
     ("Vallejo Sun", "https://vallejosun.com/rss/", "Solano"),
@@ -72,8 +72,8 @@ RSS_FEEDS = [
     ("ABC7 News", "https://abc7news.com/feed/", "Bay Area"),
     ("KRON4", "https://kron4.com/news/app-feed/", "Bay Area"),
     ("NBC Bay Area", "https://www.nbcbayarea.com/?rss=y", "Bay Area"),
-    ("KTVU FOX 2", "https://www.ktvu.com/feeds/rss/fox-local/san-francisco-oakland-san-jose-ktvu.xml", "Bay Area"),
-    ("CBS San Francisco", "https://www.cbsnews.com/sanfrancisco/latest/rss/local", "Bay Area"),
+    # KTVU: no public RSS feed available
+    ("CBS San Francisco", "https://www.cbsnews.com/sanfrancisco/latest/rss/main", "Bay Area"),
 ]
 
 # ── County detection from content ──────────────────────────────────
@@ -134,8 +134,11 @@ def fetch_one_feed(source_name, feed_url, default_county, cutoff_days=10):
     try:
         feed = feedparser.parse(feed_url)
         if feed.bozo and not feed.entries:
-            print(f"  ⚠  {source_name}: Feed error — {getattr(feed, 'bozo_exception', 'unknown')}")
+            exc = getattr(feed, 'bozo_exception', 'unknown')
+            print(f"  ⚠  {source_name}: Feed error — {exc}")
+            print(f"       URL: {feed_url}")
             return stories
+        # Some feeds are bozo but still have entries (minor XML issues) — allow those
 
         for entry in feed.entries[:25]:
             title = entry.get("title", "").strip()
