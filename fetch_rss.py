@@ -19,7 +19,9 @@ SCRIPT_DIR = Path(__file__).parent
 # ── RSS Feed Registry ──────────────────────────────────────────────
 # Each entry: (source_name, feed_url, default_county)
 RSS_FEEDS = [
-    # San Francisco
+    # San Francisco (+ SFGate/Chronicle)
+    ("SFGate", "https://www.sfgate.com/bayarea/feed/Bay-Area-News-702.php", "San Francisco"),
+    ("SF Chronicle", "https://www.sfchronicle.com/bayarea/feed/Bay-Area-News-702.php", "San Francisco"),
     ("Mission Local", "https://missionlocal.org/feed/", "San Francisco"),
     ("SFist", "https://sfist.com/rss", "San Francisco"),
     ("SF Standard", "https://sfstandard.com/feed/", "San Francisco"),
@@ -31,9 +33,10 @@ RSS_FEEDS = [
     ("SF Bay Times", "https://sfbaytimes.com/feed/", "San Francisco"),
     ("SF Examiner", "https://www.sfexaminer.com/search/?f=rss&t=article&l=25&s=start_time&sd=desc", "San Francisco"),
 
-    # Alameda County
+    # Alameda / Contra Costa County
     ("Berkeleyside", "https://www.berkeleyside.org/feed/", "Alameda"),
     ("The Oaklandside", "https://oaklandside.org/feed/", "Alameda"),
+    ("Richmondside", "https://richmondside.org/feed/", "Contra Costa"),
     ("East Bay Times", "https://www.eastbaytimes.com/feed/", "Alameda"),
 
     # Santa Clara County
@@ -61,7 +64,11 @@ RSS_FEEDS = [
     ("Vallejo Times-Herald", "https://www.timesheraldonline.com/feed/", "Solano"),
     ("Daily Republic", "https://www.dailyrepublic.com/feed/", "Solano"),
 
+    # Santa Cruz County
+    ("Lookout Santa Cruz", "https://lookout.co/feed/", "Santa Cruz"),
+
     # Regional / Statewide
+    ("Sacramento Bee", "https://www.sacbee.com/news/politics-government/capitol-alert/index.rss", "Bay Area"),
     ("CalMatters", "https://calmatters.org/feed/", "Bay Area"),
     ("Streetsblog SF", "https://sf.streetsblog.org/feed/", "Bay Area"),
     ("KQED", "https://ww2.kqed.org/news/feed/", "Bay Area"),
@@ -87,6 +94,7 @@ COUNTY_PATTERNS = {
     "Sonoma": r"sonoma|santa rosa|petaluma|healdsburg|sebastopol|rohnert park|windsor|cloverdale",
     "Napa": r"napa|st\.? helena|calistoga|yountville|american canyon",
     "Solano": r"solano|vallejo|benicia|fairfield|vacaville|dixon|suisun",
+    "Santa Cruz": r"santa cruz|watsonville|capitola|scotts valley|aptos|soquel",
 }
 
 
