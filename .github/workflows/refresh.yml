@@ -43,4 +43,6 @@ jobs:
           git add index.html stories_latest.json digest_data.json
           # Only commit if there are changes
           git diff --staged --quiet || git commit -m "🗞 Auto-refresh: $(date -u '+%B %d, %Y %H:%M UTC')"
+          # Pull any remote changes (rebase to keep history clean), then push
+          git pull --rebase origin main
           git push
