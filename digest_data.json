@@ -542,13 +542,13 @@
       "rankScore": 3.0
     },
     {
-      "id": "b63240408809",
+      "id": "22641d563fb3",
       "title": "BART releases doomsday scenario in case sales tax doesn\u2019t pass",
-      "summary": "BART releases doomsday scenario in case sales tax doesn&#8217;t pass\n\nA proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts \u2014 including a total system shutdown \u2014 if the measure is voted down.",
-      "link": "https://oaklandside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area/",
-      "source": "The Oaklandside",
+      "summary": "A proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts \u2014 including a total system shutdown \u2014 if the measure is voted down.",
+      "link": "https://www.berkeleyside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area",
+      "source": "Berkeleyside",
       "county": "Alameda",
-      "published": "2026-02-11T00:15:00+00:00",
+      "published": "2026-02-11T00:37:09+00:00",
       "themes": [
         {
           "name": "Governance & Power",
@@ -754,12 +754,12 @@
       "rankScore": 2.0
     },
     {
-      "id": "8ff31cba67eb",
+      "id": "9aad7d10b6b7",
       "title": "House votes to slap back Trump\u2019s tariffs on Canada in rare bipartisan rebuke of White House agenda",
       "summary": "The vote the first time the House has confronted the president over a signature policy.",
-      "link": "https://www.marinij.com/2026/02/11/house-tariffs-vote/",
-      "source": "Marin IJ",
-      "county": "Marin",
+      "link": "https://www.eastbaytimes.com/2026/02/11/house-tariffs-vote/",
+      "source": "East Bay Times",
+      "county": "Alameda",
       "published": "2026-02-11T22:40:24+00:00",
       "themes": [],
       "nationalSignificance": 2,
@@ -1125,6 +1125,20 @@
       "rankScore": 2.0
     },
     {
+      "id": "472316047ec2",
+      "title": "Oakland\u2019s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
+      "summary": "Her regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
+      "link": "https://www.berkeleyside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas",
+      "source": "Berkeleyside",
+      "county": "Alameda",
+      "published": "2026-02-10T21:22:49+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 1.1,
+      "rankScore": 2.0
+    },
+    {
       "id": "7152ce28eb0c",
       "title": "9 Oakland \u2018Ghost Town\u2019 gang members sentenced for 2022 robbery spree",
       "summary": "9 Oakland \u2018Ghost Town\u2019 gang members sentenced for 2022 robbery spree\n\nFederal prosecutors say they took down one of the networks \u201cresponsible for the majority of group-driven violence\u201d in Oakland. Defense attorneys point to traumatic childhoods and PTSD as drivers of crime.",
@@ -1138,20 +1152,6 @@
           "strength": 2
         }
       ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.1,
-      "rankScore": 2.0
-    },
-    {
-      "id": "9ec021ebf76a",
-      "title": "Oakland\u2019s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
-      "summary": "Oakland&#8217;s famous tostada is back. Cenaduria Elvira is opening near Jack London Square\n\nHer regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
-      "link": "https://oaklandside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas/",
-      "source": "The Oaklandside",
-      "county": "Alameda",
-      "published": "2026-02-10T20:47:44+00:00",
-      "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 1.1,
@@ -1444,11 +1444,11 @@
       "rankScore": 1.0
     },
     {
-      "id": "3da34a27c646",
+      "id": "7eda6896d2c2",
       "title": "Menlo Park unveils timeline for housing on downtown parking lots",
       "summary": "The November ballot could stall the project if voters require approval for parking cuts",
-      "link": "https://www.mercurynews.com/2026/02/11/menlo-park-council-downtown-housing-timeline-parking-ballot-measure/",
-      "source": "Mercury News",
+      "link": "https://www.eastbaytimes.com/2026/02/11/menlo-park-council-downtown-housing-timeline-parking-ballot-measure/",
+      "source": "East Bay Times",
       "county": "San Mateo",
       "published": "2026-02-11T23:31:59+00:00",
       "themes": [
@@ -1524,6 +1524,52 @@
         {
           "name": "Governance & Power",
           "strength": 3
+        }
+      ],
+      "nationalSignificance": 1,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 1.0
+    },
+    {
+      "id": "3766ed7251e8",
+      "title": "Daily Digest: Teachers union strike closes S.F. schools, Uber corners Turkish delivery market",
+      "summary": "Uber is expanding its food delivery empire with a $335 million acquisition in Turkey, building on an earlier purchase as it works to dominate the market in that country. San Francisco public schoolteachers walked off the job Monday for the first time in nearly five decades as the union and financially struggling district remain at odds over pay raises and benefits. Workday's chief executive is leaving the company after a difficult stretch that included layoffs and a declining stock price, with a",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/sfbt-digest-monday-sfusd-strike-uber-turkey.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:43:17+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 1,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 1.0
+    },
+    {
+      "id": "8bb8c257f92a",
+      "title": "Daily Digest: Salesforce employees fume at Benioff joke, Y Combinator CEO Garry Tan starts nonprofit",
+      "summary": "Y Combinator CEO Garry Tan launches nonprofit focused on voter education and pro-growth policies Salesforce employees circulate internal letter after Benioff's ICE comments at company event spark backlash Half of xAI's original co-founders have departed amid reports of internal turmoil at Musk's startup",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/sfbt-digest-wednesday-salesforce-benioff-garry-tan.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:40:32+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 2
         }
       ],
       "nationalSignificance": 1,
@@ -1842,29 +1888,6 @@
       "rankScore": 1.0
     },
     {
-      "id": "3766ed7251e8",
-      "title": "Daily Digest: Teachers union strike closes S.F. schools, Uber corners Turkish delivery market",
-      "summary": "Uber is expanding its food delivery empire with a $335 million acquisition in Turkey, building on an earlier purchase as it works to dominate the market in that country. San Francisco public schoolteachers walked off the job Monday for the first time in nearly five decades as the union and financially struggling district remain at odds over pay raises and benefits. Workday's chief executive is leaving the company after a difficult stretch that included layoffs and a declining stock price, with a",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/sfbt-digest-monday-sfusd-strike-uber-turkey.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-09T21:50:22+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 2
-        },
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": 0.95
-    },
-    {
       "id": "028c87bd99d8",
       "title": "\u2018We\u2019re not criminals\u2019: Hot dog vendors say S.F. is pushing them out for Super Bowl",
       "summary": "During Super Bowl week, street food vendors say ramped-up enforcement pushed them from tourist areas, and many hope to earn income during the Big Game in Santa Clara.\nThe post \u2018We\u2019re not criminals\u2019: Hot dog vendors say S.F. is pushing them out for Super Bowl appeared first on El Tecolote.",
@@ -1877,43 +1900,6 @@
       "isEnterprise": false,
       "ageDays": 4.1,
       "rankScore": 0.93
-    },
-    {
-      "id": "9ac1d82990bc",
-      "title": "If third pitch is the charm, West Berkeley site will transform into affordable workforce housing",
-      "summary": "A Los Altos developer seeks to build 94 affordable apartments on a West Berkeley commercial site using streamlined state housing laws.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/berkeley-workforce-housing-2147-san-pablo.html",
-      "source": "SF Business Journal",
-      "county": "Alameda",
-      "published": "2026-02-09T14:27:07+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 2
-        },
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 2.4,
-      "rankScore": 0.8
-    },
-    {
-      "id": "b6d694843802",
-      "title": "Before Super Bowl LX, the Madden Bowl will take over Chase Center for its biggest party ever",
-      "summary": "EA Sports leverages its 250 million players to build the next generation of sports fans through its week-long Madden Bowl activation during Super Bowl week.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/06/madden-bowl-ea-sports-videogames-concert-streaming.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-06T23:57:35+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 5.0,
-      "rankScore": 0.49
     },
     {
       "id": "6a7de9ec0203",
@@ -2161,12 +2147,12 @@
       "rankScore": 0.0
     },
     {
-      "id": "69b8e4b442fd",
+      "id": "65f298398714",
       "title": "Bay Area weather: How many more days is it going to rain?",
       "summary": "Latest showers are first significant rain in five weeks across Northern California, and more is on tap",
-      "link": "https://www.mercurynews.com/2026/02/11/bay-area-weather-how-many-more-days-is-it-going-to-rain/",
-      "source": "Mercury News",
-      "county": "Bay Area",
+      "link": "https://www.eastbaytimes.com/2026/02/11/bay-area-weather-how-many-more-days-is-it-going-to-rain/",
+      "source": "East Bay Times",
+      "county": "Alameda",
       "published": "2026-02-11T23:35:23+00:00",
       "themes": [],
       "nationalSignificance": 0,
@@ -2250,11 +2236,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "27fac8fadc97",
+      "id": "622336baf363",
       "title": "Sharks center saw his idols win Olympic gold 20 years ago. Can he do the same?",
       "summary": "San Jose Sharks center Alex Wennberg has important role on Sweden's Olympic team: 'He can kind of do it all'",
-      "link": "https://www.mercurynews.com/2026/02/11/sweden-olympics-milan-cortina-hockey-san-jose-sharks-macklin-celebrini/",
-      "source": "Mercury News",
+      "link": "https://www.eastbaytimes.com/2026/02/11/sweden-olympics-milan-cortina-hockey-san-jose-sharks-macklin-celebrini/",
+      "source": "East Bay Times",
       "county": "Santa Clara",
       "published": "2026-02-11T23:22:12+00:00",
       "themes": [],
@@ -2311,11 +2297,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "651c901989cb",
+      "id": "378221ea7dfc",
       "title": "Mendocino Farms opens in Dublin, plans 2 more Bay Area restaurants in 2026",
       "summary": "On Feb. 24, seasonal menu with smoked pork burnt ends and two new salads will make its debut",
-      "link": "https://www.mercurynews.com/2026/02/11/mendocino-farms-opens-in-dublin-plans-2-more-bay-area-restaurants-in-2026/",
-      "source": "Mercury News",
+      "link": "https://www.eastbaytimes.com/2026/02/11/mendocino-farms-opens-in-dublin-plans-2-more-bay-area-restaurants-in-2026/",
+      "source": "East Bay Times",
       "county": "Alameda",
       "published": "2026-02-11T23:18:28+00:00",
       "themes": [],
@@ -2424,12 +2410,12 @@
       "rankScore": 0.0
     },
     {
-      "id": "699d810f1011",
+      "id": "722ab413ce5f",
       "title": "James Van Der Beek\u2019s cancer battle left family broke, widow says",
       "summary": "Friends of the 'Dawson's Creek' star have launched a $550,000 GoFundMe campaign to help his wife and six children stay in their home 'at this incredibly difficult time.'",
-      "link": "https://www.marinij.com/2026/02/11/james-van-der-beek-cancer-family-broke/",
-      "source": "Marin IJ",
-      "county": "Marin",
+      "link": "https://www.eastbaytimes.com/2026/02/11/james-van-der-beek-cancer-family-broke/",
+      "source": "East Bay Times",
+      "county": "Alameda",
       "published": "2026-02-11T23:01:09+00:00",
       "themes": [],
       "nationalSignificance": 0,
@@ -2480,11 +2466,25 @@
       "rankScore": 0.0
     },
     {
-      "id": "4d1396bfd6b1",
+      "id": "a7298cec2f65",
+      "title": "Doppio Zero owners chart expansion into East Bay and beyond for lauded Italian restaurant",
+      "summary": "Doppio Zero's founder plans to expand the acclaimed Neapolitan pizzeria to eight or 10 locations across California and potentially other states, starting with the East Bay.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/doppio-zero-italian-restaurant-new-open-socal-az.html",
+      "source": "SF Business Journal",
+      "county": "Alameda",
+      "published": "2026-02-11T22:34:15+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "7015a68b782a",
       "title": "\u2018Never know\u2019: SF Giants\u2019 Eldridge starts shagging outfield fly balls but focus remains at first base",
       "summary": "Eldridge played 26 games in right field in 2023 before converting to a full-time first baseman",
-      "link": "https://www.mercurynews.com/2026/02/11/never-know-sf-giants-eldridge-starts-shagging-outfield-fly-balls-but-focus-remains-at-first-base/",
-      "source": "Mercury News",
+      "link": "https://www.marinij.com/2026/02/11/never-know-sf-giants-eldridge-starts-shagging-outfield-fly-balls-but-focus-remains-at-first-base/",
+      "source": "Marin IJ",
       "county": "San Francisco",
       "published": "2026-02-11T22:32:33+00:00",
       "themes": [],
@@ -2551,6 +2551,25 @@
       "themes": [
         {
           "name": "Climate & Environment",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "e988d7df6bfc",
+      "title": "San Francisco residents are happier with city but worry they can\u2019t afford to stay",
+      "summary": "San Francisco voters express growing optimism about the city's direction, though affordability concerns surge to a five-year high, according to the Chamber's latest poll.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/citybeat-poll-affordability-housing-jobs-crime.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T22:16:58+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
           "strength": 1
         }
       ],
@@ -2628,6 +2647,20 @@
       "source": "Hoodline",
       "county": "San Francisco",
       "published": "2026-02-11T22:04:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "280a98685867",
+      "title": "After Wells Fargo committed to East Bay office campus, it sells at a major discount",
+      "summary": "AXS Opportunity Fund acquired the distressed Concord office campus for $42.25 million, a 71% discount from its 2018 price, bolstered by Wells Fargo's lease renewal.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/concord-tech-center-axs-opportunity-fund-wells.html",
+      "source": "SF Business Journal",
+      "county": "Alameda",
+      "published": "2026-02-11T22:03:24+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -2715,6 +2748,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "fbca52b2c869",
+      "title": "As S.F. recovers, 'everything is on the table' for Flower Mart, Kilroy says",
+      "summary": "Kilroy Realty is weighing residential, office and mixed-use options for its San Francisco Flower Mart development as the city's real estate market stabilizes.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/kilroy-flower-mart-residential-office.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:38:21+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
       "id": "b825e8471ee7",
       "title": "Valeria Chomsky admits \u2018serious errors in judgment\u2019 over Jeffrey Epstein ties",
       "summary": "She says they recognize the gravity of Epstein\u2019s crimes and stand with victims.",
@@ -2771,6 +2823,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "ac4c69fc7257",
+      "title": "San Diego startup moves headquarters to San Francisco while seeking 'access to world-class talent'",
+      "summary": "Drata, an AI-powered compliance startup, leases 15,000 square feet in San Francisco as it scales operations across five global offices.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/san-diego-startup-drata-hq-sf.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:15:36+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
       "id": "d7685b14c6bb",
       "title": "\u2018Pride in Panels\u2019 fest inks in queer cartoon brilliance",
       "summary": "Biennial showcase highlights fierce DIY spirit in time of attacks\u2014but may be unofficial requiem for CCA's pioneering Comics program. \nThe post &#8216;Pride in Panels&#8217; fest inks in queer cartoon brilliance appeared first on 48 hills.",
@@ -2813,20 +2884,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "7f6758e88c4d",
-      "title": "Early-Bird Gray Whales Crash San Francisco Bay Commute",
-      "summary": "Gray whales have been spotted in San Francisco Bay earlier than usual; scientists are studying why and training mariners to reduce ship strikes.",
-      "link": "https://hoodline.com/2026/02/early-bird-gray-whales-crash-san-francisco-bay-commute/",
-      "source": "Hoodline",
-      "county": "San Francisco",
-      "published": "2026-02-11T21:00:16+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
       "id": "270bda74b61a",
       "title": "Developer applies for Palo Alto housing project despite lawsuit",
       "summary": "Undeterred by an ongoing legal challenge, the nonprofit Alta Housing last week filed a formal application to construct an affordable-housing complex with 72 apartments on a downtown parking lot near the corner of Lytton Avenue and Kipling Street. The six-story project on what\u2019s\u00a0known as \u201cLot T\u201d\u00a0is the first to take advantage of the city\u2019s new...\nThe post Developer applies for Palo Alto housing project despite lawsuit appeared first on San Jos\u00e9 Spotlight.",
@@ -2840,6 +2897,20 @@
           "strength": 2
         }
       ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "7f6758e88c4d",
+      "title": "Early-Bird Gray Whales Crash San Francisco Bay Commute",
+      "summary": "Gray whales have been spotted in San Francisco Bay earlier than usual; scientists are studying why and training mariners to reduce ship strikes.",
+      "link": "https://hoodline.com/2026/02/early-bird-gray-whales-crash-san-francisco-bay-commute/",
+      "source": "Hoodline",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:00:16+00:00",
+      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.1,
@@ -2976,6 +3047,20 @@
           "strength": 1
         }
       ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "a7aabec57c38",
+      "title": "Celine Halioua went to the dogs, and just dug up $100 million for her company's canine lifespan drug",
+      "summary": "Loyal raised $100 million to bring its lifespan-extending drug for senior dogs to market, with its LOY-002 potentially becoming the first FDA-approved drug to extend lifespan in any species.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/dogs-aging-drug-loyal-celine-halioua-laura-deming.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T20:40:17+00:00",
+      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.1,
@@ -3251,11 +3336,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "a8474da842d6",
+      "id": "91719131c561",
       "title": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay",
-      "summary": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay\n\nA running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-      "link": "https://oaklandside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening/",
-      "source": "The Oaklandside",
+      "summary": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+      "link": "https://www.berkeleyside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening",
+      "source": "Berkeleyside",
       "county": "Alameda",
       "published": "2026-02-11T20:00:00+00:00",
       "themes": [],
@@ -3328,6 +3413,20 @@
       "source": "Mission Local",
       "county": "San Francisco",
       "published": "2026-02-11T19:42:17+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9c2daefa1ad0",
+      "title": "How Valentine's Day and goats are part of the plan for downtown San Francisco's recovery",
+      "summary": "The Downtown Development Corp. is funding art installations and community events to transform San Francisco's downtown into a vibrant destination beyond office hours.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/east-cut-valentines-downtown-development-corp.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T19:41:31+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -4022,20 +4121,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "9c2daefa1ad0",
-      "title": "How Valentine's Day and goats are part of the plan for downtown San Francisco's recovery",
-      "summary": "The Downtown Development Corp. is funding art installations and community events to transform San Francisco's downtown into a vibrant destination beyond office hours.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/east-cut-valentines-downtown-development-corp.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-11T14:18:53+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.4,
-      "rankScore": 0.0
-    },
-    {
       "id": "0d3c3ac36765",
       "title": "Feather Alert issued for missing woman, 23, last seen in SF",
       "summary": "SAN FRANCISCO (KRON) \u2014 A Feather Alert was activated by the California Highway Patrol for a missing woman last seen in San Francisco in late January. Mi-Kayla Ann French, 23, is described by authorities as 5 feet 6 inches tall and 180 pounds. She has brown hair and hazel eyes. French was last seen near [\u2026]",
@@ -4043,6 +4128,20 @@
       "source": "KRON4",
       "county": "San Francisco",
       "published": "2026-02-11T14:05:21+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b491ff2068c5",
+      "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
+      "summary": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
+      "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
+      "source": "Berkeleyside",
+      "county": "Alameda",
+      "published": "2026-02-11T14:00:00+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -4117,20 +4216,6 @@
       "link": "https://sfstandard.com/2026/02/11/english-tudor-2500-divisadero/",
       "source": "SF Standard",
       "county": "San Francisco",
-      "published": "2026-02-11T14:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.4,
-      "rankScore": 0.0
-    },
-    {
-      "id": "b491ff2068c5",
-      "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
-      "summary": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
-      "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
-      "source": "Berkeleyside",
-      "county": "Alameda",
       "published": "2026-02-11T14:00:00+00:00",
       "themes": [],
       "nationalSignificance": 0,
@@ -5602,7 +5687,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": -0.0
+      "rankScore": -0.01
     },
     {
       "id": "240ed89171fd",
@@ -5695,30 +5780,11 @@
       "rankScore": -0.02
     },
     {
-      "id": "eaad2a0f67e1",
-      "title": "Downtown S.F.'s Metreon mall acquired by TMG Partners, Bridges Capital",
-      "summary": "TMG Partners and Bridges Capital acquire the 320,000-square-foot Metreon mall in a move signaling confidence in San Francisco's downtown recovery.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/metreon-mall-sold-tmg-partners-skylight.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-09T22:22:16+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": -0.04
-    },
-    {
-      "id": "1ff52bc2e63f",
+      "id": "5eee26844de4",
       "title": "7 East Bay desserts to share with your sweetie this Valentine\u2019s Day",
-      "summary": "7 East Bay desserts to share with your sweetie this Valentine\u2019s Day\n\nNosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
-      "link": "https://oaklandside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants/",
-      "source": "The Oaklandside",
+      "summary": "Nosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
+      "link": "https://www.berkeleyside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants",
+      "source": "Berkeleyside",
       "county": "Alameda",
       "published": "2026-02-09T21:00:00+00:00",
       "themes": [],
@@ -5740,20 +5806,6 @@
       "isEnterprise": false,
       "ageDays": 2.1,
       "rankScore": -0.07
-    },
-    {
-      "id": "4afb696293b8",
-      "title": "'Empty to Electric': Tenderloin to get its own version of Vacant to Vibrant with Chris Larsen donation",
-      "summary": "A $5 million investment from Ripple co-founder Chris Larsen will fund storefront activation and street improvements along a two-block stretch of Larkin Street in San Francisco's Tenderloin neighborhood.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/empty-electric-larsen-larkin.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-09T20:32:55+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": -0.08
     },
     {
       "id": "e887e01a311e",
@@ -5787,25 +5839,6 @@
       "isEnterprise": false,
       "ageDays": 2.2,
       "rankScore": -0.09
-    },
-    {
-      "id": "0ff1daaa344e",
-      "title": "Workday CEO replaced by co-founder amid layoffs: 'One of the most pivotal moments in our history'",
-      "summary": "Aneel Bhusri returns as CEO of the Pleasanton software company amid job cuts and a strategic pivot toward artificial intelligence.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/workday-ceo-aneel-bhusri-carl-eschenbach.html",
-      "source": "SF Business Journal",
-      "county": "Alameda",
-      "published": "2026-02-09T19:23:48+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": -0.1
     },
     {
       "id": "c98e007915fe",
@@ -5930,39 +5963,6 @@
       "rankScore": -0.17
     },
     {
-      "id": "84e4e69591f3",
-      "title": "Grocery Outlet eyes Temescal's vacant Walgreens location, if parking issues can be solved",
-      "summary": "Grocery Outlet is hoping to fill a long-vacant Walgreens space in Oakland's Temescal neighborhood, pending a parking agreement with the city.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/temescal-grocery-outlet-walgreens-oakland.html",
-      "source": "SF Business Journal",
-      "county": "Alameda",
-      "published": "2026-02-09T14:37:40+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.4,
-      "rankScore": -0.2
-    },
-    {
-      "id": "47f0afc5e224",
-      "title": "S.F. apartment towers overlooking Golden Gate Park sell for more than $100M",
-      "summary": "AvalonBay's $105 million sale of the San Francisco high-rise reflects strong rental demand as market rebounds with 13% annual rent growth.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/09/sunset-towers-sale-avalonbay-bridge-friedkin.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-09T14:25:43+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.4,
-      "rankScore": -0.2
-    },
-    {
       "id": "fb71a45b2580",
       "title": "That\u2019s gotta hurt",
       "summary": "At Shotwell and 17th Streets. Photo by Robert Weiner. \nThat&#8217;s gotta hurt",
@@ -5993,7 +5993,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.5,
-      "rankScore": -0.25
+      "rankScore": -0.26
     },
     {
       "id": "5fa2df437cbc",
