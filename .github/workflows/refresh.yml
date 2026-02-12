@@ -40,9 +40,10 @@ jobs:
         run: |
           git config user.name "Bay Area Digest Bot"
           git config user.email "actions@github.com"
+          # Fetch latest remote state and reset to it (keeps our generated files)
+          git fetch origin
+          git reset --soft origin/main
+          # Now stage and commit on top of latest remote
           git add index.html stories_latest.json digest_data.json
-          # Only commit if there are changes
           git diff --staged --quiet || git commit -m "🗞 Auto-refresh: $(date -u '+%B %d, %Y %H:%M UTC')"
-          # Pull any remote changes (rebase to keep history clean), then push
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main
