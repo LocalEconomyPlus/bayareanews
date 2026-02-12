@@ -134,8 +134,8 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": true,
-      "ageDays": 2.0,
-      "rankScore": 4.98
+      "ageDays": 2.1,
+      "rankScore": 4.97
     },
     {
       "id": "3f222f292f54",
@@ -219,7 +219,7 @@
       "themes": [],
       "nationalSignificance": 4,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.1,
       "rankScore": 4.0
     },
     {
@@ -291,7 +291,7 @@
       "nationalSignificance": 4,
       "isEnterprise": false,
       "ageDays": 2.8,
-      "rankScore": 3.62
+      "rankScore": 3.61
     },
     {
       "id": "11fa17bcf08c",
@@ -374,7 +374,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 3.0
     },
     {
@@ -416,7 +416,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 3.0
     },
     {
@@ -435,7 +435,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 0.4,
       "rankScore": 3.0
     },
     {
@@ -454,7 +454,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 0.4,
       "rankScore": 3.0
     },
     {
@@ -519,7 +519,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 0.8,
       "rankScore": 3.0
     },
     {
@@ -542,13 +542,13 @@
       "rankScore": 3.0
     },
     {
-      "id": "22641d563fb3",
+      "id": "b63240408809",
       "title": "BART releases doomsday scenario in case sales tax doesn\u2019t pass",
-      "summary": "A proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts \u2014 including a total system shutdown \u2014 if the measure is voted down.",
-      "link": "https://www.berkeleyside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area",
-      "source": "Berkeleyside",
+      "summary": "BART releases doomsday scenario in case sales tax doesn&#8217;t pass\n\nA proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts \u2014 including a total system shutdown \u2014 if the measure is voted down.",
+      "link": "https://oaklandside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area/",
+      "source": "The Oaklandside",
       "county": "Alameda",
-      "published": "2026-02-11T00:37:09+00:00",
+      "published": "2026-02-11T00:15:00+00:00",
       "themes": [
         {
           "name": "Governance & Power",
@@ -661,7 +661,7 @@
       "nationalSignificance": 3,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": 2.9
+      "rankScore": 2.89
     },
     {
       "id": "0f3684706046",
@@ -680,7 +680,64 @@
       "nationalSignificance": 5,
       "isEnterprise": false,
       "ageDays": 7.2,
-      "rankScore": 2.41
+      "rankScore": 2.4
+    },
+    {
+      "id": "edde2b90db99",
+      "title": "Who\u2019s funding Mayor Mahan\u2019s gubernatorial campaign? New filings point to tech titans and billionaires",
+      "summary": "New campaign filings reveal that $2.1 million of Mahan's recent fundraising haul came from 47 donors with deep pockets.",
+      "link": "https://www.eastbaytimes.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/",
+      "source": "East Bay Times",
+      "county": "Alameda",
+      "published": "2026-02-12T00:30:20+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": true,
+      "ageDays": 0.0,
+      "rankScore": 2.0
+    },
+    {
+      "id": "9ac435c7c07f",
+      "title": "Federal budget cuts lead this East Bay county to consider a new tax to fill the gaps",
+      "summary": "If passed with a simple majority, it would raise the county\u2019s current rate of 8.75%.",
+      "link": "https://www.eastbaytimes.com/2026/02/11/federal-budget-cuts-lead-this-east-bay-county-to-consider-a-new-tax-to-fill-the-gaps/",
+      "source": "East Bay Times",
+      "county": "Alameda",
+      "published": "2026-02-12T00:24:14+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 2.0
+    },
+    {
+      "id": "731402954c80",
+      "title": "Gov. Newsom approves $90M in emergency funds for Planned Parenthood clinics",
+      "summary": "California is committed to funding reproductive health care, pledging money to Planned Parenthood after federal funds were stripped from its clinics.",
+      "link": "https://abc30.com/post/gov-newsom-approves-90m-emergency-funds-planned-parenthood-clinics/18587909/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-02-12T00:20:49+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 2.0
     },
     {
       "id": "d11733c85532",
@@ -716,25 +773,6 @@
       "rankScore": 2.0
     },
     {
-      "id": "58c5cdface34",
-      "title": "Protesters in multiple states press Target to oppose the immigration crackdown in Minnesota",
-      "summary": "ICE Out Minnesota called for sit-ins and other demonstrations to continue for a full week.",
-      "link": "https://www.eastbaytimes.com/2026/02/11/target-protests-immigration/",
-      "source": "East Bay Times",
-      "county": "Alameda",
-      "published": "2026-02-11T22:49:58+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 2.0
-    },
-    {
       "id": "e17991a5d9ba",
       "title": "San Jose school vice principal arrested in child sex sting",
       "summary": "(KRON) \u2014 During the week before Super Bowl 60, the San Jose Police Department and FBI conducted an undercover sting operation to identify, locate, and apprehend adults who were seeking minors online to engage in a lewd or lascivious acts, and sexually exploit children. Undercover officers posed as juveniles in online chats. One man busted [\u2026]",
@@ -754,12 +792,12 @@
       "rankScore": 2.0
     },
     {
-      "id": "9aad7d10b6b7",
+      "id": "8ff31cba67eb",
       "title": "House votes to slap back Trump\u2019s tariffs on Canada in rare bipartisan rebuke of White House agenda",
       "summary": "The vote the first time the House has confronted the president over a signature policy.",
-      "link": "https://www.eastbaytimes.com/2026/02/11/house-tariffs-vote/",
-      "source": "East Bay Times",
-      "county": "Alameda",
+      "link": "https://www.marinij.com/2026/02/11/house-tariffs-vote/",
+      "source": "Marin IJ",
+      "county": "Marin",
       "published": "2026-02-11T22:40:24+00:00",
       "themes": [],
       "nationalSignificance": 2,
@@ -778,7 +816,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 2.0
     },
     {
@@ -797,7 +835,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 2.0
     },
     {
@@ -811,7 +849,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 2.0
     },
     {
@@ -1027,7 +1065,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.6,
+      "ageDays": 0.7,
       "rankScore": 2.0
     },
     {
@@ -1102,7 +1140,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.1,
       "rankScore": 2.0
     },
     {
@@ -1125,20 +1163,6 @@
       "rankScore": 2.0
     },
     {
-      "id": "472316047ec2",
-      "title": "Oakland\u2019s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
-      "summary": "Her regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
-      "link": "https://www.berkeleyside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas",
-      "source": "Berkeleyside",
-      "county": "Alameda",
-      "published": "2026-02-10T21:22:49+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.1,
-      "rankScore": 2.0
-    },
-    {
       "id": "7152ce28eb0c",
       "title": "9 Oakland \u2018Ghost Town\u2019 gang members sentenced for 2022 robbery spree",
       "summary": "9 Oakland \u2018Ghost Town\u2019 gang members sentenced for 2022 robbery spree\n\nFederal prosecutors say they took down one of the networks \u201cresponsible for the majority of group-driven violence\u201d in Oakland. Defense attorneys point to traumatic childhoods and PTSD as drivers of crime.",
@@ -1155,6 +1179,20 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 1.1,
+      "rankScore": 2.0
+    },
+    {
+      "id": "9ec021ebf76a",
+      "title": "Oakland\u2019s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
+      "summary": "Oakland&#8217;s famous tostada is back. Cenaduria Elvira is opening near Jack London Square\n\nHer regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
+      "link": "https://oaklandside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas/",
+      "source": "The Oaklandside",
+      "county": "Alameda",
+      "published": "2026-02-10T20:47:44+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 1.2,
       "rankScore": 2.0
     },
     {
@@ -1201,7 +1239,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.3,
+      "ageDays": 1.4,
       "rankScore": 2.0
     },
     {
@@ -1286,7 +1324,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.9,
+      "ageDays": 2.0,
       "rankScore": 2.0
     },
     {
@@ -1325,7 +1363,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": 1.91
+      "rankScore": 1.9
     },
     {
       "id": "c262d42c335d",
@@ -1344,7 +1382,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": 1.91
+      "rankScore": 1.9
     },
     {
       "id": "f268c5903e7e",
@@ -1358,7 +1396,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": 1.87
+      "rankScore": 1.86
     },
     {
       "id": "f5bfc301f986",
@@ -1490,29 +1528,6 @@
       "rankScore": 1.0
     },
     {
-      "id": "f7672e00a0ba",
-      "title": "Neighbors lose fight to block 41-unit housing project in St. Helena",
-      "summary": "The St. Helena City Council approved a tentative map for the Spring Grove project at the end of a three-hour debate Tuesday, Feb. 10.",
-      "link": "https://www.pressdemocrat.com/2026/02/11/spring-grove-st-helena-housing-project-opposition/",
-      "source": "Press Democrat",
-      "county": "Napa",
-      "published": "2026-02-11T23:25:45+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        },
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 1.0
-    },
-    {
       "id": "9667c7095c33",
       "title": "San Francisco Teachers Strike Day 3: City\u2019s Schools Stay Closed as Negotiations Drag On",
       "summary": "The teachers union said it\u2019s still waiting on proposals that meet demands around health care and special education staffing. \u201cWe want to get this done,\u201d Superintendent Maria Su said Wednesday.",
@@ -1620,7 +1635,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 1.0
     },
     {
@@ -1708,7 +1723,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 1.0
     },
     {
@@ -1819,7 +1834,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.1,
       "rankScore": 1.0
     },
     {
@@ -1898,8 +1913,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 4.1,
-      "rankScore": 0.93
+      "ageDays": 4.2,
+      "rankScore": 0.92
     },
     {
       "id": "6a7de9ec0203",
@@ -1912,8 +1927,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 5.2,
-      "rankScore": 0.38
+      "ageDays": 5.3,
+      "rankScore": 0.37
     },
     {
       "id": "a447d121d2be",
@@ -1926,8 +1941,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 5.7,
-      "rankScore": 0.13
+      "ageDays": 5.8,
+      "rankScore": 0.12
     },
     {
       "id": "c47476a27658",
@@ -1946,7 +1961,153 @@
       "nationalSignificance": 3,
       "isEnterprise": true,
       "ageDays": 7.9,
-      "rankScore": 0.04
+      "rankScore": 0.03
+    },
+    {
+      "id": "8d104e4cf345",
+      "title": "Tras sesi\u00f3n de estudio, consejo de Santa Rosa ordena al personal desarrollar pol\u00edtica para restringir acceso y cooperaci\u00f3n con ICE",
+      "summary": "Las preguntas sobre c\u00f3mo la ciudad restringir\u00eda el acceso de ICE a los espacios p\u00fablicos y otras propiedades de la ciudad dominaron gran parte de la conversaci\u00f3n el martes mientras la comunidad presionaba para que la ciudad actuara.",
+      "link": "https://www.pressdemocrat.com/2026/02/11/tras-sesion-de-estudio-consejo-de-santa-rosa-ordena-al-personal-desarrollar-politica-para-restringir-acceso-y-cooperacion-con-ice/",
+      "source": "Press Democrat",
+      "county": "Sonoma",
+      "published": "2026-02-12T00:38:03+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b279a5734cd4",
+      "title": "WATCH LIVE: SFUSD officials give update on 3rd day of teachers' strike",
+      "summary": "SFUSD's 120 schools remained closed for a third day Wednesday, after about 6,000 public schoolteachers went on strike over higher wages, health benefits, and more resources for students with special needs.",
+      "link": "https://abc7news.com/post/san-francisco-unified-schools-remain-closed-due-historic-teachers-strike-pay-health-care/18586058/",
+      "source": "ABC7 News",
+      "county": "San Francisco",
+      "published": "2026-02-12T00:35:15+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "6bc602a9e4a1",
+      "title": "In Your Town for Feb. 12, 2026",
+      "summary": "News briefs from across Marin County.",
+      "link": "https://www.marinij.com/2026/02/11/in-your-town-for-feb-12-2026/",
+      "source": "Marin IJ",
+      "county": "Marin",
+      "published": "2026-02-12T00:29:34+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "1c2c8aba5f21",
+      "title": "San Francisco parents scramble as teachers strike leaves 50,000 students out of school",
+      "summary": "SAN FRANCISCO (AP) \u2014 Connor Haught has been juggling virtual work meetings and arts and crafts projects for his two daughters as his family tries to navigate a teachers strike in San Francisco with no end date in sight. Haught\u2019s job in the construction industry allows him to work from home but, like many parents [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/ap-san-francisco-parents-scramble-as-teachers-strike-leaves-50000-students-out-of-school/",
+      "source": "KRON4",
+      "county": "San Francisco",
+      "published": "2026-02-12T00:28:47+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9781d3c7967e",
+      "title": "Member of Trump\u2019s Religious Liberty Commission ousted in dispute over antisemitism",
+      "summary": "The ousted member, Carrie Prejean Boller, had defended commentator Candace Owens.",
+      "link": "https://www.marinij.com/2026/02/11/religious-liberty-commission/",
+      "source": "Marin IJ",
+      "county": "Marin",
+      "published": "2026-02-12T00:28:02+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "0d7466c69809",
+      "title": "Video: Mount Diablo Has One of the Most Expansive Views In the West, and More Fun Facts About the Bay Area",
+      "summary": "Did you know that the Bay Area was created out of something called a drowned river valley? Do you know the history of how Treasure Island was created out of nothing in the 1930s? A fun new video explains this and more.",
+      "link": "https://sfist.com/2026/02/11/video-mount-diablo-has-one-of-the-most-expansive-views-in-the-us-and-more-fun-facts-about-the-bay-area/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-12T00:27:04+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "92defa00ac11",
+      "title": "Sonoma County volunteer opportunities",
+      "summary": "Educate the community on Alzheimer's disease, help repair light fixtures and other volunteer opportunities in Sonoma County.",
+      "link": "https://www.pressdemocrat.com/2026/02/11/sonoma-county-volunteer-opportunities-238/",
+      "source": "Press Democrat",
+      "county": "Sonoma",
+      "published": "2026-02-12T00:18:34+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "80f6fbfd02e6",
+      "title": "House GOP pushes strict proof-of-citizenship requirement for voters ahead of midterm elections",
+      "summary": "The bill, would require Americans to prove they are citizens when they register to vote, mostly through a valid U.S. passport or birth certificate.",
+      "link": "https://abc7.com/post/house-gop-pushes-strict-proof-citizenship-requirement-voters-ahead-midterm-elections/18587961/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-02-12T00:16:41+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "2b1838539c97",
+      "title": "Airspace closure followed spat over drone-related tests and party balloon shoot-down, sources say",
+      "summary": "Pentagon officials had undertaken planning to use military technology near Fort Bliss, in El Paso, to practice downing drones.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/airspace-closure-followed-spat-over-drone-related-tests-and-party-balloon-shoot-down-sources-say/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-12T00:16:04+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
     },
     {
       "id": "e1a11bae57ff",
@@ -2232,7 +2393,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2246,26 +2407,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "4aabc4097462",
-      "title": "One missing persons cold case resolved in latest Santa Rosa Police Department social media push",
-      "summary": "The five-week \u201cMissing Person Monday\u201d campaign, in which police shared the photos and last known whereabouts of people that they consider missing, kicked off Jan. 5.",
-      "link": "https://www.pressdemocrat.com/2026/02/11/one-missing-persons-cold-case-resolved-in-latest-santa-rosa-police-department-social-media-push/",
-      "source": "Press Democrat",
-      "county": "Sonoma",
-      "published": "2026-02-11T23:20:35+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2279,7 +2421,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2293,7 +2435,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2307,7 +2449,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2326,7 +2468,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2340,7 +2482,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2354,7 +2496,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2373,7 +2515,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2392,7 +2534,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -2522,8 +2664,8 @@
       "rankScore": 0.0
     },
     {
-      "id": "8e3a0fe428ac",
-      "title": "District Blames Teachers' Union For Leaving the Bargaining Table Early Tuesday Night",
+      "id": "acfea5548068",
+      "title": "District Blames SF Teachers' Union For Leaving the Bargaining Table Early Tuesday Night",
       "summary": "There is plenty of finger-pointing going on with the SF teachers' strike, but what seems clear is that the union may be sensing their upper hand at this point, and a resolution before Thursday seems unlikely.",
       "link": "https://sfist.com/2026/02/11/district-blames-teachers-union-for-leaving-the-bargaining/",
       "source": "SFist",
@@ -2767,27 +2909,13 @@
       "rankScore": 0.0
     },
     {
-      "id": "b825e8471ee7",
+      "id": "0f25318170e1",
       "title": "Valeria Chomsky admits \u2018serious errors in judgment\u2019 over Jeffrey Epstein ties",
       "summary": "She says they recognize the gravity of Epstein\u2019s crimes and stand with victims.",
-      "link": "https://www.marinij.com/2026/02/11/epstein-noam-chomsky/",
-      "source": "Marin IJ",
-      "county": "Marin",
+      "link": "https://www.timesheraldonline.com/2026/02/11/epstein-noam-chomsky/",
+      "source": "Vallejo Times-Herald",
+      "county": "Solano",
       "published": "2026-02-11T21:38:14+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
-      "id": "b26a745d956a",
-      "title": "LA28 board backs Casey Wasserman after Epstein files stir scrutiny",
-      "summary": "Justice Department documents show Wasserman exchanged flirtatious emails in 2003 with Ghislaine Maxwell.",
-      "link": "https://www.marinij.com/2026/02/11/epstein-wasserman/",
-      "source": "Marin IJ",
-      "county": "Marin",
-      "published": "2026-02-11T21:33:42+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -2880,7 +3008,21 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "7f6758e88c4d",
+      "title": "Early-Bird Gray Whales Crash San Francisco Bay Commute",
+      "summary": "Gray whales have been spotted in San Francisco Bay earlier than usual; scientists are studying why and training mariners to reduce ship strikes.",
+      "link": "https://hoodline.com/2026/02/early-bird-gray-whales-crash-san-francisco-bay-commute/",
+      "source": "Hoodline",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:00:16+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2899,21 +3041,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
-      "id": "7f6758e88c4d",
-      "title": "Early-Bird Gray Whales Crash San Francisco Bay Commute",
-      "summary": "Gray whales have been spotted in San Francisco Bay earlier than usual; scientists are studying why and training mariners to reduce ship strikes.",
-      "link": "https://hoodline.com/2026/02/early-bird-gray-whales-crash-san-francisco-bay-commute/",
-      "source": "Hoodline",
-      "county": "San Francisco",
-      "published": "2026-02-11T21:00:16+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2927,7 +3055,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2941,7 +3069,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2955,7 +3083,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2969,7 +3097,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2983,7 +3111,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2997,7 +3125,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -3011,7 +3139,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -3030,7 +3158,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -3049,7 +3177,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -3063,7 +3191,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -3082,7 +3210,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -3199,25 +3327,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "e7a862e03488",
-      "title": "San Jose City Council agrees to place hotel tax increase on the June ballot",
-      "summary": "The San Jose City Council has agreed to place a hotel tax increase on the June ballot in hopes of raising more revenue for the city's general fund",
-      "link": "https://www.mercurynews.com/2026/02/11/san-jose-city-council-agrees-to-place-hotel-tax-increase-on-the-june-ballot/",
-      "source": "Mercury News",
-      "county": "Santa Clara",
-      "published": "2026-02-11T20:24:47+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
       "id": "0afe16db9ab6",
       "title": "Twin Battery Blazes Rattle Tesla\u2019s Palo Alto Lab",
       "summary": "Two fires at Tesla's Palo Alto engineering lab were linked to lithium\u2011ion battery tests; inspectors ordered a hazmat closure permit and cleanup.",
@@ -3226,25 +3335,6 @@
       "county": "Santa Clara",
       "published": "2026-02-11T20:23:44+00:00",
       "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
-      "id": "c3b2481d28e5",
-      "title": "San Francisco parents scramble as teachers strike leaves 50,000 students out of school",
-      "summary": "SFUSD's 120 schools remained closed for a third day Wednesday, after about 6,000 public schoolteachers went on strike over higher wages, health benefits, and more resources for students with special needs.",
-      "link": "https://abc7news.com/post/san-francisco-unified-schools-remain-closed-due-historic-teachers-strike-pay-health-care/18586058/",
-      "source": "ABC7 News",
-      "county": "San Francisco",
-      "published": "2026-02-11T20:14:47+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.2,
@@ -3336,11 +3426,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "91719131c561",
+      "id": "a8474da842d6",
       "title": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay",
-      "summary": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-      "link": "https://www.berkeleyside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening",
-      "source": "Berkeleyside",
+      "summary": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay\n\nA running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+      "link": "https://oaklandside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening/",
+      "source": "The Oaklandside",
       "county": "Alameda",
       "published": "2026-02-11T20:00:00+00:00",
       "themes": [],
@@ -3524,34 +3614,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "911a62fd6513",
-      "title": "'Scrubs' revival: Zach Braff, Donald Faison and Sarah Chalke are back in the first trailer",
-      "summary": "Zach Braff, Donald Faison and Sarah Chalke bring back the zany in the new trailer for \"Scrubs.\" The sitcom revival premieres Feb. 25 on ABC.",
-      "link": "https://abc7.com/post/scrubs-zach-braff-donald-faison-sarah-chalke-are-back-first-trailer-abc-revival/18586421/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-02-11T19:10:23+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
-      "id": "ab41173f3845",
-      "title": "Norwegian biathlon bronze medalist confesses to cheating on girlfriend in post-race interview",
-      "summary": "A day after a confession on live television that he had cheated on his girlfriend, Norwegian biathlete Sturla Holm Laegreid said he regrets going public with his private life at the Olympics.",
-      "link": "https://abc7.com/post/norwegian-biathlete-sturla-holm-laegreid-regrets-tearful-tv-confession-overshadowing-teammates-olympic-gold-medal/18586653/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-02-11T19:10:02+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
       "id": "372f8254461d",
       "title": "Applications open for Sonoma Community Center\u2019s 16th annual Trashion Fashion Runway Show",
       "summary": "Sonoma Community Center's 16th annual fundraising runway show will accept applications through March 20.",
@@ -3698,7 +3760,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -3717,7 +3779,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -3731,7 +3793,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -3923,20 +3985,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "2b1838539c97",
-      "title": "Airspace closure followed spat over drone-related tests and party balloon shoot-down, sources say",
-      "summary": "Pentagon officials had undertaken planning to use military technology near Fort Bliss, in El Paso, to practice downing drones.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/airspace-closure-followed-spat-over-drone-related-tests-and-party-balloon-shoot-down-sources-say/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-02-11T17:21:47+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.3,
-      "rankScore": 0.0
-    },
-    {
       "id": "d00289a2afc3",
       "title": "Parents ask judge to stop closing of magnet school",
       "summary": "BY ADRIANA HERNANDEZDaily Post Staff Writer Parents of students at the TIDE Academy magnet school are asking a judge to stop the Sequoia Union High School District from closing the [...]",
@@ -3999,7 +4047,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 0.4,
       "rankScore": 0.0
     },
     {
@@ -4135,20 +4183,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "b491ff2068c5",
-      "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
-      "summary": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
-      "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
-      "source": "Berkeleyside",
-      "county": "Alameda",
-      "published": "2026-02-11T14:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.4,
-      "rankScore": 0.0
-    },
-    {
       "id": "00c3f338594b",
       "title": "Tech\u2019s pick for governor, Matt Mahan, makes his case for running California",
       "summary": "San Jose Mayor Matt Mahan sits down with \u201cPacific Standard Time\u201d to explain how his record in the South Bay prepares him for statewide office.",
@@ -4224,6 +4258,20 @@
       "rankScore": 0.0
     },
     {
+      "id": "b491ff2068c5",
+      "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
+      "summary": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
+      "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
+      "source": "Berkeleyside",
+      "county": "Alameda",
+      "published": "2026-02-11T14:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
       "id": "58fffc8c377a",
       "title": "Rep. Khanna names 6 men he says were redacted from Epstein files for \"no apparent reason\"",
       "summary": "Two lawmakers are accusing the government of improperly redacting some people's names from the Epstein files, including six men whose identities are now public.",
@@ -4234,7 +4282,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -4253,7 +4301,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -4267,7 +4315,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -4286,7 +4334,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -4300,7 +4348,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -4427,7 +4475,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.5,
+      "ageDays": 0.6,
       "rankScore": 0.0
     },
     {
@@ -4649,7 +4697,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -4668,7 +4716,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -4786,7 +4834,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -4805,7 +4853,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -4970,7 +5018,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.1,
       "rankScore": 0.0
     },
     {
@@ -5026,25 +5074,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "3692f4e4c18c",
-      "title": "As Chronicle Moves on From 'Doom Loop' Headlines, It's Now Calling BART a 'Dying Rail System'",
-      "summary": "In reporting on what is otherwise good news for BART, the Chronicle couldn't help today but to throw cold water on things and sensationalize the agency's financial woes once more.",
-      "link": "https://sfist.com/2026/02/10/as-chronicle-moves-on-from-doom-loop-headlines-its-now-calling-bart-a-dying-rail-system/",
-      "source": "SFist",
-      "county": "San Francisco",
-      "published": "2026-02-10T21:36:13+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.1,
-      "rankScore": 0.0
-    },
-    {
       "id": "15678fa9426c",
       "title": "Man Fatally Shot by Alameda County Deputies Reportedly Had a Pipe, Not a Gun",
       "summary": "The California Department of Justice is investigating the shooting near San Leandro early Monday. Sheriff\u2019s officials said he called emergency dispatchers and said he had a gun.",
@@ -5060,7 +5089,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.2,
       "rankScore": 0.0
     },
     {
@@ -5079,7 +5108,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.2,
       "rankScore": 0.0
     },
     {
@@ -5249,7 +5278,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 1.3,
       "rankScore": 0.0
     },
     {
@@ -5319,7 +5348,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -5331,25 +5360,6 @@
       "county": "San Francisco",
       "published": "2026-02-10T16:00:45+00:00",
       "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
-    },
-    {
-      "id": "907bca9bcfe2",
-      "title": "Vallejo student arrested for bringing loaded gun to school",
-      "summary": "(KRON) \u2014 A student in Vallejo was arrested Friday after allegedly bringing a loaded firearm to school, the Vallejo Police Department said. Police responded at 12:45 p.m. to Vallejo High School at 840 Nebraska Street on the report of a student in possession of a gun on campus. According to the report from staff, a [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/vallejo-student-arrested-for-bringing-loaded-gun-to-school/",
-      "source": "KRON4",
-      "county": "Solano",
-      "published": "2026-02-10T15:45:49+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 1.4,
@@ -5488,7 +5498,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.6,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -5568,7 +5578,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.7,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -5720,7 +5730,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": -0.01
+      "rankScore": -0.02
     },
     {
       "id": "1dce635f48f8",
@@ -5776,22 +5786,22 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": -0.02
+      "ageDays": 2.1,
+      "rankScore": -0.03
     },
     {
-      "id": "5eee26844de4",
+      "id": "1ff52bc2e63f",
       "title": "7 East Bay desserts to share with your sweetie this Valentine\u2019s Day",
-      "summary": "Nosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
-      "link": "https://www.berkeleyside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants",
-      "source": "Berkeleyside",
+      "summary": "7 East Bay desserts to share with your sweetie this Valentine\u2019s Day\n\nNosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
+      "link": "https://oaklandside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants/",
+      "source": "The Oaklandside",
       "county": "Alameda",
       "published": "2026-02-09T21:00:00+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": -0.07
+      "ageDays": 2.2,
+      "rankScore": -0.08
     },
     {
       "id": "88c8a3c3947b",
@@ -5804,8 +5814,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": -0.07
+      "ageDays": 2.2,
+      "rankScore": -0.08
     },
     {
       "id": "e887e01a311e",
@@ -5824,7 +5834,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": -0.08
+      "rankScore": -0.09
     },
     {
       "id": "1aa403f6e0bc",
@@ -5838,7 +5848,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": -0.09
+      "rankScore": -0.1
     },
     {
       "id": "c98e007915fe",
@@ -5852,7 +5862,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": -0.11
+      "rankScore": -0.12
     },
     {
       "id": "1b94d882ac21",
@@ -5870,8 +5880,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 6.2,
-      "rankScore": -0.12
+      "ageDays": 6.3,
+      "rankScore": -0.13
     },
     {
       "id": "53a1c5754d98",
@@ -5890,7 +5900,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": -0.14
+      "rankScore": -0.15
     },
     {
       "id": "d43af05dec05",
@@ -5904,7 +5914,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": -0.14
+      "rankScore": -0.15
     },
     {
       "id": "79c20a8f84cf",
@@ -5927,7 +5937,7 @@
       "nationalSignificance": 1,
       "isEnterprise": false,
       "ageDays": 4.3,
-      "rankScore": -0.14
+      "rankScore": -0.15
     },
     {
       "id": "fbb439875c73",
@@ -5946,7 +5956,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": -0.16
+      "rankScore": -0.17
     },
     {
       "id": "51e35009da9a",
@@ -5959,8 +5969,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.17
+      "ageDays": 2.4,
+      "rankScore": -0.18
     },
     {
       "id": "fb71a45b2580",
@@ -5974,7 +5984,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.4,
-      "rankScore": -0.21
+      "rankScore": -0.22
     },
     {
       "id": "45123285ec7f",
@@ -6007,7 +6017,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.7,
-      "rankScore": -0.36
+      "rankScore": -0.37
     },
     {
       "id": "4cd2ba18c098",
@@ -6049,7 +6059,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 7.2,
-      "rankScore": -0.59
+      "rankScore": -0.6
     },
     {
       "id": "1c0669c2df60",
@@ -6063,7 +6073,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 3.4,
-      "rankScore": -0.69
+      "rankScore": -0.7
     },
     {
       "id": "08023a5fa791",
@@ -6082,21 +6092,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 3.4,
-      "rankScore": -0.71
-    },
-    {
-      "id": "a96501e88b6e",
-      "title": "San Francisco\u2019s billionaire bacchanal a big bust",
-      "summary": "Only a couple dozen pro-billionaire agitators actually showed for an apparently earnest \u201cMarch for Billionaires\u201d at Alta Plaza Park.\nSan Francisco\u2019s billionaire bacchanal a big bust",
-      "link": "https://missionlocal.org/2026/02/sf-march-for-billionaires-bust/",
-      "source": "Mission Local",
-      "county": "San Francisco",
-      "published": "2026-02-08T00:05:09+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 4.0,
-      "rankScore": -1.0
+      "rankScore": -0.72
     },
     {
       "id": "baaa73a95f54",
@@ -6118,6 +6114,20 @@
       "rankScore": -1.0
     },
     {
+      "id": "a96501e88b6e",
+      "title": "San Francisco\u2019s billionaire bacchanal a big bust",
+      "summary": "Only a couple dozen pro-billionaire agitators actually showed for an apparently earnest \u201cMarch for Billionaires\u201d at Alta Plaza Park.\nSan Francisco\u2019s billionaire bacchanal a big bust",
+      "link": "https://missionlocal.org/2026/02/sf-march-for-billionaires-bust/",
+      "source": "Mission Local",
+      "county": "San Francisco",
+      "published": "2026-02-08T00:05:09+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 4.0,
+      "rankScore": -1.01
+    },
+    {
       "id": "d6fb8c08477b",
       "title": "Another police oversight shake-up, this time on the panel that picks Oakland\u2019s police commissioners",
       "summary": "Another police oversight shake-up, this time on the panel that picks Oakland\u2019s police commissioners\n\nSome activists say the City Council is improperly micromanaging police oversight appointments. But councilmembers say these are \u201cconspiracy theories.\u201d",
@@ -6134,7 +6144,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.0,
-      "rankScore": -1.48
+      "rankScore": -1.49
     },
     {
       "id": "241e58139afb",
@@ -6162,7 +6172,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.2,
-      "rankScore": -1.58
+      "rankScore": -1.59
     },
     {
       "id": "a7327c2af0d0",
@@ -6204,7 +6214,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.3,
-      "rankScore": -1.64
+      "rankScore": -1.65
     },
     {
       "id": "421a2f378235",
@@ -6218,7 +6228,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.3,
-      "rankScore": -1.64
+      "rankScore": -1.65
     },
     {
       "id": "0e660638854b",
@@ -6237,7 +6247,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.4,
-      "rankScore": -1.69
+      "rankScore": -1.7
     },
     {
       "id": "86b5e0fdfa5e",
@@ -6256,7 +6266,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.8,
-      "rankScore": -1.9
+      "rankScore": -1.91
     },
     {
       "id": "c8e8de380ec1",
@@ -6270,7 +6280,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.0,
-      "rankScore": -2.0
+      "rankScore": -2.01
     },
     {
       "id": "eedd563623f8",
@@ -6289,7 +6299,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.2,
-      "rankScore": -2.08
+      "rankScore": -2.09
     },
     {
       "id": "d6581b806cda",
@@ -6303,7 +6313,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.2,
-      "rankScore": -2.08
+      "rankScore": -2.09
     },
     {
       "id": "c834245ac63e",
@@ -6317,7 +6327,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.3,
-      "rankScore": -2.15
+      "rankScore": -2.16
     },
     {
       "id": "fdaac578ff19",
@@ -6331,7 +6341,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.9,
-      "rankScore": -2.43
+      "rankScore": -2.44
     },
     {
       "id": "1c97b0757a1e",
@@ -6344,8 +6354,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 7.1,
-      "rankScore": -2.57
+      "ageDays": 7.2,
+      "rankScore": -2.58
     },
     {
       "id": "4494223ae370",
@@ -6364,7 +6374,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 7.2,
-      "rankScore": -2.59
+      "rankScore": -2.6
     },
     {
       "id": "0868f7dcb634",
@@ -6409,5 +6419,5 @@
       "rankScore": -3.0
     }
   ],
-  "generated_at": "February 12, 2026 at 12:15 AM UTC"
+  "generated_at": "February 12, 2026 at 12:38 AM UTC"
 }
