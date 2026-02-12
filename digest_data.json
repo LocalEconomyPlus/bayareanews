@@ -35,27 +35,27 @@
       ],
       "nationalSignificance": 7,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.2,
       "rankScore": 7.0
     },
     {
-      "id": "0e34c27f0c2b",
-      "title": "South Bay celebrates Super Bowl without ICE",
-      "summary": "Santa Clara County residents are breathing a collective sigh of relief as fears of federal immigration enforcement during the Super Bowl never materialized. While there was concern of increased U.S. Immigration and Customs Enforcement (ICE) activity in the South Bay stemming from claims by federal officials and a San Jose councilmember, fans on game day...\nThe post South Bay celebrates Super Bowl without ICE appeared first on San Jos\u00e9 Spotlight.",
-      "link": "https://sanjosespotlight.com/south-bay-celebrates-super-bowl-without-ice/",
-      "source": "San Jose Spotlight",
-      "county": "Santa Clara",
-      "published": "2026-02-09T18:30:24+00:00",
+      "id": "67394fe7faeb",
+      "title": "California teachers navigate hard discussions about current events after ICE shootings",
+      "summary": "AFTER REN\u00c9E GOOD WAS SHOT and killed by a federal immigration agent in Minneapolis, Watsonville High School teacher Sarah Clark\u2019s ninth grade students had a lot of questions. What precipitated the interaction? Was she yelling at them? Was she aggressive? Was she rude? Can we film immigration agents? Will we be arrested if we do? [&#8230;]\nThe post California teachers navigate hard discussions about current events after ICE shootings appeared first on Local News Matters.",
+      "link": "https://localnewsmatters.org/2026/02/11/california-teachers-navigate-hard-discussions-about-current-events-after-ice-shootings/",
+      "source": "Local News Matters",
+      "county": "Bay Area",
+      "published": "2026-02-12T00:00:00+00:00",
       "themes": [
         {
           "name": "Governance & Power",
           "strength": 3
         }
       ],
-      "nationalSignificance": 7,
+      "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": 6.89
+      "ageDays": 0.0,
+      "rankScore": 5.0
     },
     {
       "id": "bbcfeb336033",
@@ -73,7 +73,7 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 5.0
     },
     {
@@ -92,7 +92,30 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
+      "rankScore": 5.0
+    },
+    {
+      "id": "a8afc1ade29f",
+      "title": "Slowing U.S. population growth could reduce GDP by $100 billion in 2026, analysis finds",
+      "summary": "A slowdown in immigration and lower birth rates could crimp the U.S. economy by shrinking the nation's workforce, researchers say",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/slowing-population-growth-us-economy-impact-gdp-jobs-implan/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T14:00:00+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 5,
+      "isEnterprise": false,
+      "ageDays": 0.4,
       "rankScore": 5.0
     },
     {
@@ -112,7 +135,26 @@
       "nationalSignificance": 5,
       "isEnterprise": true,
       "ageDays": 2.0,
-      "rankScore": 4.99
+      "rankScore": 4.98
+    },
+    {
+      "id": "3f222f292f54",
+      "title": "Lawyers of Chicago woman shot by federal agents say documents show how DHS lies about investigations",
+      "summary": "Marimar Martinez was shot five times by a Border Patrol agent in October while in her vehicle.",
+      "link": "https://www.pressdemocrat.com/2026/02/11/federal-enforcement-chicago-dhs/",
+      "source": "Press Democrat",
+      "county": "Contra Costa",
+      "published": "2026-02-11T23:36:35+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 4,
+      "isEnterprise": true,
+      "ageDays": 0.0,
+      "rankScore": 4.0
     },
     {
       "id": "052aff015381",
@@ -145,6 +187,25 @@
       "nationalSignificance": 4,
       "isEnterprise": false,
       "ageDays": 0.4,
+      "rankScore": 4.0
+    },
+    {
+      "id": "64cfeacd3ada",
+      "title": "Pride flag removed from Stonewall National Monument in NYC",
+      "summary": "A large Pride flag has been removed from the Stonewall National Monument in Greenwich Village. The National Park Service said it did so under guidance from the federal government.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/pride-flag-removed-from-stonewall-national-monument/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T11:50:31+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 4,
+      "isEnterprise": false,
+      "ageDays": 0.5,
       "rankScore": 4.0
     },
     {
@@ -212,6 +273,67 @@
       "isEnterprise": false,
       "ageDays": 1.4,
       "rankScore": 4.0
+    },
+    {
+      "id": "755392152152",
+      "title": "Super Bowl photos: Hundreds protest Trump\u2019s immigration crackdown",
+      "summary": "More than 200 demonstrators gathered outside Levi\u2019s Stadium to protest President Donald Trump\u2019s immigration policies during Super Bowl LX.\nThe post Super Bowl photos: Hundreds protest Trump\u2019s immigration crackdown appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/super-bowl-lx-protest/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-09T06:03:54+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 4,
+      "isEnterprise": false,
+      "ageDays": 2.8,
+      "rankScore": 3.62
+    },
+    {
+      "id": "11fa17bcf08c",
+      "title": "San Leandro City Councilman Pleads Guilty, Becomes Potential Witness Against Former Oakland Mayor Sheng Thao",
+      "summary": "Former San Leandro City Councilmember Bryan Azevedo filed a guilty plea in federal court Wednesday in the corruption case that also ensnared former Oakland Mayor Sheng Thao, making him now a potential witness against her.",
+      "link": "https://sfist.com/2026/02/11/san-leandro-city-councilman-pleads-guilty-becomes-potential-witness-against-former-oakland-mayor-sheng-thao/",
+      "source": "SFist",
+      "county": "Alameda",
+      "published": "2026-02-11T23:59:47+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 3
+        }
+      ],
+      "nationalSignificance": 3,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 3.0
+    },
+    {
+      "id": "32a8d66e5a59",
+      "title": "Liccardo\u2019s bills to speed up housing approvals advance through House",
+      "summary": "A pair of bills spearheaded by U.S. Rep. Sam Liccardo that aim to speed up the approval process for new residential projects advanced through the U.S. House of Representatives earlier this week as part of a bipartisan housing package.   \nThe bipartisan act aims to alleviate the housing shortage by streamlining housing regulations, updating certain programs in the Department of Housing and Urban Development and modernizing banking regulations to expand lending opportunities. The legislation passe",
+      "link": "https://www.almanacnews.com/housing/2026/02/11/liccardos-bills-to-speed-up-housing-approvals-advance-through-house/",
+      "source": "The Almanac",
+      "county": "San Mateo",
+      "published": "2026-02-11T23:54:25+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 3,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 3.0
     },
     {
       "id": "8376a6d229e2",
@@ -298,6 +420,25 @@
       "rankScore": 3.0
     },
     {
+      "id": "170e1f761ca0",
+      "title": "Use of Flock cameras under review in Alameda County",
+      "summary": "(BCN) \u2014 Supporters and opponents of the use of automated license plate readers made their voices heard Tuesday at the Alameda County Board of Supervisors meeting. Police departments use these cameras to investigate crimes like stolen vehicles, but privacy watchdogs have raised concerns about federal agencies being able to access the camera data \u2014 a [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/use-of-flock-cameras-under-review-in-alameda-county/",
+      "source": "KRON4",
+      "county": "Alameda",
+      "published": "2026-02-11T16:11:55+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 4
+        }
+      ],
+      "nationalSignificance": 3,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 3.0
+    },
+    {
       "id": "6399af7f0a71",
       "title": "Supporters, critics debate Flock cameras as Alameda County reviews contract extension",
       "summary": "Supporters and opponents of the use of automated license plate readers made their voices heard Tuesday at the Alameda County Board of Supervisors meeting. Police departments use these cameras to investigate crimes like stolen vehicles, but privacy watchdogs have raised concerns about federal agencies being able to access the camera data \u2014 a violation of [&#8230;]\nThe post Supporters, critics debate Flock cameras as Alameda County reviews contract extension appeared first on Local News Matters.",
@@ -336,7 +477,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 3.0
     },
     {
@@ -359,7 +500,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 3.0
     },
     {
@@ -401,13 +542,32 @@
       "rankScore": 3.0
     },
     {
-      "id": "22641d563fb3",
+      "id": "b63240408809",
       "title": "BART releases doomsday scenario in case sales tax doesn\u2019t pass",
-      "summary": "A proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts \u2014 including a total system shutdown \u2014 if the measure is voted down.",
-      "link": "https://www.berkeleyside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area",
-      "source": "Berkeleyside",
+      "summary": "BART releases doomsday scenario in case sales tax doesn&#8217;t pass\n\nA proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts \u2014 including a total system shutdown \u2014 if the measure is voted down.",
+      "link": "https://oaklandside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area/",
+      "source": "The Oaklandside",
       "county": "Alameda",
-      "published": "2026-02-11T00:37:09+00:00",
+      "published": "2026-02-11T00:15:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 3
+        }
+      ],
+      "nationalSignificance": 3,
+      "isEnterprise": false,
+      "ageDays": 1.0,
+      "rankScore": 3.0
+    },
+    {
+      "id": "ca7ae8fc24a2",
+      "title": "Judge Shoots Down Wiener\u2019s ICE Mask Ban, and Gavin Newsom and Wiener Are Blaming Each Other For it",
+      "summary": "A federal judge has shot down state Senator Scott Wiener\u2019s ban on ICE agents wearing masks, because of wonky new amendments that Wiener and Governor Newsom added to it, constituting a classic Democratic political screw-up.",
+      "link": "https://sfist.com/2026/02/10/judge-shoots-down-wieners-ice-mask-ban-and-gavin-newsom-and-wiener-are-blaming-each-other-for-it/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T00:09:17+00:00",
       "themes": [
         {
           "name": "Governance & Power",
@@ -501,7 +661,7 @@
       "nationalSignificance": 3,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": 2.91
+      "rankScore": 2.9
     },
     {
       "id": "0f3684706046",
@@ -520,7 +680,40 @@
       "nationalSignificance": 5,
       "isEnterprise": false,
       "ageDays": 7.2,
-      "rankScore": 2.42
+      "rankScore": 2.41
+    },
+    {
+      "id": "d11733c85532",
+      "title": "Former San Leandro councilmember pleads guilty in corruption case tied to Oakland",
+      "summary": "Former San Leandro councilmember pleads guilty in corruption case tied to Oakland\n\nBryan Azevedo pleaded guilty to conspiracy to commit fraud and lying to a federal agency on Wednesday. Court officials confirmed he is cooperating with the government\u2019s probe of East Bay corruption.",
+      "link": "https://oaklandside.org/2026/02/11/san-leandro-councilmember-bryan-azevedo-guilty-plea-fbi-corruption-oakland/",
+      "source": "The Oaklandside",
+      "county": "Alameda",
+      "published": "2026-02-11T23:58:29+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 2.0
+    },
+    {
+      "id": "7389373f7ae2",
+      "title": "Yosemite National Park prepares for influx of \"firefall\" visitors as park drops reservations",
+      "summary": "Officials at Yosemite National Park said they are preparing for an influx of visitors to witness the annual \"firefall\" phenomenon at Horsetail Fall, as no reservations will be required this year.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/yosemite-national-park-firefall-2026-no-reservations-horsetail-fall/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T22:59:14+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 2.0
     },
     {
       "id": "58c5cdface34",
@@ -538,31 +731,36 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 2.0
     },
     {
-      "id": "9aad7d10b6b7",
-      "title": "House votes to slap back Trump\u2019s tariffs on Canada in rare bipartisan rebuke of White House agenda",
-      "summary": "The vote the first time the House has confronted the president over a signature policy.",
-      "link": "https://www.eastbaytimes.com/2026/02/11/house-tariffs-vote/",
-      "source": "East Bay Times",
-      "county": "Alameda",
-      "published": "2026-02-11T22:40:24+00:00",
-      "themes": [],
+      "id": "e17991a5d9ba",
+      "title": "San Jose school vice principal arrested in child sex sting",
+      "summary": "(KRON) \u2014 During the week before Super Bowl 60, the San Jose Police Department and FBI conducted an undercover sting operation to identify, locate, and apprehend adults who were seeking minors online to engage in a lewd or lascivious acts, and sexually exploit children. Undercover officers posed as juveniles in online chats. One man busted [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/san-jose-school-vice-principal-arrested-in-child-sex-sting/",
+      "source": "KRON4",
+      "county": "Santa Clara",
+      "published": "2026-02-11T22:46:21+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 2.0
     },
     {
-      "id": "de09e5cdcbf7",
-      "title": "Governors group says Trump will welcome Democrats and Republicans to White House",
-      "summary": "The dispute threatened to upend one of Washington\u2019s rare bipartisan gatherings.",
-      "link": "https://www.marinij.com/2026/02/11/trump-governors-meeting-invite/",
+      "id": "8ff31cba67eb",
+      "title": "House votes to slap back Trump\u2019s tariffs on Canada in rare bipartisan rebuke of White House agenda",
+      "summary": "The vote the first time the House has confronted the president over a signature policy.",
+      "link": "https://www.marinij.com/2026/02/11/house-tariffs-vote/",
       "source": "Marin IJ",
       "county": "Marin",
-      "published": "2026-02-11T21:06:53+00:00",
+      "published": "2026-02-11T22:40:24+00:00",
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
@@ -617,6 +815,20 @@
       "rankScore": 2.0
     },
     {
+      "id": "d2c7ec67cb55",
+      "title": "49ers\u2019 Keion White recovering after San Francisco party shooting",
+      "summary": "SAN FRANCISCO (KRON) \u2014 Keion White, a 49ers defensive lineman who was shot in San Francisco after the Super Bowl, said he\u2019s in \u201cgreat spirits\u201d and recovering well from surgery in a hospital. \u201cFor those who know me, y\u2019all know this won\u2019t stope [sic]\u00a0me from spreading peace and joy to the world,\u201d White wrote on [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/49ers-keion-white-recovering-after-san-francisco-party-shooting/",
+      "source": "KRON4",
+      "county": "San Francisco",
+      "published": "2026-02-11T20:31:06+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 2.0
+    },
+    {
       "id": "c6d090988a84",
       "title": "Bad Bunny's Super Bowl halftime show outfit honored his late uncle, a diehard 49ers fan",
       "summary": "Bad Bunny revealed that the jersey he wore during the Super Bowl halftime honored his late uncle, who was a diehard 49ers fan. He said his uncle died two years after the Niners lost to the Chiefs in the Super Bowl, and he always dreamed of taking his uncle to the big game.",
@@ -624,6 +836,20 @@
       "source": "ABC7 News",
       "county": "Bay Area",
       "published": "2026-02-11T20:04:59+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 2.0
+    },
+    {
+      "id": "7589deb0649a",
+      "title": "Jason Kelce Ran Around San Francisco Drinking Beers, and Filmed It",
+      "summary": "Another celebrity who was in town for the Super Bowl, retired Philadelphia Eagles center and soon-to-be brother-in-law of Taylor Swift Jason Kelce, did a \"Beer Bucket List\" video hitting multiple San Francisco landmarks.",
+      "link": "https://sfist.com/2026/02/11/jason-kelce-ran-around-san-francisco-drinking-beers/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T20:03:51+00:00",
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
@@ -654,6 +880,67 @@
       "rankScore": 2.0
     },
     {
+      "id": "5ca7ef2cf8df",
+      "title": "El Paso airspace closure was tied to Mexican cartel drones, officials say, after FAA lifts 10-day grounding",
+      "summary": "The Federal Aviation Administration changed course and said flights would resume after halting all air traffic into and out of El Paso.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/faa-grounds-all-flights-into-and-out-of-el-paso-until-late-on-feb-20-for-special-security-reasons/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T18:06:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 2.0
+    },
+    {
+      "id": "4c31009a60d7",
+      "title": "Employers added 130,000 jobs in January, blowing past expectations",
+      "summary": "Surprise burst in hiring across the U.S. last month shows the labor market remains on solid ground.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/jobs-report-january-2026-economy-hiring-layoffs-bls/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T17:11:52+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 2.0
+    },
+    {
+      "id": "bb5eeefd040e",
+      "title": "San Jose mayor Matt Mahan discusses campaign for California governor, proposed transit tax",
+      "summary": "As part of a series of conversations with California gubernatorial candidates, San Jose Mayor Matt Mahan talks to CBS News Bay Area's Reed Cowan about several issues, including fundraising, Silicon Valley donors, a proposed tax to fund Bay Area transit and lawsuits against the Trump administration.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/san-jose-mayor-matt-mahan-discusses-campaign-for-california-governor-proposed-transit-tax/",
+      "source": "CBS San Francisco",
+      "county": "Santa Clara",
+      "published": "2026-02-11T17:10:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 3
+        },
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 2.0
+    },
+    {
       "id": "859d9c6c6f8a",
       "title": "Headlines, February 11",
       "summary": "Get state headlines at&#160;Streetsblog California, national headlines at&#160;Streetsblog USA Independent journalism is more important than ever.&#160;Won\u2019t you contribute?\nThe post Headlines, February 11 appeared first on Streetsblog San Francisco.",
@@ -665,6 +952,25 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 0.3,
+      "rankScore": 2.0
+    },
+    {
+      "id": "217eda131b8a",
+      "title": "It took 150 years for this luxury boot maker to enter California, and it chose Wine Country",
+      "summary": "The luxury Western-wear brand opens its first California location in downtown Napa this fall, joining retailers like Lululemon and Anthropologie.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/lucchese-bootmaker-napa-store-luxury-bay-area.html",
+      "source": "SF Business Journal",
+      "county": "Napa",
+      "published": "2026-02-11T14:33:27+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.4,
       "rankScore": 2.0
     },
     {
@@ -687,6 +993,25 @@
       "rankScore": 2.0
     },
     {
+      "id": "08f6c74d79a7",
+      "title": "SF Teachers\u2019 Strike to Bring Human Banner to Ocean Beach Wednesday",
+      "summary": "San Francisco public school teachers are making national headlines as they head into day three of a historic strike, with talks between union and district representatives slowly progressing and other unions across the state considering similar action.",
+      "link": "https://sfist.com/2026/02/11/day-three-of-sf-teachers-strike-to-take-place-at-ocean-beach-for-human-banner-wednesday/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T09:48:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 2.0
+    },
+    {
       "id": "02b670f178a2",
       "title": "Pair arrested for running onto field during Super Bowl did it 2 years ago too",
       "summary": "Santa Clara police have released the names of two men arrested for running onto the field at Levi\u2019s Stadium during the Super Bowl on Sunday. Alex Gonzalez, 25, and Sebastian Rivera Jimenez, 24, are accused of field incursions during the big game between the Seattle Seahawks and New England Patriots on Sunday to decide the [&#8230;]\nThe post Pair arrested for running onto field during Super Bowl did it 2 years ago too appeared first on Local News Matters.",
@@ -706,16 +1031,16 @@
       "rankScore": 2.0
     },
     {
-      "id": "c78ff9cc82c1",
-      "title": "Battery tests sparked two fires at Tesla lab in Palo Alto",
-      "summary": "A laboratory in Palo Alto where Tesla Motors was testing lithium-ion batteries was shut down for about three weeks in January after the batteries caused a fire and damaged a water line in the company&#8217;s testing chamber, according to Fire Department records obtained by this publication.\nThe post Battery tests sparked two fires at Tesla lab in Palo Alto appeared first on The Almanac.",
-      "link": "https://www.almanacnews.com/technology/2026/02/10/battery-tests-sparked-two-fires-at-tesla-lab-in-palo-alto/",
-      "source": "The Almanac",
-      "county": "Santa Clara",
-      "published": "2026-02-11T03:31:03+00:00",
+      "id": "ff7bb4a33a64",
+      "title": "California to ban blackjack-style games from cardrooms by April",
+      "summary": "New state regulations approved this month are set to significantly reshape California's cardroom industry, with operators warning the changes would effectively outlaw blackjack-style games from within those facilities.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/california-to-ban-blackjack-style-games-from-cardrooms/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T04:26:20+00:00",
       "themes": [],
       "nationalSignificance": 2,
-      "isEnterprise": true,
+      "isEnterprise": false,
       "ageDays": 0.8,
       "rankScore": 2.0
     },
@@ -749,7 +1074,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": true,
-      "ageDays": 0.9,
+      "ageDays": 1.0,
       "rankScore": 2.0
     },
     {
@@ -800,20 +1125,6 @@
       "rankScore": 2.0
     },
     {
-      "id": "472316047ec2",
-      "title": "Oakland\u2019s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
-      "summary": "Her regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
-      "link": "https://www.berkeleyside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas",
-      "source": "Berkeleyside",
-      "county": "Alameda",
-      "published": "2026-02-10T21:22:49+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.1,
-      "rankScore": 2.0
-    },
-    {
       "id": "7152ce28eb0c",
       "title": "9 Oakland \u2018Ghost Town\u2019 gang members sentenced for 2022 robbery spree",
       "summary": "9 Oakland \u2018Ghost Town\u2019 gang members sentenced for 2022 robbery spree\n\nFederal prosecutors say they took down one of the networks \u201cresponsible for the majority of group-driven violence\u201d in Oakland. Defense attorneys point to traumatic childhoods and PTSD as drivers of crime.",
@@ -833,19 +1144,14 @@
       "rankScore": 2.0
     },
     {
-      "id": "9dc316f1e9c9",
-      "title": "Teen last seen in Mountain View has been missing since Saturday",
-      "summary": "(KRON) \u2014 A 15-year-old boy who was last seen in Mountain View been missing since the Saturday before the Super Bowl. The Mountain View Police Department is asking for the public\u2019s assistance in locating the teen, a boy named Cesar. Cesar, according to police, was last seen on Saturday, Feb. 7 on Thompson Avenue in [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/teen-last-seen-in-mountain-view-has-been-missing-since-saturday/",
-      "source": "KRON4",
-      "county": "Santa Clara",
-      "published": "2026-02-10T21:06:30+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
+      "id": "9ec021ebf76a",
+      "title": "Oakland\u2019s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
+      "summary": "Oakland&#8217;s famous tostada is back. Cenaduria Elvira is opening near Jack London Square\n\nHer regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
+      "link": "https://oaklandside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas/",
+      "source": "The Oaklandside",
+      "county": "Alameda",
+      "published": "2026-02-10T20:47:44+00:00",
+      "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 1.1,
@@ -913,25 +1219,6 @@
       "rankScore": 2.0
     },
     {
-      "id": "7b8b23b4bd45",
-      "title": "Oakland man who robbed SF mail carrier gets 5 years in prison",
-      "summary": "SAN FRANCISCO (KRON) \u2014 An Oakland man convicted of robbing a postal carrier in San Francisco was sentenced to five years in federal prison, the U.S. Department of Justice announced Monday. Joseph Michael McBee, 30, pleaded guilty on Oct. 20, 2025, to one count of robbery of a U.S. mail carrier. He had been arrested [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/oakland-man-who-robbed-sf-mail-carrier-gets-5-years-in-prison/",
-      "source": "KRON4",
-      "county": "San Francisco",
-      "published": "2026-02-10T14:54:43+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.4,
-      "rankScore": 2.0
-    },
-    {
       "id": "9d94aaa52154",
       "title": "Her partner deported, S.F. mother of four copes with fear and loss in a sanctuary city",
       "summary": "Her husband was deported after years in the U.S. She's now turned the deportation into fuel for community organizing. \nHer partner deported, S.F. mother of four copes with fear and loss in a sanctuary city",
@@ -951,20 +1238,6 @@
       "rankScore": 2.0
     },
     {
-      "id": "4697ffbea2e1",
-      "title": "Will Bay Area host another Super Bowl within the next decade? NFL exec explains",
-      "summary": "SANTA CLARA, Calif. (KRON) \u2014 Days before Super Bowl LX, media members from across the globe toured Levi\u2019s Stadium to take a look at the grass field before the big game. It was a picturesque scene in Santa Clara with temperatures in the 60s, a light breeze and clear skies. Even Patriots players lauded the [\u2026]",
-      "link": "https://www.kron4.com/sports/super-bowl-lx/will-bay-area-host-another-super-bowl-within-the-next-decade-nfl-exec-explains/",
-      "source": "KRON4",
-      "county": "Santa Clara",
-      "published": "2026-02-10T06:04:13+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 2.0
-    },
-    {
       "id": "f25625769d7e",
       "title": "Pleasant Hill barbecue\u00a0restaurant destroyed in Super Bowl Sunday fire",
       "summary": "",
@@ -972,20 +1245,6 @@
       "source": "NBC Bay Area",
       "county": "Contra Costa",
       "published": "2026-02-10T05:50:33+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 2.0
-    },
-    {
-      "id": "d1ad5736d805",
-      "title": "Super Bowl cleanup: NFL Green team donates material used for big game",
-      "summary": "",
-      "link": "https://www.nbcbayarea.com/news/local/super-bowl-cleanup-nfl-green-team/4032228/",
-      "source": "NBC Bay Area",
-      "county": "Bay Area",
-      "published": "2026-02-10T05:21:09+00:00",
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
@@ -1047,7 +1306,7 @@
       "nationalSignificance": 2,
       "isEnterprise": true,
       "ageDays": 2.1,
-      "rankScore": 1.97
+      "rankScore": 1.96
     },
     {
       "id": "5b5c7fb8c54d",
@@ -1066,7 +1325,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": 1.92
+      "rankScore": 1.91
     },
     {
       "id": "c262d42c335d",
@@ -1085,7 +1344,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": 1.92
+      "rankScore": 1.91
     },
     {
       "id": "f268c5903e7e",
@@ -1098,22 +1357,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": 1.88
-    },
-    {
-      "id": "5ebe647ec501",
-      "title": "Headlines, February 9",
-      "summary": "Get state headlines at&#160;Streetsblog California, national headlines at&#160;Streetsblog USA Independent journalism is more important than ever.&#160;Won\u2019t you contribute?\nThe post Headlines, February 9 appeared first on Streetsblog San Francisco.",
-      "link": "https://sf.streetsblog.org/2026/02/09/headlines-february-9-2",
-      "source": "Streetsblog SF",
-      "county": "San Francisco",
-      "published": "2026-02-09T16:01:57+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": 1.84
+      "rankScore": 1.87
     },
     {
       "id": "f5bfc301f986",
@@ -1127,7 +1372,30 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 3.3,
-      "rankScore": 1.34
+      "rankScore": 1.33
+    },
+    {
+      "id": "41eaafcf2649",
+      "title": "Novato school district takes step toward layoffs, reduced hours",
+      "summary": "The trustees have approved pink slips for 53 employees in an effort to address budget deficits this fiscal year and next.",
+      "link": "https://www.marinij.com/2026/02/11/novato-school-district-takes-step-toward-layoffs-reduced-hours/",
+      "source": "Marin IJ",
+      "county": "Marin",
+      "published": "2026-02-12T00:02:10+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        },
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 1,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 1.0
     },
     {
       "id": "b5c0607f1532",
@@ -1176,11 +1444,11 @@
       "rankScore": 1.0
     },
     {
-      "id": "7eda6896d2c2",
+      "id": "3da34a27c646",
       "title": "Menlo Park unveils timeline for housing on downtown parking lots",
       "summary": "The November ballot could stall the project if voters require approval for parking cuts",
-      "link": "https://www.eastbaytimes.com/2026/02/11/menlo-park-council-downtown-housing-timeline-parking-ballot-measure/",
-      "source": "East Bay Times",
+      "link": "https://www.mercurynews.com/2026/02/11/menlo-park-council-downtown-housing-timeline-parking-ballot-measure/",
+      "source": "Mercury News",
       "county": "San Mateo",
       "published": "2026-02-11T23:31:59+00:00",
       "themes": [
@@ -1260,7 +1528,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 1.0
     },
     {
@@ -1279,6 +1547,29 @@
         {
           "name": "Governance & Power",
           "strength": 2
+        }
+      ],
+      "nationalSignificance": 1,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 1.0
+    },
+    {
+      "id": "5a0317150740",
+      "title": "Salesforce CEO Marc Benioff reportedly jokes about ICE at company event in Vegas",
+      "summary": "SAN FRANCISCO (KRON) \u2014 Salesforce employees are reportedly up in arms after CEO Marc Benioff made a joke about ICE agents monitoring international employees at a company event Monday. Benioff was speaking in Las Vegas for the company\u2019s annual Salesforce Company Kickoff leadership event when he reportedly made the comment. According to Wired, Benioff asked [\u2026]",
+      "link": "https://www.kron4.com/news/technology-ai/salesforce-ceo-marc-benioff-reportedly-jokes-about-ice-at-company-event-in-vegas/",
+      "source": "KRON4",
+      "county": "San Francisco",
+      "published": "2026-02-11T18:16:48+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 1
         }
       ],
       "nationalSignificance": 1,
@@ -1394,6 +1685,52 @@
       "rankScore": 1.0
     },
     {
+      "id": "d0cce4ac1131",
+      "title": "S.F. home prices surge as AI boom collides with inventory crisis",
+      "summary": "Tight housing supply and AI-driven demand are pushing San Francisco home prices to record levels, with median single-family homes reaching $1.7 million.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/10/home-prices-inventory-compass-ai-boom.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T00:31:39+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        },
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 1,
+      "isEnterprise": false,
+      "ageDays": 1.0,
+      "rankScore": 1.0
+    },
+    {
+      "id": "76e5d890162e",
+      "title": "Wells Fargo CFO expects more layoffs after cutting tens of thousands of workers: \u2018There should be less people\u2019",
+      "summary": "Wells Fargo's CFO signals more job cuts and real estate sales as the bank continues its multiyear restructuring effort.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/10/wells-fargo-layoffs-sell-real-estate-wfc.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T00:31:17+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        },
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 1,
+      "isEnterprise": false,
+      "ageDays": 1.0,
+      "rankScore": 1.0
+    },
+    {
       "id": "2831e3f3b311",
       "title": "Kaiser Strike Delays Surgeries, Disrupts Care as More Workers Walk Off Jobs",
       "summary": "A growing number of patients are experiencing delays in care as a labor conflict intensifies at Kaiser, rippling across California and Hawaii, with no contract deal in sight.",
@@ -1417,43 +1754,20 @@
       "rankScore": 1.0
     },
     {
-      "id": "5a0317150740",
-      "title": "Salesforce CEO Marc Benioff reportedly jokes about ICE at company event in Vegas",
-      "summary": "SAN FRANCISCO (KRON) \u2014 Salesforce employees are reportedly up in arms after CEO Marc Benioff made a joke about ICE agents monitoring international employees at a company event Monday. Benioff was speaking in Las Vegas for the company\u2019s annual Salesforce Company Kickoff leadership event when he reportedly made the comment. According to Wired, Benioff asked [\u2026]",
-      "link": "https://www.kron4.com/news/technology-ai/salesforce-ceo-marc-benioff-reportedly-jokes-about-ice-at-company-event-in-vegas/",
-      "source": "KRON4",
-      "county": "San Francisco",
-      "published": "2026-02-10T23:33:48+00:00",
+      "id": "a90f23e6a35d",
+      "title": "Alameda County Sheriff\u2019s Deputies Mistakenly Shoot and Kill Man Because They Thought He Had a Gun",
+      "summary": "In the deputies\u2019 defense, the man they shot had called 911, claimed that he had a gun, and said that he intended to harm people with it. But when the smoke had cleared, it turns out the man was just carrying a pipe.",
+      "link": "https://sfist.com/2026/02/10/alameda-county-sheriffs-deputies-mistakenly-shoot-and-kill-man-because-they-thought-he-had-a-gun/",
+      "source": "SFist",
+      "county": "Alameda",
+      "published": "2026-02-10T23:11:59+00:00",
       "themes": [
         {
-          "name": "Tech & Economy",
+          "name": "Climate & Environment",
           "strength": 1
         },
         {
           "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 1.0
-    },
-    {
-      "id": "76e5d890162e",
-      "title": "Wells Fargo CFO expects more layoffs after cutting tens of thousands of workers: \u2018There should be less people\u2019",
-      "summary": "Wells Fargo's CFO signals more job cuts and real estate sales as the bank continues its multiyear restructuring effort.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/10/wells-fargo-layoffs-sell-real-estate-wfc.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-10T23:06:05+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        },
-        {
-          "name": "Housing & Displacement",
           "strength": 1
         }
       ],
@@ -1505,26 +1819,26 @@
       "rankScore": 1.0
     },
     {
-      "id": "cc0a7c97667c",
-      "title": "S.F.'s median home sales prices surge 12.4% as AI boom collides with inventory crisis",
-      "summary": "Tight housing supply and AI-driven demand are pushing San Francisco home prices to record levels, with median single-family homes reaching $1.7 million.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/10/home-prices-inventory-compass-ai-boom.html",
-      "source": "SF Business Journal",
+      "id": "886c385c17ba",
+      "title": "San Francisco public school teachers strike, closing schools citywide",
+      "summary": "For the first time in 47 years, public school educators in San Francisco walked out of their jobs Monday.\nThe post San Francisco public school teachers strike, closing schools citywide appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/sfusd-strike-san-francisco-schools/",
+      "source": "El Tecolote",
       "county": "San Francisco",
-      "published": "2026-02-10T00:22:22+00:00",
+      "published": "2026-02-10T06:04:34+00:00",
       "themes": [
         {
           "name": "Tech & Economy",
           "strength": 1
         },
         {
-          "name": "Housing & Displacement",
+          "name": "Governance & Power",
           "strength": 1
         }
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.0,
+      "ageDays": 1.8,
       "rankScore": 1.0
     },
     {
@@ -1548,7 +1862,21 @@
       "nationalSignificance": 1,
       "isEnterprise": false,
       "ageDays": 2.1,
-      "rankScore": 0.96
+      "rankScore": 0.95
+    },
+    {
+      "id": "028c87bd99d8",
+      "title": "\u2018We\u2019re not criminals\u2019: Hot dog vendors say S.F. is pushing them out for Super Bowl",
+      "summary": "During Super Bowl week, street food vendors say ramped-up enforcement pushed them from tourist areas, and many hope to earn income during the Big Game in Santa Clara.\nThe post \u2018We\u2019re not criminals\u2019: Hot dog vendors say S.F. is pushing them out for Super Bowl appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/sf-food-vendors-super-bowl/",
+      "source": "El Tecolote",
+      "county": "Santa Clara",
+      "published": "2026-02-07T20:55:27+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 4.1,
+      "rankScore": 0.93
     },
     {
       "id": "9ac1d82990bc",
@@ -1571,7 +1899,7 @@
       "nationalSignificance": 1,
       "isEnterprise": false,
       "ageDays": 2.4,
-      "rankScore": 0.81
+      "rankScore": 0.8
     },
     {
       "id": "b6d694843802",
@@ -1585,7 +1913,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 5.0,
-      "rankScore": 0.5
+      "rankScore": 0.49
     },
     {
       "id": "6a7de9ec0203",
@@ -1599,7 +1927,219 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 5.2,
-      "rankScore": 0.39
+      "rankScore": 0.38
+    },
+    {
+      "id": "a447d121d2be",
+      "title": "Photos: Bad Bunny look-alike contest in San Francisco\u2019s Mission District",
+      "summary": "Hundreds gathered at Tacolicious in San Francisco\u2019s Mission District for a Bad Bunny look-alike contest ahead of the Super Bowl halftime show.\nThe post Photos: Bad Bunny look-alike contest in San Francisco\u2019s Mission District appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/bad-bunny-sf-look-alike-contest/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-06T06:37:59+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 5.7,
+      "rankScore": 0.13
+    },
+    {
+      "id": "c47476a27658",
+      "title": "S.F. holds street food \u2018pathway\u2019 after Mission vendors raise concerns",
+      "summary": "Update: Board of Supervisors\u2019 Budget and Finance Committee held the proposed street food vending legislation to further investigate concerns vendors have raised.\nThe post S.F. holds street food \u2018pathway\u2019 after Mission vendors raise concerns appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/sf-food-street-vendor-legislation/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-04T02:17:17+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 3
+        }
+      ],
+      "nationalSignificance": 3,
+      "isEnterprise": true,
+      "ageDays": 7.9,
+      "rankScore": 0.04
+    },
+    {
+      "id": "e1a11bae57ff",
+      "title": "Santa Rosa staffers tasked to suggest responses to possible ICE activity",
+      "summary": "Questions about how the city would restrict ICE access to public spaces and other city properties dominated a large part of the conversation Tuesday as the community pressed for the city to act.",
+      "link": "https://www.pressdemocrat.com/2026/02/11/santa-rosa-staffers-tasked-to-suggest-responses-to-possible-ice-activity/",
+      "source": "Press Democrat",
+      "county": "Sonoma",
+      "published": "2026-02-12T00:13:38+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "675ede04df7d",
+      "title": "Original flyway festival soars into Vallejo this weekend",
+      "summary": "Myrna Hayes will spend her birthday on Sunday in a place she truly loves, the wilderness \u2014 or what she likes to call &#8220;the wild near us.&#8221; Meanwhile, she&#8217;ll be frantically running all over the place to make sure the 30th anniversary of the San Francisco Bay Flyway Festival Go Wildly Live Outdoors goes smoothly [&#8230;]",
+      "link": "https://www.timesheraldonline.com/2026/02/11/original-flyway-festival-soars-into-vallejo-this-weekend/",
+      "source": "Vallejo Times-Herald",
+      "county": "Solano",
+      "published": "2026-02-12T00:09:29+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "42295abf852a",
+      "title": "San Jose Chipmaker Slashes 7% Of Staff As Sales Slide Bites",
+      "summary": "Power Integrations cut about 7% of its global workforce after Q4 revenue fell 13% sequentially; the San Jose company expects a $3.5\u2013$4M restructuring charge.",
+      "link": "https://hoodline.com/2026/02/san-jose-chipmaker-slashes-7-of-staff-as-sales-slide-bites/",
+      "source": "Hoodline",
+      "county": "Santa Clara",
+      "published": "2026-02-12T00:06:26+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "f3fa43ae09c5",
+      "title": "California hotel sales in 2025 improve, but show sharp decline in North Bay",
+      "summary": "A new report shows hotel sales in the state showed some improvement in 2025, but not in the North Bay.",
+      "link": "https://www.sonomanews.com/2026/02/11/california-hotel-sales-in-2025-improve-but-show-sharp-decline-in-north-bay/",
+      "source": "Sonoma Index-Tribune",
+      "county": "Sonoma",
+      "published": "2026-02-12T00:03:26+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "da41593f7e7c",
+      "title": "Single-family residence sells in San Jose for $1.7 million",
+      "summary": "The unit in the 4800 block of Pepperwood Way in San Jose was sold on Jan. 2, 2026 for $1,650,000 which represents a price per square foot of $1,481. The house, built in 1960, has an interior space of 1,114 square feet.",
+      "link": "https://www.eastbaytimes.com/2026/02/11/single-family-residence-sells-in-san-jose-for-1-7-million-7/",
+      "source": "East Bay Times",
+      "county": "Santa Clara",
+      "published": "2026-02-12T00:00:52+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "f28ff677ef23",
+      "title": "San Jose\u2019s largest school district looks to close schools",
+      "summary": "Santa Clara County&#8217;s largest school district could close up to nine elementary schools due to declining enrollment \u2014 a game changer for the district as it redefines its future.\u00a0 The San Jose Teachers Association is urging San Jose Unified School District to consider restructuring the system due to enrollment and equity issues. There are 41...\nThe post San Jose&#8217;s largest school district looks to close schools appeared first on San Jos\u00e9 Spotlight.",
+      "link": "https://sanjosespotlight.com/san-joses-largest-school-district-looks-to-close-schools/",
+      "source": "San Jose Spotlight",
+      "county": "Santa Clara",
+      "published": "2026-02-12T00:00:42+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9f407cfe4b12",
+      "title": "Secret Season on the San Mateo Coast Awaits You",
+      "summary": "Stop waiting for &#8220;someday.&#8221; Secret Season is NOW!\nThe post Secret Season on the San Mateo Coast Awaits You appeared first on The Almanac.",
+      "link": "https://www.almanacnews.com/blogs/the-food-party/2026/02/11/secret-season-on-the-san-mateo-coast-awaits-you/",
+      "source": "The Almanac",
+      "county": "San Mateo",
+      "published": "2026-02-11T23:58:31+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "57e4745836ed",
+      "title": "San Francisco teachers' strike enters 3rd day as negotiations continue",
+      "summary": "San Francisco Unified School district teachers returned to the picket lines Wednesday, as a strike over wages and benefits enters its third day.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-unified-teachers-strike-day-3-february-11-updates/",
+      "source": "CBS San Francisco",
+      "county": "San Francisco",
+      "published": "2026-02-11T23:54:53+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "20903bc4aa20",
+      "title": "SFPD Drone Hunts Down Suspect After Fiery Molotov Toss On City Street",
+      "summary": "SFPD says officers used a drone to help arrest a suspect after an ignited molotov was thrown into a San Francisco street; the device was seized.",
+      "link": "https://hoodline.com/2026/02/sfpd-drone-hunts-down-suspect-after-fiery-molotov-toss-on-city-street/",
+      "source": "Hoodline",
+      "county": "San Francisco",
+      "published": "2026-02-11T23:53:39+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "ac85a7bcc93c",
+      "title": "KRON4 reporter hikes with mushroom enthusiasts to learn what\u2019s deadly and what\u2019s not",
+      "summary": "(KRON) \u2014 At least 40 people statewide have been hospitalized and four people killed since November, all linked to the ingestion of wild mushrooms. In the East Bay, KRON4\u2019s Philippe Djegal hiked with mushroom enthusiasts on a recent foray. Watch the full report in the video player above as they show the subtle differences between [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/kron4-reporter-hikes-with-mushroom-enthusiasts-to-learn-whats-deadly-and-whats-not/",
+      "source": "KRON4",
+      "county": "Alameda",
+      "published": "2026-02-11T23:44:54+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "aa54625038ad",
+      "title": "Eyes on the Street: Shrinking the Gap Between Fruitvale BART and the Cross-Alameda Trail",
+      "summary": "But there will remain a safety gap on the Fruitvale Avenue bridge\nThe post Eyes on the Street: Shrinking the Gap Between Fruitvale BART and the Cross-Alameda Trail appeared first on Streetsblog San Francisco.",
+      "link": "https://sf.streetsblog.org/2026/02/11/eyes-on-the-street-shrinking-the-gap-between-fruitvale-bart-and-the-cross-alameda-trail",
+      "source": "Streetsblog SF",
+      "county": "San Francisco",
+      "published": "2026-02-11T23:41:54+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
     },
     {
       "id": "4c1f4a129ffe",
@@ -1621,13 +2161,46 @@
       "rankScore": 0.0
     },
     {
-      "id": "65f298398714",
+      "id": "69b8e4b442fd",
       "title": "Bay Area weather: How many more days is it going to rain?",
       "summary": "Latest showers are first significant rain in five weeks across Northern California, and more is on tap",
-      "link": "https://www.eastbaytimes.com/2026/02/11/bay-area-weather-how-many-more-days-is-it-going-to-rain/",
-      "source": "East Bay Times",
-      "county": "Alameda",
+      "link": "https://www.mercurynews.com/2026/02/11/bay-area-weather-how-many-more-days-is-it-going-to-rain/",
+      "source": "Mercury News",
+      "county": "Bay Area",
       "published": "2026-02-11T23:35:23+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "d8d1519eea46",
+      "title": "San Jose Parents, Teachers Blindsided By Potential Closure of Nine Elementary Schools",
+      "summary": "Concerned families, teachers, and community members packed the house at the San Jose Unified School District\u2019s community meeting Tuesday evening after receiving news last week that up to a third of its elementary schools may be shuttered due to a 20-percent reduction in enrollment.",
+      "link": "https://sfist.com/2026/02/11/san-jose-parents-teachers-blindsided-by-potential-closure-of-nine-elementary-schools/",
+      "source": "SFist",
+      "county": "Santa Clara",
+      "published": "2026-02-11T23:33:44+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "df30c356ab59",
+      "title": "Team USA Olympians to watch at 2026 Winter Olympics",
+      "summary": "American athletes are going for the gold at the 2026 Milano Cortina Winter Olympics. These are some of the top Team USA competitors to watch.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/2026-winter-olympics-athletes-to-watch/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T23:27:43+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -1677,11 +2250,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "622336baf363",
+      "id": "27fac8fadc97",
       "title": "Sharks center saw his idols win Olympic gold 20 years ago. Can he do the same?",
       "summary": "San Jose Sharks center Alex Wennberg has important role on Sweden's Olympic team: 'He can kind of do it all'",
-      "link": "https://www.eastbaytimes.com/2026/02/11/sweden-olympics-milan-cortina-hockey-san-jose-sharks-macklin-celebrini/",
-      "source": "East Bay Times",
+      "link": "https://www.mercurynews.com/2026/02/11/sweden-olympics-milan-cortina-hockey-san-jose-sharks-macklin-celebrini/",
+      "source": "Mercury News",
       "county": "Santa Clara",
       "published": "2026-02-11T23:22:12+00:00",
       "themes": [],
@@ -1738,11 +2311,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "378221ea7dfc",
+      "id": "651c901989cb",
       "title": "Mendocino Farms opens in Dublin, plans 2 more Bay Area restaurants in 2026",
       "summary": "On Feb. 24, seasonal menu with smoked pork burnt ends and two new salads will make its debut",
-      "link": "https://www.eastbaytimes.com/2026/02/11/mendocino-farms-opens-in-dublin-plans-2-more-bay-area-restaurants-in-2026/",
-      "source": "East Bay Times",
+      "link": "https://www.mercurynews.com/2026/02/11/mendocino-farms-opens-in-dublin-plans-2-more-bay-area-restaurants-in-2026/",
+      "source": "Mercury News",
       "county": "Alameda",
       "published": "2026-02-11T23:18:28+00:00",
       "themes": [],
@@ -1847,35 +2420,35 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
-      "id": "722ab413ce5f",
+      "id": "699d810f1011",
       "title": "James Van Der Beek\u2019s cancer battle left family broke, widow says",
       "summary": "Friends of the 'Dawson's Creek' star have launched a $550,000 GoFundMe campaign to help his wife and six children stay in their home 'at this incredibly difficult time.'",
-      "link": "https://www.eastbaytimes.com/2026/02/11/james-van-der-beek-cancer-family-broke/",
-      "source": "East Bay Times",
-      "county": "Alameda",
+      "link": "https://www.marinij.com/2026/02/11/james-van-der-beek-cancer-family-broke/",
+      "source": "Marin IJ",
+      "county": "Marin",
       "published": "2026-02-11T23:01:09+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
-      "id": "43bb49de8218",
+      "id": "173b6c198ae8",
       "title": "Melania Trump says she doesn\u2019t eat \u2018much sweets\u2019 as she celebrates Valentine\u2019s Day with children",
       "summary": "It was her first visit of the second Trump administration to The Children\u2019s Inn.",
-      "link": "https://www.pressdemocrat.com/2026/02/11/melania-trump-valentines-day/",
-      "source": "Press Democrat",
-      "county": "Sonoma",
+      "link": "https://www.marinij.com/2026/02/11/melania-trump-valentines-day/",
+      "source": "Marin IJ",
+      "county": "Marin",
       "published": "2026-02-11T22:59:47+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -1889,7 +2462,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
@@ -1903,34 +2476,15 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.1,
       "rankScore": 0.0
     },
     {
-      "id": "d6972506db1f",
-      "title": "How much were the top 10 most expensive home sales in Santa Rosa last week?",
-      "summary": "A single-family home that sold for $2.9 million tops the list of the most expensive residential real estate sales in Santa Rosa over the past week.",
-      "link": "https://www.pressdemocrat.com/2026/02/11/how-much-were-the-top-10-most-expensive-home-sales-in-santa-rosa-last-week/",
-      "source": "Press Democrat",
-      "county": "Sonoma",
-      "published": "2026-02-11T22:35:39+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "9615c231afbd",
+      "id": "4d1396bfd6b1",
       "title": "\u2018Never know\u2019: SF Giants\u2019 Eldridge starts shagging outfield fly balls but focus remains at first base",
       "summary": "Eldridge played 26 games in right field in 2023 before converting to a full-time first baseman",
-      "link": "https://www.eastbaytimes.com/2026/02/11/never-know-sf-giants-eldridge-starts-shagging-outfield-fly-balls-but-focus-remains-at-first-base/",
-      "source": "East Bay Times",
+      "link": "https://www.mercurynews.com/2026/02/11/never-know-sf-giants-eldridge-starts-shagging-outfield-fly-balls-but-focus-remains-at-first-base/",
+      "source": "Mercury News",
       "county": "San Francisco",
       "published": "2026-02-11T22:32:33+00:00",
       "themes": [],
@@ -1968,6 +2522,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "8e3a0fe428ac",
+      "title": "District Blames Teachers' Union For Leaving the Bargaining Table Early Tuesday Night",
+      "summary": "There is plenty of finger-pointing going on with the SF teachers' strike, but what seems clear is that the union may be sensing their upper hand at this point, and a resolution before Thursday seems unlikely.",
+      "link": "https://sfist.com/2026/02/11/district-blames-teachers-union-for-leaving-the-bargaining/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T22:21:35+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
       "id": "dc2d31f17ca3",
       "title": "Big Rig Smacks Down Weed\u2019s 32-Foot Totem Pole in Late-Night Lot Crash",
       "summary": "A big rig struck the 32-foot totem pole outside Ray\u2019s Food Place in Weed late Tuesday; officials are assessing damage and possible restoration.",
@@ -1981,6 +2554,53 @@
           "strength": 1
         }
       ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "d20931d467f7",
+      "title": "Stellantis issues \"do not drive\" warning for 225,000 vehicles with unrepaired Takata air bags",
+      "summary": "Stellantis is telling owners of the affected vehicles not to drive them until a potentially dangerous air bag is replaced. See which models are affected.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/car-recall-stellantis-airbag-takata/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T22:11:05+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "3b147ca31b38",
+      "title": "San Jose assistant principal among 11 arrested for allegedly communicating with minors for sex, police say",
+      "summary": "An assistant principal at a San Jose middle school was among a group of people arrested during a police operation targeting adults seeking minors online to engage in sexual activity, authorities announced on Wednesday.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/san-jose-child-sex-operation-11-arrested-assistant-principal-sunrise-middle-school/",
+      "source": "CBS San Francisco",
+      "county": "Santa Clara",
+      "published": "2026-02-11T22:07:49+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "c43d896572ea",
+      "title": "Weed, California's iconic totem pole felled in late night crash",
+      "summary": "A Northern California city known for its name lost a piece of history late Tuesday morning.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/weed-town-california-totem-pole-crash/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T22:07:32+00:00",
+      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.1,
@@ -2048,6 +2668,20 @@
       "rankScore": 0.0
     },
     {
+      "id": "590348ad9a6b",
+      "title": "California Highway Patrol issues Feather Alert for missing indigenous woman last seen in San Francisco",
+      "summary": "The California Highway Patrol has issued a Feather Alert for a missing woman last seen in San Francisco in January.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/california-feather-alert-missing-indigenous-woman-chp-san-francisco/",
+      "source": "CBS San Francisco",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:54:58+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
       "id": "b86fe395399a",
       "title": "San Mateo 101 Overhaul Nears Finish Line With South County Commute Playbook",
       "summary": "SMCTA unveiled the South County Multimodal Strategy as the final piece of 101 Corridor Connect, naming 20 priority projects focused on biking, station access and cross\u2011bay transit.",
@@ -2061,6 +2695,20 @@
           "strength": 1
         }
       ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "e27fcd8777fa",
+      "title": "Several Gray Whales Make 'Unseasonably Early' Appearance In the Bay",
+      "summary": "It typically would not be whale-watching season yet in San Francisco Bay, but a few gray whales, possibly due to changes in their feeding grounds up north, are making early stops in the Bay.",
+      "link": "https://sfist.com/2026/02/11/several-gray-whales-make-unseasonably-early-appearance-in-the-bay/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:42:24+00:00",
+      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.1,
@@ -2137,25 +2785,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "ea22cf836e33",
-      "title": "Judge: No evidence found in intimidation, obstruction with ex-Vallejo police chief Shawny Williams",
-      "summary": "Specifically, the court found after reviewing both declarations in-camera that \"there is no evidence that could fairly support the proposition that communications from (Vallejo Assistant City Attorney Kaitlyn) Knight or other City employees in the context of Williams\u2019 deposition in this case constituted intimidation or obstruction. Accordingly, the crime-fraud exception to otherwise privileged communications does not apply.\"",
-      "link": "https://www.timesheraldonline.com/2026/02/11/judge-no-evidence-found-in-intimidation-obstruction-with-ex-vallejo-police-chief-shawny-williams/",
-      "source": "Vallejo Times-Herald",
-      "county": "Solano",
-      "published": "2026-02-11T21:14:11+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
       "id": "89d5fed47c14",
       "title": "Stockton Pol Wants 'No Alcohol Sale' Scarlet Letter on DUI Licenses",
       "summary": "AB 1605 would allow judges to direct DMV to mark licenses 'No Alcohol Sale' for repeat DUI offenders; the bill draws on Utah's interdiction model.",
@@ -2184,6 +2813,20 @@
       "rankScore": 0.0
     },
     {
+      "id": "7f6758e88c4d",
+      "title": "Early-Bird Gray Whales Crash San Francisco Bay Commute",
+      "summary": "Gray whales have been spotted in San Francisco Bay earlier than usual; scientists are studying why and training mariners to reduce ship strikes.",
+      "link": "https://hoodline.com/2026/02/early-bird-gray-whales-crash-san-francisco-bay-commute/",
+      "source": "Hoodline",
+      "county": "San Francisco",
+      "published": "2026-02-11T21:00:16+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
       "id": "270bda74b61a",
       "title": "Developer applies for Palo Alto housing project despite lawsuit",
       "summary": "Undeterred by an ongoing legal challenge, the nonprofit Alta Housing last week filed a formal application to construct an affordable-housing complex with 72 apartments on a downtown parking lot near the corner of Lytton Avenue and Kipling Street. The six-story project on what\u2019s\u00a0known as \u201cLot T\u201d\u00a0is the first to take advantage of the city\u2019s new...\nThe post Developer applies for Palo Alto housing project despite lawsuit appeared first on San Jos\u00e9 Spotlight.",
@@ -2203,20 +2846,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "7f6758e88c4d",
-      "title": "Early-Bird Gray Whales Crash San Francisco Bay Commute",
-      "summary": "Gray whales have been spotted in San Francisco Bay earlier than usual; scientists are studying why and training mariners to reduce ship strikes.",
-      "link": "https://hoodline.com/2026/02/early-bird-gray-whales-crash-san-francisco-bay-commute/",
-      "source": "Hoodline",
-      "county": "San Francisco",
-      "published": "2026-02-11T21:00:16+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
       "id": "a92f072a6629",
       "title": "Medical campus eyed for San Jose sites once planned for private school",
       "summary": "San Jose office buildings that once were eyed as an elite school site may instead become a huge medical campus.",
@@ -2224,6 +2853,20 @@
       "source": "Mercury News",
       "county": "Santa Clara",
       "published": "2026-02-11T20:59:47+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b95e6e00b20c",
+      "title": "\u2018What happens in Vegas.\u2019 Los Gatos Party Mom\u2019s text messages shown at trial",
+      "summary": "SAN JOSE, Calif. (KRON) \u2014 Text messages from Shannon O\u2019Connor, also known as the \u201cLos Gatos Party Mom,\u201d were shown to 12 jurors on Tuesday, including one stating, \u201cWhat happens in Vegas stays in Vegas.\u201d Prosecutors displayed O\u2019Connor\u2019s text messages in the courtroom to show evidence that the mother of two actively encouraged underage teenagers [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/what-happens-in-vegas-los-gatos-party-moms-text-messages-shown-at-trial/",
+      "source": "KRON4",
+      "county": "Santa Clara",
+      "published": "2026-02-11T20:57:05+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -2358,6 +3001,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "b8609d8842a3",
+      "title": "Man slain in SF\u2019s Tenderloin Wednesday morning",
+      "summary": "SAN FRANCISCO (KRON) \u2014 A man was shot and killed in San Francisco\u2019s Tenderloin District Wednesday morning, according to police. The San Francisco Police Department responded at 8:55 a.m. to the 100 block of Turk Street on the report of a shooting. Arriving officers found a man suffering from a gunshot wound and began CPR, [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/man-slain-in-sfs-tenderloin-wednesday-morning/",
+      "source": "KRON4",
+      "county": "San Francisco",
+      "published": "2026-02-11T20:37:42+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
       "id": "a5ee268d4b17",
       "title": "Bay Area Paychecks Squeezed As Health Costs Devour Family Budgets In 19 States",
       "summary": "Commonwealth Fund data finds premiums plus deductibles were about 10% of median family income in 2024, with Louisiana worst and D.C. the lowest.",
@@ -2368,7 +3030,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2382,7 +3044,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2396,7 +3058,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2410,7 +3072,45 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "1dc139285e68",
+      "title": "At least 9 killed, dozens injured in shootings at British Columbia high school and home, officials say",
+      "summary": "Police said the suspected shooter, an 18-year-old resident of the community where the school is located, was found dead from a self-inflicted gunshot wound.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/several-killed-dozens-injured-shooting-canada-british-columbia-high-school-tumbler-ridge/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T20:32:57+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "02115d8ecca3",
+      "title": "Santa Rosa police seize over 165 firearms, arrest suspected ghost gun manufacturer",
+      "summary": "A Sonoma County man has been arrested on multiple weapons charges after police seized more than 150 firearms from two homes as part of an investigation into the illegal manufacturing of guns.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/santa-rosa-167-guns-seized-cloverdale-suspected-ghost-gun-manufacturer-arrested/",
+      "source": "CBS San Francisco",
+      "county": "Sonoma",
+      "published": "2026-02-11T20:31:37+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2429,7 +3129,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2443,7 +3143,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2462,7 +3162,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2476,7 +3176,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.2,
       "rankScore": 0.0
     },
     {
@@ -2487,6 +3187,39 @@
       "source": "The Almanac",
       "county": "San Mateo",
       "published": "2026-02-11T20:06:55+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "69009daf99e2",
+      "title": "James Van Der Beek, \"Dawson's Creek\" star, dies at 48 after cancer diagnosis",
+      "summary": "\"Dawson's Creek\" and \"Varsity Blues\" star James Van Der Beek has died at 48 years old.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/james-van-der-beek-dies-dawsons-creek/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T20:05:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "1b072cd2d13f",
+      "title": "Redwood City man who struck pedestrians while chasing hit-and-run driver sentenced",
+      "summary": "(KRON) \u2014 A 20-year-old Redwood City man was sentenced Tuesday for assault with a deadly weapon in connection to a 2025 hit-and-run case where he was a victim-turned-assailant, the San Mateo County District Attorney\u2019s Office announced. Brian Barbatajimaroa was driving his red Mercedes on the night of March 1, 2025, when his vehicle was struck [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/redwood-city-man-who-struck-pedestrians-while-chasing-hit-and-run-driver-sentenced/",
+      "source": "KRON4",
+      "county": "San Mateo",
+      "published": "2026-02-11T20:04:17+00:00",
       "themes": [
         {
           "name": "Governance & Power",
@@ -2518,11 +3251,11 @@
       "rankScore": 0.0
     },
     {
-      "id": "91719131c561",
+      "id": "a8474da842d6",
       "title": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay",
-      "summary": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-      "link": "https://www.berkeleyside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening",
-      "source": "Berkeleyside",
+      "summary": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay\n\nA running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+      "link": "https://oaklandside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening/",
+      "source": "The Oaklandside",
       "county": "Alameda",
       "published": "2026-02-11T20:00:00+00:00",
       "themes": [],
@@ -2602,6 +3335,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "91d6bfd7b111",
+      "title": "Two Bay Area Men Among Five Sentenced to Prison For Scheme to Steal $2.5M From DoorDash",
+      "summary": "Five people, including two from the Bay Area, have been sentenced to prison terms and restitution for their parts in a strange fraud scheme involving the creation of sham driver and customer accounts on the DoorDash platform.",
+      "link": "https://sfist.com/2026/02/11/two-bay-area-men-among-five/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T19:39:36+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
       "id": "0132da8dc39e",
       "title": "West Oakland's Phoenix Opened With Cheers, Still Sits Empty",
       "summary": "A 101\u2011unit West Oakland supportive\u2011housing building remains empty months after its November opening amid a contractor pay dispute and tenant confusion.",
@@ -2615,20 +3367,6 @@
           "strength": 2
         }
       ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
-      "id": "bee3e1d51712",
-      "title": "Garry Tan\u2019s New Power Play: \u2018Garry\u2019s List\u2019 Targets California Politics",
-      "summary": "Y Combinator CEO Garry Tan launched 'Garry\u2019s List,' a statewide nonprofit to publish voter guides, produce policy research and host events amid the billionaire\u2011tax debate.",
-      "link": "https://hoodline.com/2026/02/garry-tan-s-new-power-play-garry-s-list-targets-california-politics/",
-      "source": "Hoodline",
-      "county": "San Francisco",
-      "published": "2026-02-11T19:26:14+00:00",
-      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.2,
@@ -2743,6 +3481,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "efddedad00cb",
+      "title": "SF Supervisors Vow to Keep Mission Cultural Center at Its Current Home, Regardless of Financial Problems",
+      "summary": "This is more than just a symbolic resolution, because the city owns the building, and the SF Board of Supervisors promised that the currently closed Mission Cultural Center will stay put and reopen no matter what.",
+      "link": "https://sfist.com/2026/02/11/supervisors-vow-to-keep-mission-cultural-center-at-its-mission-street-home-regardless-of-its-financial-problems/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T19:06:37+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
       "id": "f8494bbf4abe",
       "title": "Organizer of the annual free Thanksgiving Day dinner is Sonoma Valley\u2019s 2026 Alcalde",
       "summary": "The city has selected Gary Edwards as the 2026 Honorary Alcalde, a Sonoma resident and organizer of the annual free Thanksgiving Day dinner for the past 20 years.",
@@ -2751,25 +3508,6 @@
       "county": "Sonoma",
       "published": "2026-02-11T19:02:39+00:00",
       "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
-      "id": "b32e50827ddb",
-      "title": "Modesto Shelter\u2019s Grim Countdown: Dozens of Dogs Face Euthanasia",
-      "summary": "Stanislaus Animal Services says about 30 dogs at its Modesto shelter face euthanasia as overcrowding strains staff. Adoption and foster help is needed.",
-      "link": "https://hoodline.com/2026/02/modesto-shelter-s-grim-countdown-dozens-of-dogs-face-euthanasia/",
-      "source": "Hoodline",
-      "county": "San Francisco",
-      "published": "2026-02-11T19:00:43+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        }
-      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.2,
@@ -2865,6 +3603,25 @@
       "rankScore": 0.0
     },
     {
+      "id": "e4bae8b12fa6",
+      "title": "SFUSD superintendent holds briefing as teachers' strike enters Day 3",
+      "summary": "San Francisco Unified School District superintendent Maria Su spoke to reporters Wednesday morning on the third day of the teachers' strike, as both sides were set to return to the bargaining table.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/sfusd-superintendent-holds-briefing-as-teachers-strike-enters-day-3/",
+      "source": "CBS San Francisco",
+      "county": "San Francisco",
+      "published": "2026-02-11T18:23:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
       "id": "271864cb9247",
       "title": "Esteemed Bay Area chef to debut upscale Mexican restaurant, Amado",
       "summary": "At Amado, not only does the food tell a story, but the plates do as well. The soon-to-open downtown Burlingame restaurant is a love note to Mexican cuisine, offering hard-to-find ancestral dishes, including seven mole variations from various regions.\nThe post Esteemed Bay Area chef to debut upscale Mexican restaurant, Amado appeared first on The Almanac.",
@@ -2889,7 +3646,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -2903,7 +3660,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -2922,7 +3679,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -2936,7 +3693,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -2955,7 +3712,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -2969,7 +3726,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -2983,7 +3740,40 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
+      "id": "45f5e93ea784",
+      "title": "Humpday Headlines: Alameda County Supes Debate Flock Cameras",
+      "summary": "Nine people have been killed in a school shooting in Canada; the Alameda County Board of Supervisors heard public comments about Flock cameras Tuesday; and Shasta County is seeing a measles outbreak.",
+      "link": "https://sfist.com/2026/02/11/humpday-headlines-alameda-county-supes-debate-flock-cameras/",
+      "source": "SFist",
+      "county": "Alameda",
+      "published": "2026-02-11T17:42:41+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
+      "id": "6255d5a40b8e",
+      "title": "Bay Area suburb tops list of safest cities in California for 2026",
+      "summary": "SAN FRANCISCO (KRON) \u2014 An East Bay suburb has reclaimed the top spot as California\u2019s safest city, an annual survey shows. Danville, located in the San Ramon Valley east of Oakland, was ranked as California\u2019s No. 1 safest city for 2026, according to SafeWise. Last year, the online safety resource website ranked it No. 2., [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/bay-area-suburb-tops-list-of-safest-cities-in-california-for-2026/",
+      "source": "KRON4",
+      "county": "San Francisco",
+      "published": "2026-02-11T17:42:20+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
       "rankScore": 0.0
     },
     {
@@ -3006,6 +3796,20 @@
       "rankScore": 0.0
     },
     {
+      "id": "be5015d1f271",
+      "title": "TikTok to launch local feed that taps users' geolocation data",
+      "summary": "The social media platform changed its privacy policy last month, inviting users to allow it to track their specific location.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/tiktok-local-feed-geolocation-data/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T17:37:51+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
       "id": "9ddc771ba30a",
       "title": "Sonoma Valley faithful hold vigil in solidarity with Buddhist monks\u2019 \u2018Walk for Peace\u2019",
       "summary": "Congregation Shir Shalom and the First Congregational Church of Sonoma hold a prayer vigil to spread the message of unity and peace.",
@@ -3020,13 +3824,13 @@
       "rankScore": 0.0
     },
     {
-      "id": "48bfd2d595f3",
-      "title": "Human rights advocate to lecture on slavery in Sonoma County",
-      "summary": "Human rights and equity advocate D'mitra Smith will discuss \u201cSlavery and Exploitative Labor in Sonoma County,\u201d as part of the Sonoma-Petaluma Parks lecture series on Friday, Feb. 19, at 7 p.m. in The Chapel at Mission San Francisco Solano in Sonoma.",
-      "link": "https://www.sonomanews.com/2026/02/11/human-rights-advocate-to-lecture-on-slavery-in-sonoma-county/",
-      "source": "Sonoma Index-Tribune",
-      "county": "Sonoma",
-      "published": "2026-02-11T17:03:27+00:00",
+      "id": "2b1838539c97",
+      "title": "Airspace closure followed spat over drone-related tests and party balloon shoot-down, sources say",
+      "summary": "Pentagon officials had undertaken planning to use military technology near Fort Bliss, in El Paso, to practice downing drones.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/airspace-closure-followed-spat-over-drone-related-tests-and-party-balloon-shoot-down-sources-say/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T17:21:47+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -3047,6 +3851,20 @@
           "strength": 1
         }
       ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
+      "id": "a375e05094a3",
+      "title": "1 killed after car plunges 500 feet off Highway 1 in Big Sur",
+      "summary": "Authorities on the Central Coast have recovered a body after a car plunged several hundred feet off Highway 1 in Big Sur Tuesday afternoon.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/highway-1-big-sur-fatal-cliff-plunge-hurricane-point/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T16:39:34+00:00",
+      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.3,
@@ -3086,6 +3904,77 @@
       "rankScore": 0.0
     },
     {
+      "id": "e302e7d2b371",
+      "title": "San Francisco Unified School District teachers strike continues for 3rd day",
+      "summary": "Schools in the San Francisco Unified School District are closed on Wednesday, for a third straight day, said Laura Dudnick, SFUSD director of communications, on Tuesday.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-unified-school-district-teachers-strike-day-2-feburary-10/",
+      "source": "CBS San Francisco",
+      "county": "San Francisco",
+      "published": "2026-02-11T15:37:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "a9376926caf5",
+      "title": "Wednesday morning First Alert weather forecast with Jessica Burch - 2/11/26",
+      "summary": "Expect continued scattered showers in the Bay Area Wednesday, with thunderstorms possible. Heading into the holiday weekend, dry conditions return. Jessica Burch has the forecast.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/wednesday-morning-first-alert-weather-forecast-with-jessica-burch-21126/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T15:28:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "3a6814a32b30",
+      "title": "Northern California county reports measles outbreak with 8 cases",
+      "summary": "Public health officials say they've identified a total of eight measles cases in Shasta County as contact tracing continues.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/shasta-county-california-measles-outbreak/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T15:18:18+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "588ef54c1919",
+      "title": "Missing teen last seen in Mountain View has been located",
+      "summary": "(KRON) \u2014 A 15-year-old boy who was last seen in Mountain View on Saturday has been found, police announced just before 5 p.m. Tuesday.",
+      "link": "https://www.kron4.com/news/bay-area/teen-last-seen-in-mountain-view-has-been-missing-since-saturday/",
+      "source": "KRON4",
+      "county": "Santa Clara",
+      "published": "2026-02-11T15:12:45+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
       "id": "3cf20b6a5570",
       "title": "AT&T Pebble Beach Pro-Am golf tournament tees off this week in Monterey County",
       "summary": "The AT&#38;T Pebble Beach Pro-Am golf tournament is teeing off this week in Monterey County, with returning champion Rory McIlroy making the first start of his PGA Tour season. The four-day tournament starting Thursday is the first signature event of the tour\u2019s 2026 season, meaning there is a limited field of only 80 players and [&#8230;]\nThe post AT&amp;T Pebble Beach Pro-Am golf tournament tees off this week in Monterey County appeared first on Local News Matters.",
@@ -3114,13 +4003,32 @@
       "rankScore": 0.0
     },
     {
-      "id": "0d3c3ac36765",
-      "title": "Feather Alert issued for missing woman, 23, last seen in SF",
-      "summary": "SAN FRANCISCO (KRON) \u2014 A Feather Alert was activated by the California Highway Patrol for a missing woman last seen in San Francisco in late January. Mi-Kayla Ann French, 23, is described by authorities as 5 feet 6 inches tall and 180 pounds. She has brown hair and hazel eyes. French was last seen near [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/feather-alert-issued-for-missing-woman-23-last-seen-in-sf/",
-      "source": "KRON4",
+      "id": "a3737577811a",
+      "title": "The San Francisco office market is expected to stay hot. It\u2019s not just the AI boom",
+      "summary": "San Francisco office leasing is projected to reach 12.8 million square feet in 2026, though a concentration in AI companies poses risks to the market's growth.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/office-leasing-forecast-vts-ai-boom-rto-technology.html",
+      "source": "SF Business Journal",
       "county": "San Francisco",
-      "published": "2026-02-11T14:05:21+00:00",
+      "published": "2026-02-11T14:25:29+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9c2daefa1ad0",
+      "title": "How Valentine's Day and goats are part of the plan for downtown San Francisco's recovery",
+      "summary": "The Downtown Development Corp. is funding art installations and community events to transform San Francisco's downtown into a vibrant destination beyond office hours.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/east-cut-valentines-downtown-development-corp.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T14:18:53+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -3128,13 +4036,13 @@
       "rankScore": 0.0
     },
     {
-      "id": "b491ff2068c5",
-      "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
-      "summary": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
-      "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
-      "source": "Berkeleyside",
-      "county": "Alameda",
-      "published": "2026-02-11T14:00:00+00:00",
+      "id": "0d3c3ac36765",
+      "title": "Feather Alert issued for missing woman, 23, last seen in SF",
+      "summary": "SAN FRANCISCO (KRON) \u2014 A Feather Alert was activated by the California Highway Patrol for a missing woman last seen in San Francisco in late January. Mi-Kayla Ann French, 23, is described by authorities as 5 feet 6 inches tall and 180 pounds. She has brown hair and hazel eyes. French was last seen near [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/feather-alert-issued-for-missing-woman-23-last-seen-in-sf/",
+      "source": "KRON4",
+      "county": "San Francisco",
+      "published": "2026-02-11T14:05:21+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
@@ -3217,6 +4125,53 @@
       "rankScore": 0.0
     },
     {
+      "id": "b491ff2068c5",
+      "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
+      "summary": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
+      "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
+      "source": "Berkeleyside",
+      "county": "Alameda",
+      "published": "2026-02-11T14:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "58fffc8c377a",
+      "title": "Rep. Khanna names 6 men he says were redacted from Epstein files for \"no apparent reason\"",
+      "summary": "Two lawmakers are accusing the government of improperly redacting some people's names from the Epstein files, including six men whose identities are now public.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/massie-khanna-epstein-files-6-men/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-02-11T13:49:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "cad5a80616a9",
+      "title": "A new S.F. building that houses a successful tech company is for sale. Here's why it will be an important test",
+      "summary": "SKS Partners lists the San Francisco office building housing Samsara's headquarters, testing valuations for stabilized properties in a challenging market.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/11/sks-partners-samsara-list-sale-one-deharo.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-02-11T13:31:24+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
       "id": "375a924e02a2",
       "title": "Mental health advocate for California tribes dies in murder-suicide",
       "summary": "This story was originally published by CalMatters. Sign up for their newsletters. A member of the Yurok tribe who advocated for better mental health treatment and suicide intervention in rural Northern Californian has died in an apparent murder-suicide.\u00a0 Celinda Gonzales was 59.\u00a0 In 2020, CalMatters wrote about her work in Humboldt County, where about 2 [&#8230;]\nThe post Mental health advocate for California tribes dies in murder-suicide appeared first on The Almanac.",
@@ -3274,7 +4229,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -3293,7 +4248,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 0.5,
       "rankScore": 0.0
     },
     {
@@ -3406,7 +4361,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.5,
+      "ageDays": 0.6,
       "rankScore": 0.0
     },
     {
@@ -3452,14 +4407,19 @@
       "rankScore": 0.0
     },
     {
-      "id": "ac85a7bcc93c",
-      "title": "KRON4 reporter hikes with mushroom enthusiasts to learn what\u2019s deadly and what\u2019s not",
-      "summary": "(KRON) \u2014 At least 40 people statewide have been hospitalized and four people killed since November, all linked to the ingestion of wild mushrooms. In the East Bay, KRON4\u2019s Philippe Djegal hiked with mushroom enthusiasts on a recent foray. Watch the full report in the video player above as they show the subtle differences between [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/kron4-reporter-hikes-with-mushroom-enthusiasts-to-learn-whats-deadly-and-whats-not/",
-      "source": "KRON4",
-      "county": "Alameda",
-      "published": "2026-02-11T07:05:48+00:00",
-      "themes": [],
+      "id": "9dbc53c3dd76",
+      "title": "San Francisco schools will be closed for third straight day as strike continues",
+      "summary": "Amanda Hari reports on the ongoing teacher strike in San Francisco.\n\nWebsite: https://kpix.com/ \nYouTube: https://www.youtube.com/CBSSanFrancisco \nFacebook: https://www.facebook.com/CBSSanFrancisco \nInstagram: https://www.instagram.com/kpixtv/ \nTwitter: https://twitter.com/KPIXtv",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/san-francisco-schools-will-be-closed-for-third-straight-day-as-strike-continues/",
+      "source": "CBS San Francisco",
+      "county": "San Francisco",
+      "published": "2026-02-11T07:09:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.7,
@@ -3495,7 +4455,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
@@ -3514,21 +4474,40 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
-      "id": "16a2223902b2",
-      "title": "Large rally held on second day of SFUSD teachers\u2019 strike as negotiations inch forward",
-      "summary": "More than 1,000 San Francisco Unified School District teachers, parents, and students rallied Tuesday at Mission Dolores Park on the second day of a teachers\u2019 strike amid ongoing contract negotiations with the district. \u201cWe want fully staffed schools!\u201d attendees of the rally yelled as they filled the park holding signs, chanting, and banging drums.&#160; After [&#8230;]\nThe post Large rally held on second day of SFUSD teachers&#8217; strike as negotiations inch forward appeared first on Local Ne",
-      "link": "https://localnewsmatters.org/2026/02/10/sfusd-teachers-strike-rally-day-2/",
-      "source": "Local News Matters",
+      "id": "92378d382be3",
+      "title": "SFUSD strike: These Mission businesses offer free food during school closures",
+      "summary": "Mission District businesses are providing free breakfast and lunch to students during the SFUSD teachers strike. Here\u2019s where to find meals.\nThe post SFUSD strike: These Mission businesses offer free food during school closures appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/sfusd-free-food-mission-list/",
+      "source": "El Tecolote",
       "county": "San Francisco",
-      "published": "2026-02-11T05:30:00+00:00",
+      "published": "2026-02-11T05:57:02+00:00",
       "themes": [
         {
           "name": "Governance & Power",
           "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.8,
+      "rankScore": 0.0
+    },
+    {
+      "id": "72de73db47d9",
+      "title": "S.F. Supervisors vote unanimously to preserve MCCLA building as Latino arts hub",
+      "summary": "San Francisco supervisors voted unanimously to preserve the Mission District\u2019s historic Latino arts center at 2868 Mission Street, affirming the building\u2019s future as a cultural hub amid MCCLA\u2019s bankruptcy and a planned seismic retrofit.\nThe post S.F. Supervisors vote unanimously to preserve MCCLA building as Latino arts hub appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/sf-mccla-latino-arts-resolution/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-11T05:36:32+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
         }
       ],
       "nationalSignificance": 0,
@@ -3589,10 +4568,48 @@
       "rankScore": 0.0
     },
     {
-      "id": "a96dd4ba8c33",
+      "id": "153319262228",
+      "title": "Watch live: SFUSD to provide update on teachers strike",
+      "summary": "",
+      "link": "https://www.nbcbayarea.com/news/local/san-francisco-teachers-strike-parents-scramble/4032443/",
+      "source": "NBC Bay Area",
+      "county": "San Francisco",
+      "published": "2026-02-11T03:56:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.8,
+      "rankScore": 0.0
+    },
+    {
+      "id": "e11af3d88e8f",
+      "title": "Owner of Alameda's South Shore Center mall proposes replacing waterfront retail with new housing",
+      "summary": "Merlone Geier Partners explores converting retail space at Alameda's South Shore Center into roughly 800 housing units.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/10/south-shore-center-alameda-housing-merlone-geier.html",
+      "source": "SF Business Journal",
+      "county": "Alameda",
+      "published": "2026-02-11T03:35:54+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.9,
+      "rankScore": 0.0
+    },
+    {
+      "id": "2b5c3ce264ef",
       "title": "BIG WEEK: Lover\u2019s Lane, Exploratorium sexytime, Problematic Bae, \u2018Always Be My Maybe\u2019\u2026",
-      "summary": "Plus: 15th annual BAAITS Two-Spirit Pow-Wow, Horse Meat Disco, Rhondavous, Belmont eats, Martha Graham's 100th, more to do.\nThe post BIG WEEK: Lover&#8217;s Lane, Exploratorium sexytime, Problematic Bae, &#8216;Always Be My Maybe&#8217;&#8230; appeared first on 48 hills.",
-      "link": "https://48hills.org/2026/02/big-week-lovers-lane-exploratorium-sexytime-problematic-bae-and-always-be-my-maybe/",
+      "summary": "Plus: 15th annual BAAITS Two-Spirit Pow-Wow, Horse Meat Disco, Greg Wilson, Belmont eats, Martha Graham's 100th, more to do.\nThe post BIG WEEK: Lover&#8217;s Lane, Exploratorium sexytime, Problematic Bae, &#8216;Always Be My Maybe&#8217;&#8230; appeared first on 48 hills.",
+      "link": "https://48hills.org/2026/02/big-week-lovers-lane-exploratorium-sexytime-horse-meat-disco-problematic-bae/",
       "source": "48 Hills",
       "county": "San Mateo",
       "published": "2026-02-11T03:06:30+00:00",
@@ -3617,14 +4634,19 @@
       "rankScore": 0.0
     },
     {
-      "id": "b95e6e00b20c",
-      "title": "\u2018What happens in Vegas.\u2019 Los Gatos Party Mom\u2019s text messages shown at trial",
-      "summary": "SAN JOSE, Calif. (KRON) \u2014 Text messages from Shannon O\u2019Connor, also known as the \u201cLos Gatos Party Mom,\u201d were shown to 12 jurors on Tuesday, including one stating, \u201cWhat happens in Vegas stays in Vegas.\u201d Prosecutors displayed O\u2019Connor\u2019s text messages in the courtroom to show evidence that the mother of two actively encouraged underage teenagers [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/what-happens-in-vegas-los-gatos-party-moms-text-messages-shown-at-trial/",
-      "source": "KRON4",
-      "county": "Santa Clara",
-      "published": "2026-02-11T02:44:39+00:00",
-      "themes": [],
+      "id": "4bfa00ff7741",
+      "title": "Day Around the Bay: Sure Enough, School Canceled for Wednesday as Teacher\u2019s Strike Still Not Resolved",
+      "summary": "The Trump administration tore down the Pride flag at Stonewall; turns out the pastor who did the Bad Bunny halftime show wedding is from Sacramento; and the SF teachers\u2019 strike will indeed barrel into Wednesday.",
+      "link": "https://sfist.com/2026/02/10/day-around-the-bay-sure-enough-school-canceled-for-wednesday-as-teachers-strike-still-not-resolved/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T02:49:56+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 0.9,
@@ -3717,7 +4739,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -3736,7 +4758,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -3748,25 +4770,6 @@
       "county": "Alameda",
       "published": "2026-02-11T01:00:00+00:00",
       "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 0.0
-    },
-    {
-      "id": "9fd907019a1c",
-      "title": "Palo Alto tops U.S. cities for highest  property tax bills",
-      "summary": "In Palo Alto, where the median home price now exceeds $3 million, property taxes have become a major cost of homeownership. The city ranks highest in the nation for median property taxes paid, according to a new analysis by Construction Coverage.\nThe post Palo Alto tops U.S. cities for highest  property tax bills appeared first on The Almanac.",
-      "link": "https://www.almanacnews.com/peninsula/2026/02/10/palo-alto-tops-u-s-cities-for-highest-property-tax-bills/",
-      "source": "The Almanac",
-      "county": "Santa Clara",
-      "published": "2026-02-11T00:52:53+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        }
-      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 1.0,
@@ -3820,6 +4823,39 @@
       "rankScore": 0.0
     },
     {
+      "id": "afb8cdae1783",
+      "title": "Mark Zuckerberg and Priscilla Chan to Get Even Cozier With Trump Via Miami Mansion Purchase",
+      "summary": "I truly hope the billionaires all someday have to perform elaborate mea culpas \u2014 or be brought up on charges! \u2014 for colluding and sucking up to Trump in this era. And notably this week, former liberal Mark Zuckerberg is reportedly seeking a new piece of real estate in Miami.",
+      "link": "https://sfist.com/2026/02/10/mark-zuckerberg-and-priscilla-chan-to-get-even-cozier-with-trump-via-miami-mansion-purchase/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-11T00:25:31+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 1.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9dc30f453801",
+      "title": "SF Firefighters Rescue Injured Woman From Hoarder Apartment Fire In North Beach",
+      "summary": "A woman reportedly suffered severe burns and was hospitalized after a fire broke out in her overstuffed, single-room occupancy apartment unit in North Beach on Tuesday.",
+      "link": "https://sfist.com/2026/02/10/sf-firefighters-rescue-woman-from/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-10T23:49:52+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 1.0,
+      "rankScore": 0.0
+    },
+    {
       "id": "7e678cb33703",
       "title": "Call to Action: Support Opening the Alto Rail Tunnel for Cyclists and Pedestrians",
       "summary": "It would provide a safe, fast, and level route between Mill Valley and Corte Madera/Larkspur\nThe post Call to Action: Support Opening the Alto Rail Tunnel for Cyclists and Pedestrians appeared first on Streetsblog San Francisco.",
@@ -3828,25 +4864,6 @@
       "county": "San Francisco",
       "published": "2026-02-10T23:37:20+00:00",
       "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "7e84befa7ac2",
-      "title": "San Francisco teachers strike continues into day 2",
-      "summary": "(BCN) \u2014 A teachers strike will keep San Francisco Unified School District schools closed for a second day Tuesday. Members of the roughly 6,000-strong teachers employed by SFUSD will hit the picket lines again, according to United Educators of San Francisco, the union representing them. \u201cThe strike follows nearly a year of bargaining over the [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/san-francisco-teachers-strike-continues-into-day-2/",
-      "source": "KRON4",
-      "county": "San Francisco",
-      "published": "2026-02-10T23:32:28+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 1.0,
@@ -3863,25 +4880,6 @@
       "themes": [
         {
           "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "e11af3d88e8f",
-      "title": "Owner of Alameda's South Shore Center mall proposes replacing waterfront retail with new housing",
-      "summary": "Merlone Geier Partners explores converting retail space at Alameda's South Shore Center into roughly 800 housing units.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/10/south-shore-center-alameda-housing-merlone-geier.html",
-      "source": "SF Business Journal",
-      "county": "Alameda",
-      "published": "2026-02-10T22:53:22+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
           "strength": 1
         }
       ],
@@ -3934,6 +4932,25 @@
       "themes": [
         {
           "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 1.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "3692f4e4c18c",
+      "title": "As Chronicle Moves on From 'Doom Loop' Headlines, It's Now Calling BART a 'Dying Rail System'",
+      "summary": "In reporting on what is otherwise good news for BART, the Chronicle couldn't help today but to throw cold water on things and sensationalize the agency's financial woes once more.",
+      "link": "https://sfist.com/2026/02/10/as-chronicle-moves-on-from-doom-loop-headlines-its-now-calling-bart-a-dying-rail-system/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-02-10T21:36:13+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
           "strength": 1
         }
       ],
@@ -3996,7 +5013,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.2,
       "rankScore": 0.0
     },
     {
@@ -4015,7 +5032,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.2,
       "rankScore": 0.0
     },
     {
@@ -4161,7 +5178,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 1.3,
       "rankScore": 0.0
     },
     {
@@ -4250,7 +5267,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -4264,7 +5281,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -4276,25 +5293,6 @@
       "county": "Alameda",
       "published": "2026-02-10T15:30:00+00:00",
       "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
-    },
-    {
-      "id": "8dc1f895a938",
-      "title": "49ers defensive lineman shot in San Francisco",
-      "summary": "SAN FRANCISCO (KRON) \u2014 49ers defensive lineman Keion White was shot early Monday morning in San Francisco, the team said in a statement. The San Francisco Police Department confirmed to KRON4 that the shooting happened around 4:06 a.m. on the 1700 block of Mission Street. White was shot in the ankle and is currently undergoing [\u2026]",
-      "link": "https://www.kron4.com/sports/49ers-defensive-lineman-shot-in-san-francisco/",
-      "source": "KRON4",
-      "county": "San Francisco",
-      "published": "2026-02-10T14:55:46+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 1.4,
@@ -4328,20 +5326,6 @@
           "strength": 1
         }
       ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.4,
-      "rankScore": 0.0
-    },
-    {
-      "id": "5f65134face4",
-      "title": "Rain returns Tuesday to Bay Area",
-      "summary": "SAN FRANCISCO (KRON) \u2014 Rainfall arrives Tuesday, but mostly holds off until the afternoon with heavier rain towards the evening commute and overnight. Daytime highs will be mostly in the low to mid 60s on the coast, high 50s to low 60s around the bay and inland. Overnight lows will be mostly in the mid [\u2026]",
-      "link": "https://www.kron4.com/weather/rain-returns-tuesday-to-bay-area/",
-      "source": "KRON4",
-      "county": "San Francisco",
-      "published": "2026-02-10T13:19:27+00:00",
-      "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 1.4,
@@ -4517,20 +5501,6 @@
       "rankScore": 0.0
     },
     {
-      "id": "5191ce85f023",
-      "title": "Popular BBQ joint in Pleasant Hill closed due to fire damage",
-      "summary": "PLEASANT HILL, Calif. (KRON) \u2014 A popular barbecue restaurant in Pleasant Hill is temporarily shut down after a fire broke out late Sunday night. Fire officials say the flames started inside the restaurant after hours \u2013 and the cause was determined to be accidental. This is the aftermath of a late-night fire that burned through [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/popular-bbq-joint-in-pleasant-hill-closed-due-to-fire-damage/",
-      "source": "KRON4",
-      "county": "Contra Costa",
-      "published": "2026-02-10T03:20:56+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
-    },
-    {
       "id": "3b5cfb14c572",
       "title": "How about \u2018Pretti Good Hospital?\u2019",
       "summary": "A move to replace Mark Zuckerberg with the people who died fighting ICE\nThe post How about &#8216;Pretti Good Hospital?&#8217; appeared first on 48 hills.",
@@ -4579,7 +5549,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
+      "ageDays": 2.0,
       "rankScore": 0.0
     },
     {
@@ -4632,7 +5602,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": 0.0
+      "rankScore": -0.0
     },
     {
       "id": "240ed89171fd",
@@ -4646,7 +5616,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": 0.0
+      "rankScore": -0.01
     },
     {
       "id": "a4281b6e1e2c",
@@ -4665,7 +5635,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": 0.0
+      "rankScore": -0.01
     },
     {
       "id": "1dce635f48f8",
@@ -4684,7 +5654,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": -0.01
+      "rankScore": -0.02
     },
     {
       "id": "8c5c38024f52",
@@ -4703,7 +5673,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": -0.01
+      "rankScore": -0.02
     },
     {
       "id": "39b359268b85",
@@ -4722,7 +5692,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.0,
-      "rankScore": -0.01
+      "rankScore": -0.02
     },
     {
       "id": "eaad2a0f67e1",
@@ -4741,21 +5711,21 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.1,
-      "rankScore": -0.03
+      "rankScore": -0.04
     },
     {
-      "id": "5eee26844de4",
+      "id": "1ff52bc2e63f",
       "title": "7 East Bay desserts to share with your sweetie this Valentine\u2019s Day",
-      "summary": "Nosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
-      "link": "https://www.berkeleyside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants",
-      "source": "Berkeleyside",
+      "summary": "7 East Bay desserts to share with your sweetie this Valentine\u2019s Day\n\nNosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
+      "link": "https://oaklandside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants/",
+      "source": "The Oaklandside",
       "county": "Alameda",
       "published": "2026-02-09T21:00:00+00:00",
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.1,
-      "rankScore": -0.06
+      "rankScore": -0.07
     },
     {
       "id": "88c8a3c3947b",
@@ -4769,7 +5739,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.1,
-      "rankScore": -0.06
+      "rankScore": -0.07
     },
     {
       "id": "4afb696293b8",
@@ -4782,8 +5752,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": -0.07
+      "ageDays": 2.2,
+      "rankScore": -0.08
     },
     {
       "id": "e887e01a311e",
@@ -4801,8 +5771,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": -0.07
+      "ageDays": 2.2,
+      "rankScore": -0.08
     },
     {
       "id": "1aa403f6e0bc",
@@ -4816,7 +5786,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": -0.08
+      "rankScore": -0.09
     },
     {
       "id": "0ff1daaa344e",
@@ -4835,7 +5805,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": -0.09
+      "rankScore": -0.1
     },
     {
       "id": "c98e007915fe",
@@ -4849,7 +5819,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.2,
-      "rankScore": -0.1
+      "rankScore": -0.11
     },
     {
       "id": "1b94d882ac21",
@@ -4868,7 +5838,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 6.2,
-      "rankScore": -0.11
+      "rankScore": -0.12
     },
     {
       "id": "53a1c5754d98",
@@ -4887,7 +5857,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": -0.13
+      "rankScore": -0.14
     },
     {
       "id": "d43af05dec05",
@@ -4901,7 +5871,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": -0.13
+      "rankScore": -0.14
     },
     {
       "id": "79c20a8f84cf",
@@ -4924,7 +5894,26 @@
       "nationalSignificance": 1,
       "isEnterprise": false,
       "ageDays": 4.3,
-      "rankScore": -0.13
+      "rankScore": -0.14
+    },
+    {
+      "id": "fbb439875c73",
+      "title": "SFUSD strike: Where students can get meals, childcare and other support",
+      "summary": "Where families can get free meals, child care and daytime programs during the SFUSD teacher strike.\nThe post SFUSD strike: Where students can get meals, childcare and other support appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/sfusf-strike-family-guide/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-09T16:26:22+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 2.3,
+      "rankScore": -0.16
     },
     {
       "id": "51e35009da9a",
@@ -4938,7 +5927,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.3,
-      "rankScore": -0.16
+      "rankScore": -0.17
     },
     {
       "id": "84e4e69591f3",
@@ -4952,7 +5941,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.4,
-      "rankScore": -0.19
+      "rankScore": -0.2
     },
     {
       "id": "47f0afc5e224",
@@ -4971,7 +5960,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.4,
-      "rankScore": -0.19
+      "rankScore": -0.2
     },
     {
       "id": "fb71a45b2580",
@@ -4985,7 +5974,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.4,
-      "rankScore": -0.2
+      "rankScore": -0.21
     },
     {
       "id": "45123285ec7f",
@@ -5018,7 +6007,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 2.7,
-      "rankScore": -0.35
+      "rankScore": -0.36
     },
     {
       "id": "4cd2ba18c098",
@@ -5037,29 +6026,6 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 3.1,
-      "rankScore": -0.54
-    },
-    {
-      "id": "91d3f70a500a",
-      "title": "Daily Digest: Horn Barbecue served eviction, Bill stock pops as firm eyes buyout",
-      "summary": "Horn Barbecue received an eviction notice, Bill Holdings stock pops as firm eyes buyout. Meanwhile, OpenAI is growing its footprint in downtown Bellevue, significantly adding to its space in the Puget Sound region.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/06/sfbt-digest-friday-bill-holdings-horn-barbecue.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-06T21:24:05+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        },
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 5.1,
       "rankScore": -0.55
     },
     {
@@ -5083,7 +6049,7 @@
       "nationalSignificance": 2,
       "isEnterprise": false,
       "ageDays": 7.2,
-      "rankScore": -0.58
+      "rankScore": -0.59
     },
     {
       "id": "1c0669c2df60",
@@ -5097,7 +6063,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 3.4,
-      "rankScore": -0.68
+      "rankScore": -0.69
     },
     {
       "id": "08023a5fa791",
@@ -5116,7 +6082,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 3.4,
-      "rankScore": -0.7
+      "rankScore": -0.71
     },
     {
       "id": "a96501e88b6e",
@@ -5130,7 +6096,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 4.0,
-      "rankScore": -0.99
+      "rankScore": -1.0
     },
     {
       "id": "baaa73a95f54",
@@ -5167,8 +6133,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.9,
-      "rankScore": -1.47
+      "ageDays": 5.0,
+      "rankScore": -1.48
     },
     {
       "id": "241e58139afb",
@@ -5182,64 +6148,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.0,
-      "rankScore": -1.49
-    },
-    {
-      "id": "4e90c8863bbe",
-      "title": "Robotic auto shop Kinetic opens first S.F. location with more planned for Bay Area",
-      "summary": "Kinetic Automation opens its third Bay Area location in San Francisco, using robots to repair complex car sensors for body shops and insurers.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/06/robotics-kinetic-car-repair-san-francisco-bay-area.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-06T22:43:27+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 5.0,
-      "rankScore": -1.52
-    },
-    {
-      "id": "15d664f924b1",
-      "title": "Presidio Bay Ventures buys Mission office building in effort to acquire 'places that matter to the city\u2019s fabric'",
-      "summary": "Presidio Bay Ventures acquired the 55,000-square-foot building through a deed-in-lieu foreclosure, capitalizing on the city's long-term lease.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/06/presidio-bay-ventures-333-valencia-mission.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-06T22:30:49+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 5.1,
-      "rankScore": -1.53
-    },
-    {
-      "id": "16a4563d6dd3",
-      "title": "Affirm CEO defends controversial buy now, pay later service to pay rent",
-      "summary": "Affirm's CEO downplays the rent payment pilot as a short-term liquidity tool for customers, while the fintech pursues a bank charter for future product expansion.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/02/06/affirm-pay-rent-bnpl-test-esusu-personal-finance.html",
-      "source": "SF Business Journal",
-      "county": "San Francisco",
-      "published": "2026-02-06T21:36:21+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 5.1,
-      "rankScore": -1.55
+      "rankScore": -1.5
     },
     {
       "id": "520dfad15903",
@@ -5252,8 +6161,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 5.1,
-      "rankScore": -1.57
+      "ageDays": 5.2,
+      "rankScore": -1.58
     },
     {
       "id": "a7327c2af0d0",
@@ -5267,7 +6176,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.2,
-      "rankScore": -1.61
+      "rankScore": -1.62
     },
     {
       "id": "cc2ab2b713e5",
@@ -5280,8 +6189,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 5.2,
-      "rankScore": -1.62
+      "ageDays": 5.3,
+      "rankScore": -1.63
     },
     {
       "id": "552a9754b53a",
@@ -5295,7 +6204,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.3,
-      "rankScore": -1.63
+      "rankScore": -1.64
     },
     {
       "id": "421a2f378235",
@@ -5328,7 +6237,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.4,
-      "rankScore": -1.68
+      "rankScore": -1.69
     },
     {
       "id": "86b5e0fdfa5e",
@@ -5347,7 +6256,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 5.8,
-      "rankScore": -1.89
+      "rankScore": -1.9
     },
     {
       "id": "c8e8de380ec1",
@@ -5361,21 +6270,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.0,
-      "rankScore": -1.99
-    },
-    {
-      "id": "13fc45f587cc",
-      "title": "Can it with the flatulence jokes! Berkeley\u2019s No. 1 bean fan spreads legume gospel on happy stomach",
-      "summary": "Can it with the flatulence jokes! Berkeley\u2019s No. 1 bean fan spreads legume gospel on happy stomach\n\nMadeline Schapiro, known online as Bean Supporter, says beans have solved her health issues. Her over 70,000 social media followers eat up all the bean propaganda she can dish out.",
-      "link": "https://oaklandside.org/2026/02/05/bean-supporter-madeline-schapiro/",
-      "source": "The Oaklandside",
-      "county": "Alameda",
-      "published": "2026-02-05T20:30:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 6.1,
-      "rankScore": -2.07
+      "rankScore": -2.0
     },
     {
       "id": "eedd563623f8",
@@ -5393,8 +6288,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 6.1,
-      "rankScore": -2.07
+      "ageDays": 6.2,
+      "rankScore": -2.08
     },
     {
       "id": "d6581b806cda",
@@ -5407,8 +6302,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 6.1,
-      "rankScore": -2.07
+      "ageDays": 6.2,
+      "rankScore": -2.08
     },
     {
       "id": "c834245ac63e",
@@ -5422,7 +6317,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 6.3,
-      "rankScore": -2.14
+      "rankScore": -2.15
     },
     {
       "id": "fdaac578ff19",
@@ -5435,8 +6330,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 6.8,
-      "rankScore": -2.42
+      "ageDays": 6.9,
+      "rankScore": -2.43
     },
     {
       "id": "1c97b0757a1e",
@@ -5450,7 +6345,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 7.1,
-      "rankScore": -2.56
+      "rankScore": -2.57
     },
     {
       "id": "4494223ae370",
@@ -5469,7 +6364,7 @@
       "nationalSignificance": 0,
       "isEnterprise": false,
       "ageDays": 7.2,
-      "rankScore": -2.58
+      "rankScore": -2.59
     },
     {
       "id": "0868f7dcb634",
@@ -5484,7 +6379,35 @@
       "isEnterprise": false,
       "ageDays": 8.1,
       "rankScore": -3.0
+    },
+    {
+      "id": "164608bbcb82",
+      "title": "These portraits show the Mission community\u2019s fight to save S.F.\u2019s MCCLA",
+      "summary": "Photo portraits capture artists, elders and families rallying to protect the Mission Cultural Center for the Latino Arts after its sudden closure in San Francisco.\nThe post These portraits show the Mission community\u2019s fight to save S.F.\u2019s MCCLA appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/mccla-latino-community-photos/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-03T17:29:47+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 8.3,
+      "rankScore": -3.0
+    },
+    {
+      "id": "98292251b237",
+      "title": "\u2018Dr. Loco,\u2019 legendary cultural icon and musician, dies at 84",
+      "summary": "Dr. Jos\u00e9 Cu\u00e9llar, known as Dr. Loco, a Chicano scholar, musician and cultural icon in San Francisco\u2019s Mission District, died Jan. 21 at age 84.\nThe post \u2018Dr. Loco,\u2019 legendary cultural icon and musician, dies at 84 appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/jose-cuellar-dr-loco-obit/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-02-03T01:22:13+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 9.0,
+      "rankScore": -3.0
     }
   ],
-  "generated_at": "February 11, 2026 at 11:47 PM UTC"
+  "generated_at": "February 12, 2026 at 12:15 AM UTC"
 }
