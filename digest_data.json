@@ -16,8 +16,27 @@
       ],
       "nationalSignificance": 7,
       "isEnterprise": true,
-      "ageDays": 4.8,
-      "rankScore": 5.61
+      "ageDays": 5.6,
+      "rankScore": 5.21
+    },
+    {
+      "id": "677de0266963",
+      "title": "State election watchdog probes Santa Clara County over Measure A campaign mailers",
+      "summary": "California\u2019s election watchdog is investigating Santa Clara County leaders over the campaign for a voter-approved sales tax increase, marketed as a way to shield the region\u2019s public hospitals from massive federal spending cuts. In a\u00a0Tuesday letter, the Fair Political Practices Commission (FPPC) informed two regional anti-tax groups it would probe the county over allegations of [&#8230;]\nThe post State election watchdog probes Santa Clara County over Measure A campaign mailers appeared first on L",
+      "link": "https://localnewsmatters.org/2026/04/11/santa-clara-county-measure-a-fppc-investigation/",
+      "source": "Local News Matters",
+      "county": "Santa Clara",
+      "published": "2026-04-12T04:00:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 4
+        }
+      ],
+      "nationalSignificance": 5,
+      "isEnterprise": true,
+      "ageDays": 0.4,
+      "rankScore": 5.0
     },
     {
       "id": "f33f46826677",
@@ -35,8 +54,8 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 4.99
+      "ageDays": 2.8,
+      "rankScore": 4.59
     },
     {
       "id": "b04fe7adff57",
@@ -54,8 +73,8 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": 4.68
+      "ageDays": 3.4,
+      "rankScore": 4.28
     },
     {
       "id": "440e442329f1",
@@ -77,8 +96,8 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 2.8,
-      "rankScore": 4.6
+      "ageDays": 3.6,
+      "rankScore": 4.2
     },
     {
       "id": "5c36344b7292",
@@ -96,8 +115,27 @@
       ],
       "nationalSignificance": 5,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": 4.45
+      "ageDays": 3.9,
+      "rankScore": 4.05
+    },
+    {
+      "id": "b6183c8e1d43",
+      "title": "\u2018Abhorrent\u2019: Staffers distance themselves from Swalwell after sexual assault claims",
+      "summary": "(KRON) \u2014 Backlash keeps growing after several allegations of sexual assault against Congressman and California governor candidate Eric Swalwell surfaced over the past few days. Endorsements have been recalled and several of Swalwell\u2019s collogues have called for him to exit the governor\u2019s race and for his resignation from Congress altogether. Additionally, several of Swalwell\u2019s staff [\u2026]",
+      "link": "https://www.kron4.com/news/politics/abhorrent-staffers-distance-themselves-from-swalwell-after-sexual-assault-claims/",
+      "source": "KRON4",
+      "county": "Bay Area",
+      "published": "2026-04-11T22:25:56+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 4,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 4.0
     },
     {
       "id": "802a669dafee",
@@ -123,7 +161,7 @@
       ],
       "nationalSignificance": 4,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 4.0
     },
     {
@@ -146,7 +184,7 @@
       ],
       "nationalSignificance": 4,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 4.0
     },
     {
@@ -173,8 +211,8 @@
       ],
       "nationalSignificance": 4,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": 3.92
+      "ageDays": 3.0,
+      "rankScore": 3.52
     },
     {
       "id": "de2cc015d570",
@@ -196,7 +234,7 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 3.0
     },
     {
@@ -219,8 +257,27 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 3.0
+      "ageDays": 2.6,
+      "rankScore": 2.68
+    },
+    {
+      "id": "605c39d6d7e5",
+      "title": "Manhattan DA investigating sexual assault allegations against Rep. Eric Swalwell by former staffer",
+      "summary": "The Manhattan District Attorney's Office is now investigating a claim from one of Rep. Eric Swalwell's former staffers, it said in a statement on Saturday.",
+      "link": "https://abc7news.com/post/rep-eric-swalwell-manhattan-district-attorney-investigating-sexual-assault-allegations-made-former-staffer/18872326/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-12T06:56:31+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": true,
+      "ageDays": 0.3,
+      "rankScore": 2.0
     },
     {
       "id": "055002696abc",
@@ -229,11 +286,63 @@
       "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-bay-area-thunderstorms-april-11-2026/",
       "source": "CBS San Francisco",
       "county": "San Francisco",
-      "published": "2026-04-11T18:55:58+00:00",
+      "published": "2026-04-12T06:14:15+00:00",
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.3,
+      "rankScore": 2.0
+    },
+    {
+      "id": "2067c3b1949c",
+      "title": "Trump ousts all six Biden-appointed Presidio Trust board members",
+      "summary": "Chairman Mark Buell said he got a brief White House email saying the terminations were \u201ceffective immediately.\u201d",
+      "link": "https://sfstandard.com/2026/04/11/trump-ousts-all-six-biden-appointed-presidio-trust-board-members/",
+      "source": "SF Standard",
+      "county": "San Francisco",
+      "published": "2026-04-12T01:27:04+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 2.0
+    },
+    {
+      "id": "8d58bef0ec5e",
+      "title": "Manhattan DA launches probe into Eric Swalwell sexual assault allegations: reports",
+      "summary": "(KRON) \u2014 The Manhattan District Attorney\u2019s Office said Saturday that is launching an investigation into the sexual assault allegations against Bay Area congressman and California gubernatorial candidate Eric Swalwell, according to reports from CNN and The New York Times. The update comes just one day after a former staffer of Swalwell accused Swalwell in a [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/manhattan-da-launches-probe-into-eric-swalwell-sexual-assault-allegations-reports/",
+      "source": "KRON4",
+      "county": "Bay Area",
+      "published": "2026-04-11T22:26:13+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": true,
+      "ageDays": 0.7,
+      "rankScore": 2.0
+    },
+    {
+      "id": "1c65d686c995",
+      "title": "House Democrats call on Eric Swalwell to drop out of California governor race amid sexual assault allegations",
+      "summary": "The woman alleged the California gubernatorial candidate sexually assaulted her twice when she was too drunk to consent.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/eric-swalwell-sexual-assault-allegations/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-11T22:03:45+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 0.7,
       "rankScore": 2.0
     },
     {
@@ -252,7 +361,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 2.0
     },
     {
@@ -271,7 +380,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 2.0
     },
     {
@@ -285,7 +394,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 1.1,
       "rankScore": 2.0
     },
     {
@@ -304,7 +413,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 1.1,
       "rankScore": 2.0
     },
     {
@@ -318,7 +427,26 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 1.1,
+      "rankScore": 2.0
+    },
+    {
+      "id": "b1d7e99065cb",
+      "title": "Manhattan DA's office to investigate Swalwell sexual assault allegation",
+      "summary": "Rep. Eric Swalwell, D-Calif., said the allegations are \u201cfalse\u201d as he pursues a bid for governor of California.",
+      "link": "https://www.nbcbayarea.com/news/politics/manhattan-da-investigating-rep-eric-swalwell-sexual-assault-allegation/4067344/",
+      "source": "NBC Bay Area",
+      "county": "Bay Area",
+      "published": "2026-04-11T11:20:18+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": true,
+      "ageDays": 1.1,
       "rankScore": 2.0
     },
     {
@@ -337,7 +465,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 1.2,
       "rankScore": 2.0
     },
     {
@@ -356,26 +484,21 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.5,
+      "ageDays": 1.3,
       "rankScore": 2.0
     },
     {
-      "id": "1c65d686c995",
-      "title": "House Democrats call on Eric Swalwell to drop out of California governor race amid sexual assault allegations",
-      "summary": "The woman alleged the California gubernatorial candidate sexually assaulted her twice when she was too drunk to consent.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/eric-swalwell-sexual-assault-allegations/",
-      "source": "CBS San Francisco",
+      "id": "44948089cf96",
+      "title": "Masters becomes an open race after Rory McIlroy stumbles",
+      "summary": "Rory McIlroy of Northern Ireland reacts on the 18th green during the third round of the 2026 Masters Tournament at Augusta National Golf Club on April 11, 2026 in Augusta, Georgia.",
+      "link": "https://www.nbcbayarea.com/news/sports/golf/masters-rory-mcilroy-stumbles/4067397/",
+      "source": "NBC Bay Area",
       "county": "Bay Area",
-      "published": "2026-04-11T03:25:09+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
+      "published": "2026-04-11T05:24:22+00:00",
+      "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.4,
       "rankScore": 2.0
     },
     {
@@ -394,7 +517,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 2.0
     },
     {
@@ -413,7 +536,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 2.0
     },
     {
@@ -432,45 +555,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 2.0
-    },
-    {
-      "id": "5c27b2dae44e",
-      "title": "Melania Trump denies relationship with Epstein, urges Congress to hold hearing with survivors",
-      "summary": "First lady Melania Trump delivered a televised statement denying a relationship with the late sex offender Jeffrey Epstein.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/melania-trump-jeffrey-epstein-relationship-denial/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-11T00:17:28+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 2.0
-    },
-    {
-      "id": "0f27f9f51fb6",
-      "title": "\u2018We\u2019re in really crazy territory\u2019: Swalwell bombshell could upend the governor\u2019s race",
-      "summary": "A former staffer claims the congressman sexually assaulted her. Which candidates stand to benefit?",
-      "link": "https://sfstandard.com/2026/04/10/re-really-crazy-territory-swalwell-bombshell-could-upend-governor-s-race/",
-      "source": "SF Standard",
-      "county": "San Francisco",
-      "published": "2026-04-10T23:06:57+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 2.0
     },
     {
@@ -497,7 +582,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 2.0
     },
     {
@@ -516,26 +601,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 2.0
-    },
-    {
-      "id": "675cf7ff23f5",
-      "title": "Rivals, Pelosi urge Swalwell to drop out of governor\u2019s race amid assault accusations",
-      "summary": "The East Bay congressman is also facing calls from some candidates to resign.",
-      "link": "https://sfstandard.com/2026/04/10/swalwell-sexual-allegations-drop-out/",
-      "source": "SF Standard",
-      "county": "Alameda",
-      "published": "2026-04-10T22:22:31+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.6,
       "rankScore": 2.0
     },
     {
@@ -554,7 +620,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 2.0
     },
     {
@@ -573,21 +639,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 2.0
-    },
-    {
-      "id": "00fe314ad17c",
-      "title": "Kamala Harris says she might run for president in 2028: \"I'm thinking about it\"",
-      "summary": "Former Vice President Kamala Harris said that she might run for president in 2028, telling a gathering in New York that she is considering mounting a third bid for the White House.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/kamala-harris-2028-president-national-action-network/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T21:44:00+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 2.0
     },
     {
@@ -601,7 +653,7 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 2.0
     },
     {
@@ -624,7 +676,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 2.0
     },
     {
@@ -643,7 +695,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 2.0
     },
     {
@@ -662,26 +714,7 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 2.0
-    },
-    {
-      "id": "288804cdf64b",
-      "title": "Frontier Airlines plane and 2 trucks nearly collide at LAX",
-      "summary": "The Federal Aviation Administration is investigating a close call between a Frontier Airlines plane and two trucks on the tarmac at Los Angeles International Airport.",
-      "link": "https://abc7news.com/post/lax-close-call-frontier-airlines-plane-2-trucks-collide-tarmac/18866736/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-04-10T18:20:25+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 2.0
     },
     {
@@ -700,22 +733,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": true,
-      "ageDays": 1.3,
-      "rankScore": 2.0
-    },
-    {
-      "id": "1576462010c0",
-      "title": "Bay Area forecast: Stormy Friday leads in wet weekend",
-      "summary": "(BCN) \u2014 Friday calls for up to 90% chances of showers throughout the day, according to the National Weather Service. Daytime highs will be mostly in the mid to high 60s along the coast, mid to high 60s around the bay, and mid 60s to low 70s inland. Overnight lows will be in the high [\u2026]",
-      "link": "https://www.kron4.com/weather/bay-area-forecast-stormy-friday-leads-in-wet-weekend/",
-      "source": "KRON4",
-      "county": "Bay Area",
-      "published": "2026-04-10T12:23:56+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 2.0
+      "ageDays": 2.1,
+      "rankScore": 1.97
     },
     {
       "id": "328400bd267a",
@@ -733,8 +752,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 2.0
+      "ageDays": 2.1,
+      "rankScore": 1.93
     },
     {
       "id": "17fddaf70b58",
@@ -752,22 +771,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.6,
-      "rankScore": 2.0
-    },
-    {
-      "id": "a78ae68ca141",
-      "title": "Rain expected to hit Bay Area this weekend after weeks of dry weather",
-      "summary": "(KRON) \u2014 Rain and snow are on the way this weekend, starting early Friday morning.\u00a0\u00a0 The rain in the Bay Area is considered beneficial after several weeks of dry weather,\u00a0according\u00a0to meteorologist Dylan Flynn with the National Weather Service. \u201cIt\u2019s going to help top us off,\u201d said Flynn. \u201cIn April, we typically get about two inches [\u2026]",
-      "link": "https://www.kron4.com/weather/rain-expected-to-hit-bay-area-this-weekend-after-weeks-of-dry-weather/",
-      "source": "KRON4",
-      "county": "Bay Area",
-      "published": "2026-04-10T02:52:30+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 2.0
+      "ageDays": 2.4,
+      "rankScore": 1.81
     },
     {
       "id": "49a389d21e12",
@@ -789,8 +794,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 2.0
+      "ageDays": 2.5,
+      "rankScore": 1.73
     },
     {
       "id": "3976d2f317cb",
@@ -808,8 +813,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 2.0
+      "ageDays": 2.7,
+      "rankScore": 1.67
     },
     {
       "id": "ac7efe139f90",
@@ -822,8 +827,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": true,
-      "ageDays": 1.9,
-      "rankScore": 2.0
+      "ageDays": 2.7,
+      "rankScore": 1.67
     },
     {
       "id": "e2bd3cff8460",
@@ -836,8 +841,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 2.0
+      "ageDays": 2.7,
+      "rankScore": 1.66
     },
     {
       "id": "47140c223bdb",
@@ -850,8 +855,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 2.0
+      "ageDays": 2.8,
+      "rankScore": 1.62
     },
     {
       "id": "c4de7135cac4",
@@ -869,8 +874,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 2.0
+      "ageDays": 2.8,
+      "rankScore": 1.62
     },
     {
       "id": "453c23bc41e0",
@@ -892,8 +897,8 @@
       ],
       "nationalSignificance": 3,
       "isEnterprise": false,
-      "ageDays": 4.0,
-      "rankScore": 1.98
+      "ageDays": 4.8,
+      "rankScore": 1.58
     },
     {
       "id": "1f0eac282362",
@@ -911,8 +916,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": 1.92
+      "ageDays": 3.0,
+      "rankScore": 1.52
     },
     {
       "id": "5269e501c04d",
@@ -925,8 +930,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.8,
-      "rankScore": 1.58
+      "ageDays": 3.6,
+      "rankScore": 1.18
     },
     {
       "id": "2183d90341c9",
@@ -939,8 +944,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": 1.57
+      "ageDays": 3.6,
+      "rankScore": 1.18
     },
     {
       "id": "9c504114e025",
@@ -958,8 +963,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": 1.56
+      "ageDays": 3.7,
+      "rankScore": 1.16
     },
     {
       "id": "ce238a3cf0ec",
@@ -972,8 +977,8 @@
       "themes": [],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": 1.52
+      "ageDays": 3.8,
+      "rankScore": 1.12
     },
     {
       "id": "1c079e8bf8ed",
@@ -991,8 +996,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": 1.51
+      "ageDays": 3.8,
+      "rankScore": 1.11
     },
     {
       "id": "0c40fd6b7724",
@@ -1010,41 +1015,54 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": 1.49
+      "ageDays": 3.8,
+      "rankScore": 1.09
     },
     {
-      "id": "bb99f20ba296",
-      "title": "Bay Area still loses headquarters to Texas and Sunbelt cities, CBRE report finds",
-      "summary": "High taxes and regulatory burdens are driving Bay Area firms toward Texas and the Sunbelt. Many companies are opting for smaller, flexible footprints.",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/04/08/bay-area-headquarters-billionaires-tax-sunbelt.html",
-      "source": "SF Business Journal",
+      "id": "85ea9ccfdb33",
+      "title": "Q&A: The influencer hoping to strike it rich as a \u2018bum in SF\u2019",
+      "summary": "Drew Johnson, 27, is cosplaying as a homeless person in pursuit of fame and fortune. He wants freedom, he says, but spends most of his day on his phone.",
+      "link": "https://sfstandard.com/2026/04/12/voluntary-homeless-influencer-drew-johnson-sf/",
+      "source": "SF Standard",
       "county": "San Francisco",
-      "published": "2026-04-08T12:45:02+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
+      "published": "2026-04-12T13:00:00+00:00",
+      "themes": [
+        {
+          "name": "Housing & Displacement",
+          "strength": 1
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 3.3,
-      "rankScore": 1.36
+      "ageDays": 0.1,
+      "rankScore": 1.0
     },
     {
-      "id": "cd55ce8a014c",
-      "title": "Daily Digest: Hundreds more Oracle layoffs hit Bay Area, $24M S.F. mansion hits the market",
-      "summary": "Oracle ramps up Bay Area layoffs with 502 workers cut in Redwood City and Santa Clara, OpenAI asks state attorneys general to investigate Elon Musk for alleged anticompetitive behavior, Russian Hill mansion that sold for $10 million in 2023 returns to market at $24 million after a reported $35 million in improvements",
-      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/04/07/sfbt-digest-tuesday-oracle-sothebys-bancorp.html",
-      "source": "SF Business Journal",
-      "county": "Santa Clara",
-      "published": "2026-04-07T21:19:32+00:00",
+      "id": "3fd294c3b80b",
+      "title": "How Republicans plan to make Swalwell a liability for Democrats",
+      "summary": "With staffers fleeing and allies gone, the congressman\u2019s crisis gives the opposing party a welcome distraction from Iran, the economy, and an unpopular president.",
+      "link": "https://sfstandard.com/2026/04/11/republicans-plan-make-swalwell-liability-democrats/",
+      "source": "SF Standard",
+      "county": "San Francisco",
+      "published": "2026-04-11T23:57:14+00:00",
       "themes": [
         {
           "name": "Tech & Economy",
-          "strength": 2
+          "strength": 1
+        },
+        {
+          "name": "Governance & Power",
+          "strength": 1
         }
       ],
-      "nationalSignificance": 2,
+      "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": 1.04
+      "ageDays": 0.6,
+      "rankScore": 1.0
     },
     {
       "id": "ec34cf2bc3db",
@@ -1062,7 +1080,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 1.0
     },
     {
@@ -1085,7 +1103,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 1.0
     },
     {
@@ -1108,7 +1126,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 1.2,
       "rankScore": 1.0
     },
     {
@@ -1127,30 +1145,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 1.0
-    },
-    {
-      "id": "9bf64c9065e8",
-      "title": "Cupertino council declines to reconsider Mary Avenue Villas housing site amid lawsuit",
-      "summary": "Cupertino officials have declined to reconsider approvals for an affordable housing development in light of an ongoing lawsuit from residents who claim the decision was rushed. The City Council on April 1 voted 4\u20131 against reconsidering the&#160;Mary Avenue Villas&#160;housing project, which the council previously approved in February. The lawsuit \u2014 filed March 11&#160;against the city, [&#8230;]\nThe post Cupertino council declines to reconsider Mary Avenue Villas housing site amid lawsuit appea",
-      "link": "https://localnewsmatters.org/2026/04/10/cupertino-council-declines-to-reconsider-mary-avenue-villas-housing-site-amid-lawsuit/",
-      "source": "Local News Matters",
-      "county": "Santa Clara",
-      "published": "2026-04-10T23:00:00+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 2
-        },
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 1.0
     },
     {
@@ -1173,30 +1168,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 1.0
-    },
-    {
-      "id": "eeaad2d0da18",
-      "title": "CA lawmakers considering bill that could slash PG&E rates by 30%, pay out wildfire victims",
-      "summary": "Relief could be coming to your PG&amp;E bill. California lawmakers are considering legislation that could lower bills by 30%. The bill would also ensure survivors of PG&amp;E-caused fires receive their full settlements.",
-      "link": "https://abc7news.com/post/california-ab-2700-state-lawmakers-considering-legislation-could-lower-pge-rates-30-pay-wildfire-victims/18867315/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-04-10T20:11:34+00:00",
-      "themes": [
-        {
-          "name": "Climate & Environment",
-          "strength": 2
-        },
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.7,
       "rankScore": 1.0
     },
     {
@@ -1219,7 +1191,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 1.0
     },
     {
@@ -1242,7 +1214,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 1.0
     },
     {
@@ -1261,7 +1233,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 1.0
     },
     {
@@ -1280,7 +1252,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 1.0
     },
     {
@@ -1303,7 +1275,7 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 1.0
     },
     {
@@ -1326,27 +1298,22 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.2,
-      "rankScore": 1.0
+      "ageDays": 2.0,
+      "rankScore": 0.99
     },
     {
-      "id": "5baf4f4f9087",
-      "title": "Rep. Eric Swalwell cancels town hall in Palm Desert",
-      "summary": "(KRON) \u2014 Bay Area Congressional representative and candidate for governor, Eric Swalwell, canceled a planned town hall in Palm Desert on Thursday, KRON4.com has confirmed. A representative from the candidate tells KRON4 that Swalwell was sick and had to cancel the event. Swalwell has made headlines after accusations of inappropriate behavior with female staffers recently [\u2026]",
-      "link": "https://www.kron4.com/news/california/rep-eric-swalwell-cancels-town-hall-in-palm-desert/",
-      "source": "KRON4",
-      "county": "Bay Area",
-      "published": "2026-04-10T01:52:09+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 3
-        }
-      ],
-      "nationalSignificance": 1,
+      "id": "bb99f20ba296",
+      "title": "Bay Area still loses headquarters to Texas and Sunbelt cities, CBRE report finds",
+      "summary": "High taxes and regulatory burdens are driving Bay Area firms toward Texas and the Sunbelt. Many companies are opting for smaller, flexible footprints.",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/04/08/bay-area-headquarters-billionaires-tax-sunbelt.html",
+      "source": "SF Business Journal",
+      "county": "San Francisco",
+      "published": "2026-04-08T12:45:02+00:00",
+      "themes": [],
+      "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 1.0
+      "ageDays": 4.1,
+      "rankScore": 0.96
     },
     {
       "id": "e03682c47ab3",
@@ -1368,8 +1335,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 1.0
+      "ageDays": 2.6,
+      "rankScore": 0.69
     },
     {
       "id": "11d44be4f882",
@@ -1391,8 +1358,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 1.0
+      "ageDays": 2.6,
+      "rankScore": 0.69
     },
     {
       "id": "71bd07507a71",
@@ -1410,8 +1377,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 1.0
+      "ageDays": 2.7,
+      "rankScore": 0.64
     },
     {
       "id": "71bc1b3557d8",
@@ -1433,8 +1400,27 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 1.0
+      "ageDays": 2.7,
+      "rankScore": 0.64
+    },
+    {
+      "id": "cd55ce8a014c",
+      "title": "Daily Digest: Hundreds more Oracle layoffs hit Bay Area, $24M S.F. mansion hits the market",
+      "summary": "Oracle ramps up Bay Area layoffs with 502 workers cut in Redwood City and Santa Clara, OpenAI asks state attorneys general to investigate Elon Musk for alleged anticompetitive behavior, Russian Hill mansion that sold for $10 million in 2023 returns to market at $24 million after a reported $35 million in improvements",
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/04/07/sfbt-digest-tuesday-oracle-sothebys-bancorp.html",
+      "source": "SF Business Journal",
+      "county": "Santa Clara",
+      "published": "2026-04-07T21:19:32+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 2,
+      "isEnterprise": false,
+      "ageDays": 4.7,
+      "rankScore": 0.64
     },
     {
       "id": "39fb20d32f9d",
@@ -1456,8 +1442,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 0.98
+      "ageDays": 2.8,
+      "rankScore": 0.58
     },
     {
       "id": "1275f90cc5e1",
@@ -1479,8 +1465,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": 0.96
+      "ageDays": 2.9,
+      "rankScore": 0.56
     },
     {
       "id": "7ede6e6e99be",
@@ -1498,8 +1484,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": 0.94
+      "ageDays": 2.9,
+      "rankScore": 0.54
     },
     {
       "id": "be6e2b8991d4",
@@ -1521,8 +1507,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": 0.89
+      "ageDays": 3.0,
+      "rankScore": 0.49
     },
     {
       "id": "83cc7f23f324",
@@ -1540,8 +1526,8 @@
       ],
       "nationalSignificance": 2,
       "isEnterprise": false,
-      "ageDays": 4.3,
-      "rankScore": 0.87
+      "ageDays": 5.1,
+      "rankScore": 0.47
     },
     {
       "id": "25476db49239",
@@ -1563,31 +1549,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": 0.83
-    },
-    {
-      "id": "79b1b883259c",
-      "title": "Man who killed a deputy serving an eviction notice was run over, California sheriff says",
-      "summary": "",
-      "link": "https://www.nbcbayarea.com/news/sheriff-deputy-killed-central-california-eviction-notice/4066491/",
-      "source": "NBC Bay Area",
-      "county": "Bay Area",
-      "published": "2026-04-09T04:21:36+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        },
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 1,
-      "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": 0.69
+      "ageDays": 3.1,
+      "rankScore": 0.44
     },
     {
       "id": "26a8ff397ba8",
@@ -1609,8 +1572,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": 0.55
+      "ageDays": 3.7,
+      "rankScore": 0.15
     },
     {
       "id": "d7558dee0b7a",
@@ -1632,8 +1595,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": 0.51
+      "ageDays": 3.8,
+      "rankScore": 0.11
     },
     {
       "id": "5ba51cf4fb0f",
@@ -1655,8 +1618,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": 0.47
+      "ageDays": 3.9,
+      "rankScore": 0.07
     },
     {
       "id": "765175f7deff",
@@ -1674,31 +1637,685 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": 0.43
+      "ageDays": 3.9,
+      "rankScore": 0.03
     },
     {
-      "id": "7d273882be6c",
-      "title": "Michael Levine, Massachusetts Medicaid exec, to head S.F. homeless dept.",
-      "summary": "Levine, Mayor Daniel Lurie\u2019s choice, worked with health department head Daniel Tsai on Massachusetts Medicaid for four years.\nMichael Levine, Massachusetts Medicaid exec, to head S.F. homeless dept.",
-      "link": "https://missionlocal.org/2026/04/sf-homeless-daniel-lurie-michael-levine/",
-      "source": "Mission Local",
-      "county": "San Francisco",
-      "published": "2026-04-07T20:25:59+00:00",
+      "id": "9dfdbf0759c2",
+      "title": "Live Updates: Trump says U.S. will blockade ships in Strait of Hormuz after no deal reached in marathon peace talks session with Iran",
+      "summary": "Vice President JD Vance told reporters that \"we have not reached an agreement\" following face-to-face talks with Iranian leaders and Pakistani negotiators.",
+      "link": "https://www.cbsnews.com/sanfrancisco/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T14:04:22+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.0,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b76fe4ca63ac",
+      "title": "Slashing suspect shot by police after injuring 3 at Grand Central subway station in New York",
+      "summary": "Police shot and killed a knife-wielding man at Grand Central Station in New York City after he attacked at least three people, according to the NYPD.",
+      "link": "https://abc7news.com/post/slashing-suspect-shot-police-injuring-3-grand-central-subway-station-new-york/18871857/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-12T13:03:35+00:00",
       "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 1
-        },
         {
           "name": "Governance & Power",
           "strength": 1
         }
       ],
-      "nationalSignificance": 1,
+      "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.0,
-      "rankScore": 0.02
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "6417b06461e6",
+      "title": "14-Mission",
+      "summary": "On 15th Street. Photo by Michael Santiago. \n14-Mission",
+      "link": "https://missionlocal.org/2026/04/14-mission/",
+      "source": "Mission Local",
+      "county": "San Francisco",
+      "published": "2026-04-12T13:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "68f21164dd4e",
+      "title": "OpenAI wants a New Deal for AI. An attack on Sam Altman\u2019s home made it urgent",
+      "summary": "The suspect feared AI would end humanity. The company building it now seems to share those concerns.",
+      "link": "https://sfstandard.com/2026/04/12/openai-wants-new-deal-ai-attack-sam-altman-s-home-made-urgent/",
+      "source": "SF Standard",
+      "county": "San Francisco",
+      "published": "2026-04-12T13:00:00+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "fb63c376c2e6",
+      "title": "Opinion: The surprising reason anti-Asian hate is going unpunished",
+      "summary": "The man who killed Grandpa Vicha is free. To understand why, follow the $200 million spent by organizations that argued against punishing the people killing us.",
+      "link": "https://sfstandard.com/opinion/2026/04/12/grandpa-vicha-aapi-hate-unpunished/",
+      "source": "SF Standard",
+      "county": "San Francisco",
+      "published": "2026-04-12T13:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "c9d07ac4ac59",
+      "title": "The father, the son, and the kitchen that fed a Warriors dynasty",
+      "summary": "The team honored chef Bert Ortiz Sr. with the Dejan Milojevi\u0107 Brate Award. His son is carrying on the family legacy at Chase Center.",
+      "link": "https://sfstandard.com/2026/04/12/warriors-chase-center-food-kitchen-bert-ortiz/",
+      "source": "SF Standard",
+      "county": "San Francisco",
+      "published": "2026-04-12T13:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "27675260fc17",
+      "title": "\u2018Where there\u2019s smoke, there\u2019s fire\u2019: In Swalwell\u2019s backyard, support is running out",
+      "summary": "A dozen Tri-Valley residents reflected a community wrestling with loyalty, skepticism \u2014 and a sense that the exit threshold had been crossed.",
+      "link": "https://sfstandard.com/2026/04/12/swalwell-pleasanton-constituents-sexual-misconduct-governor-race/",
+      "source": "SF Standard",
+      "county": "San Francisco",
+      "published": "2026-04-12T13:00:00+00:00",
+      "themes": [
+        {
+          "name": "Climate & Environment",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "c64af707f142",
+      "title": "Orthodox Easter truce falters as Ukraine says Russia continues drone strikes",
+      "summary": "Russia continued to strike Ukrainian positions with drones after a Kremlin-declared Easter ceasefire took effect on Saturday, a Ukrainian military officer said.",
+      "link": "https://abc7.com/post/orthodox-easter-2026-truce-falters-ukraine-says-russia-continues-drone-strikes-odesa/18874923/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-12T12:46:06+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "7613e3a5a7e1",
+      "title": "Review: Kitchen Istanbul brings Turkish delights to the Richmond",
+      "summary": "The space is spacious and airy and boasts shelves of wine available for purchase.\nReview: Kitchen Istanbul brings Turkish delights to the Richmond",
+      "link": "https://missionlocal.org/2026/04/kitchen-istanbul-turkish-delights-in-the-richmond/",
+      "source": "Mission Local",
+      "county": "Contra Costa",
+      "published": "2026-04-12T11:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9ef0d124912d",
+      "title": "A journey to faith: One young woman\u2019s path from depression to healing and purpose",
+      "summary": "CHRISTIANITY FOR ME AND MY FAMILY is really important. It has become part of my life and part of the life of my family. All I do is spend my time at church; if I\u2019m not in school or anywhere else, I am in church. I am not complaining because Christianity, going to church, and [&#8230;]\nThe post A journey to faith: One young woman\u2019s path from depression to healing and purpose appeared first on Local News Matters.",
+      "link": "https://localnewsmatters.org/2026/04/12/a-journey-to-faith-one-young-womans-path-from-depression-to-healing-and-purpose/",
+      "source": "Local News Matters",
+      "county": "Bay Area",
+      "published": "2026-04-12T10:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "86ce5fcdabc1",
+      "title": "Grey Bears plans major warehouse expansion to meet growing demand for senior services",
+      "summary": "Grey Bears, a longtime Santa Cruz nonprofit serving seniors and food-insecure residents, plans to move its overcrowded operations from aging facilities into a renovated warehouse next door by 2028. The $9.6 million project, already more than 80% funded through local donations, aims to expand its commercial kitchen, market and dining services at a time of rising demand and shrinking food assistance resources.\nThe post Grey Bears plans major warehouse expansion to meet growing demand for senior se",
+      "link": "https://lookout.co/grey-bears-plans-major-warehouse-expansion-to-meet-growing-demand-for-senior-services/story",
+      "source": "Lookout Santa Cruz",
+      "county": "Santa Cruz",
+      "published": "2026-04-12T09:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b3e8a5388071",
+      "title": "I\u2019m 20 and I\u2019ve spent years struggling with the myth of being \u2018fixed\u2019 of mental illness",
+      "summary": "OPINION: After years of medication for anxiety, UC Santa Cruz student Veronica Morris thought she was \u201cover it,\u201d healed. Then her anxiety returned in unexpected ways.\nThe post I\u2019m 20 and I\u2019ve spent years struggling with the myth of being \u2018fixed\u2019 of mental illness appeared first on Lookout Santa Cruz.",
+      "link": "https://lookout.co/im-20-and-ive-spent-years-struggling-with-the-myth-of-being-fixed-of-mental-illness/story",
+      "source": "Lookout Santa Cruz",
+      "county": "Santa Cruz",
+      "published": "2026-04-12T09:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.2,
+      "rankScore": 0.0
+    },
+    {
+      "id": "defc8a49ead3",
+      "title": "Effective Immediately: Trump Axes Entire Presidio Trust Board, Leaving SF's Most Successful Park Without Oversight",
+      "summary": "Trump fired all six Biden-appointed Presidio Trust board members via a brief \"effective immediately\" email. No replacements named. The park that hasn't needed taxpayer funding since 2013 is now boardless.",
+      "link": "https://hoodline.com/2026/04/trump-axes-entire-presidio-trust-board-leaving-sf-s-most-successful-park-without-oversight/",
+      "source": "Hoodline",
+      "county": "San Francisco",
+      "published": "2026-04-12T06:36:33+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b0d63063e7dc",
+      "title": "Bay Area fans celebrate Artemis II splashdown with a roar at Chabot Space Center in Oakland",
+      "summary": "When the astronauts of the Artemis II splashed down off the coast of San Diego on Friday, cheers were heard around the country -- even in Oakland. Hundreds came out to the Chabot Space and Science Center in the Oakland Hills to celebrate the historical event.",
+      "link": "https://abc7news.com/post/bay-area-fans-celebrate-artemis-ii-splashdown-roar-chabot-space-science-center-oakland-hills/18869608/",
+      "source": "ABC7 News",
+      "county": "Alameda",
+      "published": "2026-04-12T06:30:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
+      "id": "cc1b47977dec",
+      "title": "Barrage of heavy wind and rain soak much of the Bay Area",
+      "summary": "It was a stormy start to the weekend for the Bay Area.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/barrage-of-heavy-wind-and-rain-soak-much-of-the-bay-area/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T06:05:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.3,
+      "rankScore": 0.0
+    },
+    {
+      "id": "7aff0b5d246f",
+      "title": "The Canucks deal a blow to the slim playoff hopes for the Sharks with a 4-3 shootout win",
+      "summary": "Linus Karlsson scored in the sixth round of the shootout and the Vancouver Canucks put the San Jose Sharks on the brink of playoff elimination with a 4-3 win.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/the-canucks-deal-a-blow-to-the-slim-playoff-hopes-for-the-sharks-with-a-4-3-shootout-win/",
+      "source": "CBS San Francisco",
+      "county": "Santa Clara",
+      "published": "2026-04-12T05:24:03+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "1a60cf9f42cc",
+      "title": "Northern California spring storm brings lightning in Sacramento, Sierra snow",
+      "summary": "A spring system is bringing rounds of rain and thunderstorms to Northern California and continues through the weekend, including bringing snow to the Sierra.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/northern-california-spring-storm-bay-area-sierra-sacramento/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T04:28:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "6097c98d4977",
+      "title": "AccuWeather Forecast: Chances of showers, thunderstorms this evening; gusty winds overnight",
+      "summary": "Scattered showers and thunderstorm chances will continue throughout the Bay Area this evening. Strong winds are expected, especially at the coast.",
+      "link": "https://abc7news.com/post/weather-bay-area-forecast-temperatures/39468/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-12T03:03:58+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "2904a3e5a60f",
+      "title": "Cain Velasquez gives back in San Jose after prison release, supports rehabilitation programs",
+      "summary": "SAN JOSE, Calif. (KRON) \u2014 Former Ultimate Fighting Champion (UFC) champion Cain Velasquez is giving back to the community just a month after his release from prison. Velasquez was convicted of attempted murder in the shooting of a man who allegedly molested one of his children. Now, he\u2019s partnering with the Transformative Justice Center for [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/cain-velasquez-gives-back-in-san-jose-after-prison-release-supports-rehabilitation-programs/",
+      "source": "KRON4",
+      "county": "Santa Clara",
+      "published": "2026-04-12T02:59:59+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "6bbec914267a",
+      "title": "U.S. naval destroyers have crossed the Strait of Hormuz, CENTCOM says",
+      "summary": "The destroyers were beginning mine-clearing operations in the vital waterway, U.S. Central Command said Saturday.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/strait-of-hormuz-naval-destroyers-cross-centcom-iran-mines/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T02:45:22+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "e30db32373c4",
+      "title": "Man\u2019s body found at bottom of cliff near Fort Bragg Beach: sheriff",
+      "summary": "(BCN) \u2014 The body of a man was found Saturday morning on the rocks at the bottom of a steep cliff near Fort Bragg Beach after a 70-foot fall, the Mendocino County Sheriff\u2019s Office said. Deputies were dispatched about 8:30 a.m. to the scene near the 31000 block of Bay View Avenue. The victim was [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/mans-body-found-at-bottom-of-cliff-near-fort-bragg-beach-sheriff/",
+      "source": "KRON4",
+      "county": "Bay Area",
+      "published": "2026-04-12T02:25:42+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "403a71209c6d",
+      "title": "Man shot after being told to move RV, say Stockton police",
+      "summary": "(BCN) \u2014 A 52-year-old man was shot in Stockton\u2019s Seaport District on Friday night after allegedly being confronted about where he parked his RV. The victim was allegedly accosted after he parked in the 2700 block of Indiana Street by a man who demanded he leave, according to the Stockton Police Department. The victim was [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/man-shot-after-being-told-to-move-rv-say-stockton-police/",
+      "source": "KRON4",
+      "county": "Bay Area",
+      "published": "2026-04-12T02:19:20+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "2b773e2d1ce9",
+      "title": "Fandomcon Silicon Valley takes over South Bay",
+      "summary": "SAN JOSE, Calif. (KRON) \u2014 A major pop culture event is taking over the South Bay over this weekend, bringing thousands of fans, cosplayers, and celebrities together for one big celebration of fandom. Fandomcon Silicon Valley is happening through Sunday, April 11 at the San Jose McEnery Convention Center. The three-day event is described as [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/fandomcon-silicon-valley-takes-over-south-bay/",
+      "source": "KRON4",
+      "county": "Santa Clara",
+      "published": "2026-04-12T02:12:57+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "4eb4eb1ef04f",
+      "title": "Zach Braff, Sarah Chalke and 'Scrubs' cast share why the show still resonates with fans today",
+      "summary": "The \"Scrubs\" cast reunites at PaleyFest LA, sharing stories and what continues to make the series connect for fans years later.",
+      "link": "https://abc7.com/post/scrubs-cast-reunion-paleyfest-la-what-stars-revealed-shows-lasting-impact/18873299/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-12T02:10:33+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "9208ef689665",
+      "title": "Teen driver in deadly Novato crash that injured 4 suspected of DUI",
+      "summary": "Multiple teens were injured during a crash early Saturday morning in Novato, police said. One of them died, and the others remain in critical condition.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/deadly-novato-crash-teen-driver-san-marin-drive-simmons-lane/",
+      "source": "CBS San Francisco",
+      "county": "Marin",
+      "published": "2026-04-12T01:30:49+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "abde0f4d8d8d",
+      "title": "Live updates: U.S. and Iranian delegations leave Pakistan after talks end without agreement",
+      "summary": "Vice President JD Vance arrives for news conference after meeting with representatives from Pakistan and Iran, Sunday, April 12, 2026, in Islamabad, Pakistan.",
+      "link": "https://www.nbcbayarea.com/news/national-international/live-updates-iran-war-us-israel-middle-east-april-12/4067497/",
+      "source": "NBC Bay Area",
+      "county": "Bay Area",
+      "published": "2026-04-12T01:27:41+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "3ea19f91128e",
+      "title": "Fairfield police speak on \u2018frightening\u2019 viral video of forced home entry",
+      "summary": "(KRON) \u2014 Fairfield police are speaking out about a viral video on social media showing a \u201cfrightening incident\u201d of a man forcing entry into a home Tuesday occupied by a woman and child \u2014 soon encountering the homeowner\u2019s husband wielding a shovel. The suspect now faces multiple felony charges. \u201cWe understand the concern this video [\u2026]",
+      "link": "https://www.kron4.com/news/bay-area/fairfield-police-speak-on-frightening-viral-video-of-forced-home-entry/",
+      "source": "KRON4",
+      "county": "Solano",
+      "published": "2026-04-12T01:09:39+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "daf0bdebc57d",
+      "title": "20-year-old arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says",
+      "summary": "A 20-year-old man has been arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home and making threats at the company's headquarters early Friday morning, a spokesperson says.",
+      "link": "https://abc7news.com/post/suspect-arrested-throwing-molotov-cocktail-sam-altmans-san-francisco-home-openai-says/18866476/",
+      "source": "ABC7 News",
+      "county": "San Francisco",
+      "published": "2026-04-12T00:49:16+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "1efff55c3510",
+      "title": "Few turnout for San Francisco parade renamed after Cesar Chavez allegations",
+      "summary": "On Saturday morning in San Francisco, the annual parade and festival to honor Cesar Chavez\u200b was held with a new name and a new focus.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-parade-after-cesar-chavez-allegations/",
+      "source": "CBS San Francisco",
+      "county": "San Francisco",
+      "published": "2026-04-12T00:46:46+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "542876437d0d",
+      "title": "Teen driver suspected of DUI in crash that killed 1, injured 4",
+      "summary": "Novate police said one teen died and several others were injured in a suspected drunken driving crash early Saturday morning.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/teen-driver-suspected-of-dui-in-crash-that-killed-1-injured-4/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T00:38:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "a3fda138bacd",
+      "title": "First Alert Saturday evening weather forecast - 4/11/2026",
+      "summary": "Here's a look at the weather forecast Saturday evening.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/first-alert-saturday-evening-weather-forecast-4112026/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T00:36:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "5685f2d58bd1",
+      "title": "Spare turnout at parade and festival renamed following Cesar Chavez allegations",
+      "summary": "Mother Nature decided to rain on the parade, but even before that, there was a dark cloud hanging over the annual celebration. \u00a0The child abuse and sexual assault allegations against Cesar Chavez made for a pretty sparse turnout in an event that, in the past, drew thousands of people.",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/spare-turnout-at-parade-and-festival-renamed-following-cesar-chavez-allegations/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-12T00:35:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "a5ebefc09056",
+      "title": "Artemis II's moon-traveling astronauts return home to cheers after record-breaking trip",
+      "summary": "The Artemis II astronauts received a thunderous welcome home from hundreds who took part in NASA's lunar comeback that set a record for deep space travel.",
+      "link": "https://abc7.com/post/artemis-ii-crew-speaks-historic-10-day-moon-mission-houston-successful-splash-down-pacific/18872196/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-12T00:29:34+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "75a5daff8deb",
+      "title": "San Francisco hosts first Dolores Huerta parade amid Ch\u00e1vez abuse allegations",
+      "summary": "San Francisco\u2019s annual farmworker march returned with a new name honoring Dolores Huerta, reflecting a broader reckoning over C\u00e9sar Ch\u00e1vez\u2019s legacy amid recent abuse allegations.\nThe post San Francisco hosts first Dolores Huerta parade amid Ch\u00e1vez abuse allegations appeared first on El Tecolote.",
+      "link": "https://eltecolote.org/content/en/dolores-huerta-parade-cesar-chavez/",
+      "source": "El Tecolote",
+      "county": "San Francisco",
+      "published": "2026-04-11T23:57:21+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "bcf469b62cdd",
+      "title": "Doctors are adopting AI to take notes during visits \u2014 what to know about opting out",
+      "summary": "FAMILY PHYSICIAN Eric Boose has been using an artificial intelligence tool to get back to what he calls \u201cold-fashioned medicine\u201d \u2014 talking with patients face-to-face, without having to type into a computer at the same time.\u00a0 \u201cI can really just sit there and engage and just focus on them and listen,\u201d said\u00a0Boose, who\u00a0practices at Cleveland [&#8230;]\nThe post Doctors are adopting AI to take notes during visits \u2014 what to know about opting out appeared first on Local News Matters.",
+      "link": "https://localnewsmatters.org/2026/04/11/doctors-are-adopting-ai-to-take-notes-during-visits-what-to-know-about-opting-out/",
+      "source": "Local News Matters",
+      "county": "Bay Area",
+      "published": "2026-04-11T23:00:00+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 2
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.6,
+      "rankScore": 0.0
+    },
+    {
+      "id": "b144fb02a82c",
+      "title": "Rep. Eric Swalwell denies sexual assault allegations in video statement",
+      "summary": "(KRON) \u2014 Following a bombshell report of sexual assault allegations against Rep. Eric Swalwell by a former staffer, the congressman flatly denied said allegations in a pre-recorded video on social media Friday evening. \u201cThese allegations of sexual assault are flat false,\u201d Swalwell said. \u201cThey\u2019re absolutely false. They did not happen; they have never happened, and [\u2026]",
+      "link": "https://www.kron4.com/news/politics/rep-eric-swalwell-denies-sexual-assault-allegations-in-video-statement/",
+      "source": "KRON4",
+      "county": "Bay Area",
+      "published": "2026-04-11T22:26:44+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 0.0
+    },
+    {
+      "id": "91da0e1fc13b",
+      "title": "Teen Dies In Suspected DUI Single-Car Crash In Novato, Four In Critical Condition",
+      "summary": "One teen was killed and four others are in serious and critical condition following a suspected DUI single-car crash in Novato early Saturday, and it\u2019s believed they\u2019re not from Novato.",
+      "link": "https://sfist.com/2026/04/11/teen-dies-in-suspected-dui-crash-in-novato-four-in-critical-condition/",
+      "source": "SFist",
+      "county": "Marin",
+      "published": "2026-04-11T22:15:17+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 0.0
+    },
+    {
+      "id": "eca8bd16cb17",
+      "title": "Golden State Valkyries re-sign breakout WNBA star Veronica Burton to multi-year contract",
+      "summary": "The Valkyries obtained Veronica Burton from the Connecticut Sun during the 2025 expansion draft, and she will be entering her fourth season in the WNBA when Golden State Valkyries basketball returns on May 8.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/golden-state-valkyries-veronica-burton-re-signs-multi-year-contract-2026/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-11T21:36:41+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 0.0
+    },
+    {
+      "id": "a79bf8bcb405",
+      "title": "Artemis II crew exits Orion capsule after successfully splashing down in the Pacific",
+      "summary": "The Artemis II crew has successfully splashed down in the Pacific Ocean after an historic moon mission.",
+      "link": "https://abc7.com/post/artemis-ii-grand-moon-finale-pacific-splashdown-nasa-lunar-comeback/18866922/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-11T21:10:18+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 0.0
+    },
+    {
+      "id": "94e2d1879d13",
+      "title": "Alameda County health providers partner to expand care at Hayward\u2019s St. Rose Hospital",
+      "summary": "Alameda County leaders and healthcare groups gathered outside St. Rose Hospital in Hayward this week to announce an expansion to medical services for thousands of East Bay residents.\u00a0 Alameda Health System and Standford Health Care announced a collaboration to expand specialized care at St. Rose Hospital in Hayward that would increase nursing facility beds, invest [&#8230;]\nThe post Alameda County health providers partner to expand care at Hayward\u2019s St. Rose Hospital appeared first on Local News",
+      "link": "https://localnewsmatters.org/2026/04/11/st-rose-hospital-hayward-stanford-health-care-expansion/",
+      "source": "Local News Matters",
+      "county": "Alameda",
+      "published": "2026-04-11T21:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 0.0
+    },
+    {
+      "id": "601bc18dbf0c",
+      "title": "Katie Porter and influencer behind Swalwell allegations \"don't have a relationship to speak of,\" campaign says",
+      "summary": "Katie Porter denies direct relationship with the influencer behind allegations against Rep. Eric Swalwell who has academic and political connections with the candidate.",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/katie-porter-influencer-cheyenne-hunt-eric-swalwell-allegations/",
+      "source": "CBS San Francisco",
+      "county": "Bay Area",
+      "published": "2026-04-11T20:35:46+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.7,
+      "rankScore": 0.0
+    },
+    {
+      "id": "58ea5fcb7d1b",
+      "title": "Suspect In Sam Altman Molotov Cocktail Attack Charged With Attempted Murder",
+      "summary": "The 20-year-old suspect who allegedly threw a Molotov Cocktail at Sam Altman\u2019s house and was later arrested outside OpenAI\u2019s headquarters was identified as a man from Texas who was charged with attempted murder, arson, and several other charges.",
+      "link": "https://sfist.com/2026/04/11/suspect-in-sam-altman-molotov-cocktail-attack-identified-charged-with-attempted-murder/",
+      "source": "SFist",
+      "county": "San Francisco",
+      "published": "2026-04-11T20:21:28+00:00",
+      "themes": [
+        {
+          "name": "Tech & Economy",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.8,
+      "rankScore": 0.0
+    },
+    {
+      "id": "2b58738bb87c",
+      "title": "Pope Leo XIV blasts 'delusion of omnipotence' fueling US-Israeli war in Iran",
+      "summary": "Pope Leo XIV has denounced the \"delusion of omnipotence\" that is fueling the U.S.-Israel war in Iran and demanded political leaders stop and negotiate peace.",
+      "link": "https://abc7.com/post/pope-leo-xiv-blasts-delusion-omnipotence-fueling-us-israeli-war-iran/18871925/",
+      "source": "ABC7 News",
+      "county": "Bay Area",
+      "published": "2026-04-11T19:30:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 0.8,
+      "rankScore": 0.0
     },
     {
       "id": "79bcd9607297",
@@ -1716,7 +2333,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
@@ -1730,7 +2347,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
@@ -1749,21 +2366,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "2b58738bb87c",
-      "title": "Pope Leo XIV blasts 'delusion of omnipotence' fueling US-Israeli war in Iran",
-      "summary": "Pope Leo XIV has denounced the \"delusion of omnipotence\" that is fueling the U.S.-Israel war in Iran and demanded political leaders stop and negotiate peace.",
-      "link": "https://abc7.com/post/pope-leo-xiv-blasts-delusion-omnipotence-fueling-us-israeli-war-iran/18871925/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-04-11T18:49:38+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
@@ -1777,40 +2380,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "53a3912ce859",
-      "title": "Live Updates: Vance participates in high-stakes talks with Iran as U.S. Navy ships cross the Strait of Hormuz",
-      "summary": "Two U.S. Navy destroyers crossed the Strait of Hormuz as U.S. and Iranian negotiators meet for face-to-face negotiations amid a fragile truce.",
-      "link": "https://www.cbsnews.com/sanfrancisco/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-11T18:46:23+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "9208ef689665",
-      "title": "Teen driver in deadly Novato crash that injured 4 suspected of DUI",
-      "summary": "Multiple teens were injured during a crash early Saturday morning in Novato, police said. One of them died, and the others remain in critical condition.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/deadly-novato-crash-teen-driver-san-marin-drive-simmons-lane/",
-      "source": "CBS San Francisco",
-      "county": "Marin",
-      "published": "2026-04-11T18:22:14+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.0,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
@@ -1829,26 +2399,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "b144fb02a82c",
-      "title": "Rep. Eric Swalwell denies sexual assault allegations in video statement",
-      "summary": "(KRON) \u2014 Following a bombshell report of sexual assault allegations against Rep. Eric Swalwell by a former staffer, the congressman flatly denied said allegations in a pre-recorded video on social media Friday evening. \u201cThese allegations of sexual assault are flat false,\u201d Swalwell said. \u201cThey\u2019re absolutely false. They did not happen; they have never happened, and [\u2026]",
-      "link": "https://www.kron4.com/news/politics/rep-eric-swalwell-denies-sexual-assault-allegations-in-video-statement/",
-      "source": "KRON4",
-      "county": "Bay Area",
-      "published": "2026-04-11T18:06:15+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.8,
       "rankScore": 0.0
     },
     {
@@ -1862,7 +2413,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1881,7 +2432,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1900,7 +2451,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1919,21 +2470,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
-      "id": "6d50385b235e",
-      "title": "AccuWeather Forecast: Scattered morning showers; storm intensifies to Level 2 late this afternoon",
-      "summary": "Cloudy skies with scattered showers takes us through midday. A Level 2 system late this afternoon will bring widespread rain and possible thunderstorms along with southerly winds gusting to over 40 mph.",
-      "link": "https://abc7news.com/post/weather-bay-area-forecast-temperatures/39468/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-04-11T17:15:35+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1947,7 +2484,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1961,7 +2498,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1975,7 +2512,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -1989,7 +2526,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -2003,7 +2540,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -2017,26 +2554,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
-      "rankScore": 0.0
-    },
-    {
-      "id": "ef6469c1866e",
-      "title": "AirTag Trail Leads San Mateo Cops To Covered Mercedes, Two Busted",
-      "summary": "San Mateo police recovered a stolen Mercedes after an AirTag pinged its location; one suspect was booked and another cited.",
-      "link": "https://hoodline.com/2026/04/airtag-trail-leads-san-mateo-cops-to-covered-mercedes-two-busted/",
-      "source": "Hoodline",
-      "county": "San Mateo",
-      "published": "2026-04-11T15:56:48+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -2050,7 +2568,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.1,
+      "ageDays": 0.9,
       "rankScore": 0.0
     },
     {
@@ -2064,7 +2582,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2078,7 +2596,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2097,7 +2615,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2111,7 +2629,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2130,7 +2648,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2149,7 +2667,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2163,7 +2681,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2177,7 +2695,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2196,7 +2714,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2210,54 +2728,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.2,
-      "rankScore": 0.0
-    },
-    {
-      "id": "d00f1469c68c",
-      "title": "Attack on Altman home prompts new fears: Is the AI backlash getting dangerous?",
-      "summary": "Anti-tech sentiment has gone from online critiques to physical danger. Companies are preparing for more.",
-      "link": "https://sfstandard.com/2026/04/11/attack-openai-sam-altman/",
-      "source": "SF Standard",
-      "county": "San Francisco",
-      "published": "2026-04-11T13:00:00+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.3,
-      "rankScore": 0.0
-    },
-    {
-      "id": "c031a204a855",
-      "title": "The best Bay Area food town you\u2019re not going to",
-      "summary": "Petaluma \u2014 which straddles the aisle between pizza-sized pancakes and precious salads \u2014 has not been considered an eating destination. That needs to change.",
-      "link": "https://sfstandard.com/2026/04/11/petaluma-best-restaurants-food/",
-      "source": "SF Standard",
-      "county": "Sonoma",
-      "published": "2026-04-11T13:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.3,
-      "rankScore": 0.0
-    },
-    {
-      "id": "25279afa09ab",
-      "title": "49ers mock draft: The best (and most realistic) options for all six picks",
-      "summary": "Edge rusher Malachi Lawrence and wide receiver Omar Cooper Jr. play different positions, but both are intriguing options at No. 27.",
-      "link": "https://sfstandard.com/2026/04/11/49ers-mock-draft-malachi-lawrence-omar-cooper/",
-      "source": "SF Standard",
-      "county": "San Francisco",
-      "published": "2026-04-11T13:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 1.0,
       "rankScore": 0.0
     },
     {
@@ -2271,7 +2742,21 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 1.1,
+      "rankScore": 0.0
+    },
+    {
+      "id": "f0010f366cf8",
+      "title": "Preliminary 3.4 magnitude earthquake rattles Northern California",
+      "summary": "File. Earthquake Seismograph. 3D Render",
+      "link": "https://www.nbcbayarea.com/news/local/earthquake-rattles-northern-california-2/4067332/",
+      "source": "NBC Bay Area",
+      "county": "Bay Area",
+      "published": "2026-04-11T12:16:26+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 1.1,
       "rankScore": 0.0
     },
     {
@@ -2285,7 +2770,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.3,
+      "ageDays": 1.1,
       "rankScore": 0.0
     },
     {
@@ -2299,7 +2784,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.4,
+      "ageDays": 1.2,
       "rankScore": 0.0
     },
     {
@@ -2318,7 +2803,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.5,
+      "ageDays": 1.3,
       "rankScore": 0.0
     },
     {
@@ -2332,7 +2817,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.5,
+      "ageDays": 1.3,
       "rankScore": 0.0
     },
     {
@@ -2346,7 +2831,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.5,
+      "ageDays": 1.3,
       "rankScore": 0.0
     },
     {
@@ -2365,7 +2850,26 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.6,
+      "ageDays": 1.4,
+      "rankScore": 0.0
+    },
+    {
+      "id": "ae76efd2356c",
+      "title": "Witness comes forward after shooting involving ICE agents in Stanislaus County",
+      "summary": "",
+      "link": "https://www.nbcbayarea.com/news/local/witness-shooting-ice-agents-stanislaus-county/4067378/",
+      "source": "NBC Bay Area",
+      "county": "Bay Area",
+      "published": "2026-04-11T05:29:39+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -2379,7 +2883,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.6,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -2393,7 +2897,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.6,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -2407,7 +2911,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.4,
       "rankScore": 0.0
     },
     {
@@ -2421,21 +2925,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
-      "rankScore": 0.0
-    },
-    {
-      "id": "79b0b2598240",
-      "title": "U.S. and Iranian officials arrive in Pakistan for peace talks",
-      "summary": "Iranian flags and graffiti reading \u2018No King\u2019 are seen amongst debris at Sharif University of Technology which was hit by U.S.-Israeli strikes on April 7, 2026 in Tehran, Iran.",
-      "link": "https://www.nbcbayarea.com/news/national-international/us-iranian-officials-pakistan-peace-talks/4067284/",
-      "source": "NBC Bay Area",
-      "county": "Bay Area",
-      "published": "2026-04-11T03:29:31+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2454,26 +2944,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
-      "rankScore": 0.0
-    },
-    {
-      "id": "daf0bdebc57d",
-      "title": "20-year-old arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says",
-      "summary": "A 20-year-old man has been arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home and making threats at the company's headquarters early Friday morning, a spokesperson says.",
-      "link": "https://abc7news.com/post/suspect-arrested-throwing-molotov-cocktail-sam-altmans-san-francisco-home-openai-says/18866476/",
-      "source": "ABC7 News",
-      "county": "San Francisco",
-      "published": "2026-04-11T02:40:01+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2487,7 +2958,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2501,7 +2972,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2515,7 +2986,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2529,21 +3000,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
-      "rankScore": 0.0
-    },
-    {
-      "id": "a79bf8bcb405",
-      "title": "Artemis II crew exits Orion capsule after successfully splashing down in the Pacific",
-      "summary": "The Artemis II crew has successfully splashed down in the Pacific Ocean after an historic moon mission.",
-      "link": "https://abc7.com/post/artemis-ii-grand-moon-finale-pacific-splashdown-nasa-lunar-comeback/18866922/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-04-11T02:02:54+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2562,7 +3019,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2581,7 +3038,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
       "rankScore": 0.0
     },
     {
@@ -2595,7 +3052,21 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.7,
+      "ageDays": 1.5,
+      "rankScore": 0.0
+    },
+    {
+      "id": "fd6039f1c8a2",
+      "title": "DUI crash leaves teen dead and others critically injured in Novato",
+      "summary": "",
+      "link": "https://www.nbcbayarea.com/news/local/teen-dies-after-major-collision-in-novato/4067345/",
+      "source": "NBC Bay Area",
+      "county": "Marin",
+      "published": "2026-04-11T01:02:30+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2614,7 +3085,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2628,7 +3099,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2642,7 +3113,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2656,26 +3127,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "c72f5a0f9bd9",
-      "title": "CPI report shows inflation surged in March as Iran war drove up energy costs",
-      "summary": "Inflation rose at an annual rate of 3.3% in March, driven by the sharpest monthly increase in gas prices since 1967.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/cpi-report-today-march-2026-inflation-iran-war-trump/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-11T00:16:09+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2689,26 +3141,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "c00b5a7c2072",
-      "title": "Is that moon photo real? How to spot Artemis II AI slop",
-      "summary": "Don\u2019t get duped, friends. Image verification expert Hany Farid explains how to know if you\u2019re looking at real Artemis II images.",
-      "link": "https://sfstandard.com/2026/04/10/artemis-ii-moon-photos-fake/",
-      "source": "SF Standard",
-      "county": "San Francisco",
-      "published": "2026-04-11T00:08:24+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2727,26 +3160,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "0e68f039b47a",
-      "title": "Bay Area schools push back Newsom's latest budget proposal over funding concerns",
-      "summary": "School leaders across the Bay Area are raising concerns over Gov. Gavin Newsom's latest budget proposal, warning it could create even more financial strain for districts already dealing with rising costs, staffing challenges and budget shortfalls.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/bay-area-schools-push-back-budget-proposal-funding-concerns/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T23:51:29+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2765,26 +3179,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "fb26db0be6f6",
-      "title": "Bay Area artist inspired by pioneering city agency, fighting climate change",
-      "summary": "On the sand dunes near Ocean Beach in San Francisco, artist Alicia Escott felt the pull of history and the sense of loss, heartbreak, and grief.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/bay-area-artist-alicia-escott-climate-change/",
-      "source": "CBS San Francisco",
-      "county": "San Francisco",
-      "published": "2026-04-10T23:40:33+00:00",
-      "themes": [
-        {
-          "name": "Climate & Environment",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2803,7 +3198,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2822,7 +3217,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2841,35 +3236,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "1a60cf9f42cc",
-      "title": "Northern California spring storm brings lightning in Sacramento, Sierra snow",
-      "summary": "A Tornado Warning was issued for parts of San Joaquin and Stanislaus counties Friday afternoon.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/northern-california-spring-storm-bay-area-sierra-sacramento/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T23:20:57+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "db285080bfc5",
-      "title": "Berkeley\u2019s Back Room marks a decade of intimate concerts",
-      "summary": "Berkeley\u2019s&#160;intimate&#160;\u201clistening room\u201d The Back Room is celebrating 10 years, marking the occasion with a 10-day anniversary&#160;concert&#160;series&#160;this&#160;month&#160;featuring a range of musical genres.&#160;&#160; Founder Sam Rudin is slightly surprised by the milestone. He says, \u201cIt was&#160;not&#160;something that we knew for sure would happen when we started. It was&#160;a big risk. It was a big jump&#160;off of&#160;a cliff.\u201d&#160;&#160; [&#8230;]\nThe post Berkeley&#8217;s",
-      "link": "https://localnewsmatters.org/2026/04/10/berkeleys-back-room-marks-a-decade-of-intimate-concerts/",
-      "source": "Local News Matters",
-      "county": "Alameda",
-      "published": "2026-04-10T23:13:29+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2883,7 +3250,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2902,26 +3269,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "81b01457b3e8",
-      "title": "Swalwell\u2019s support collapsing after sexual assault allegations surface",
-      "summary": "Unions, senators, and others are jumping ship from the East Bay congressman\u2019s gubernatorial campaign.",
-      "link": "https://sfstandard.com/2026/04/10/eric-swalwell-sexual-assault-allegations-support-union/",
-      "source": "SF Standard",
-      "county": "Alameda",
-      "published": "2026-04-10T22:59:38+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.8,
+      "ageDays": 1.6,
       "rankScore": 0.0
     },
     {
@@ -2935,26 +3283,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 0.0
-    },
-    {
-      "id": "1efd20df7931",
-      "title": "Anthropic's Mythos AI can spot weaknesses in almost every computer on earth. Uh-oh.",
-      "summary": "Could powerful AI models like Anthropic's Mythos give cybercriminals and other bad actors a roadmap for exploiting tech systems?",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/mythos-anthropic-ai-project-glasswing-hacker-threat/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T22:42:16+00:00",
-      "themes": [
-        {
-          "name": "Tech & Economy",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -2973,7 +3302,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -2992,7 +3321,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3006,7 +3335,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3025,7 +3354,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3044,7 +3373,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3058,7 +3387,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3072,26 +3401,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 0.0
-    },
-    {
-      "id": "bf59f35020f1",
-      "title": "Santa Clara, Solano counties secure millions in new state homelessness funding",
-      "summary": "California Gov. Gavin Newsom has announced $145.4 million in new state homelessness funding, including nearly $54 million for two Bay Area counties, as part of California\u2019s latest effort to move people off the streets and into housing and services. The funding, distributed through the state\u2019s Homelessness Housing, Assistance and Prevention program, will support local governments [&#8230;]\nThe post Santa Clara, Solano counties secure millions in new state homelessness funding appeared first on Lo",
-      "link": "https://localnewsmatters.org/2026/04/10/newsom-homelessness-funding-santa-clara-solano-counties/",
-      "source": "Local News Matters",
-      "county": "Santa Clara",
-      "published": "2026-04-10T21:00:00+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3105,7 +3415,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3124,7 +3434,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3138,7 +3448,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3152,21 +3462,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
-      "rankScore": 0.0
-    },
-    {
-      "id": "79fc275b9d73",
-      "title": "How GM's Cruise robotaxi bet derailed, turned into industry cautionary tale",
-      "summary": "For a brief moment, it looked like Cruise might win the race to a driverless future. But just as quickly as it rose to prominence, Cruise came undone -- its dramatic fall from grace triggered by a single horrifying incident on the streets of San Francisco.",
-      "link": "https://abc7news.com/post/general-motors-cruise-how-gms-robotaxi-bet-derailed-turned-industry-cautionary-tale-driverless-tomorrow/16801974/",
-      "source": "ABC7 News",
-      "county": "San Francisco",
-      "published": "2026-04-10T20:45:22+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3180,7 +3476,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 0.9,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3194,21 +3490,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "8de72b447d6a",
-      "title": "8 people, including 5 facing murder charges, arrested in Esparto explosion",
-      "summary": "Eight people, including five people facing murder charges, were arrested in connection with the Esparto explosion, authorities said on Friday.",
-      "link": "https://www.cbsnews.com/sanfrancisco/news/esparto-fireworks-arrests-yolo-county-officials/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T20:27:39+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.7,
       "rankScore": 0.0
     },
     {
@@ -3222,26 +3504,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "691ee13fe840",
-      "title": "Petaluma\u00a0celebrates agricultural roots with annual\u00a0Butter\u00a0&\u00a0Egg\u00a0Days",
-      "summary": "Like budding flowers or the birth of baby animals, a sure sign of spring is&#160;Petaluma\u2019s Butter&#160;&#38;&#160;Egg Days, a celebration of the city\u2019s history and the vibe that makes the Sonoma County city special.&#160; The event, over two weekends, culminates with a parade and downtown festival on April 18. The kickoff event is Saturday, when a [&#8230;]\nThe post Petaluma\u00a0celebrates agricultural roots with annual\u00a0Butter\u00a0&amp;\u00a0Egg\u00a0Days\u00a0 appeared first on Local News Matters.",
-      "link": "https://localnewsmatters.org/2026/04/10/petaluma-celebrates-agricultural-roots-with-annual-butter-egg-days-festivities/",
-      "source": "Local News Matters",
-      "county": "Sonoma",
-      "published": "2026-04-10T20:08:13+00:00",
-      "themes": [
-        {
-          "name": "Climate & Environment",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3255,7 +3518,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3269,7 +3532,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3288,21 +3551,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "7948275ad78a",
-      "title": "'Welcome to Wrexham' renewed through its eighth season just before season 5 premiere next month",
-      "summary": "The Red Dragons score a hat-trick! \"Welcome to Wrexham\" was just renewed for THREE more seasons right before it's season 5 premiere on May 14.",
-      "link": "https://abc7.com/post/welcome-wrexham-renewed-eighth-season-ahead-5-premiere/18867325/",
-      "source": "ABC7 News",
-      "county": "Bay Area",
-      "published": "2026-04-10T19:36:52+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3321,7 +3570,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3335,7 +3584,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3354,21 +3603,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "1199b01607d3",
-      "title": "Waymo partners with WAZE on pothole-mapping in Bay Area to help city crews prioritize repairs",
-      "summary": "Waymo and Waze announced they are teaming up to collect pothole data by using autonomous cars and the Waze app to mark the location of potholes. The tech companies will be sharing location data with cities of road damage to help with repairs and improve road conditions around San Francisco.",
-      "link": "https://abc7news.com/post/waymo-partners-waze-app-pothole-mapping-bay-area-help-city-crews-prioritize-repairs/18864412/",
-      "source": "ABC7 News",
-      "county": "San Francisco",
-      "published": "2026-04-10T19:02:27+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3387,7 +3622,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3401,7 +3636,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3420,7 +3655,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3439,7 +3674,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3458,7 +3693,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3472,7 +3707,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3491,7 +3726,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3510,21 +3745,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "4e1121d272b0",
-      "title": "KPIX_Slate_BayArea_NORCAL",
-      "summary": "Default slate for KPIX",
-      "link": "https://www.cbsnews.com/sanfrancisco/video/kpix-slate-bayarea-norcal/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T18:29:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3543,7 +3764,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3562,21 +3783,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "ad83aa3ae4d4",
-      "title": "KPIX_Slate_BayArea",
-      "summary": "Default slate for KPIX",
-      "link": "https://www.cbsnews.com/sanfrancisco/video/kpix-slate-bayarea/",
-      "source": "CBS San Francisco",
-      "county": "Bay Area",
-      "published": "2026-04-10T18:01:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.8,
       "rankScore": 0.0
     },
     {
@@ -3590,7 +3797,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3604,7 +3811,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3618,7 +3825,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3637,7 +3844,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3656,21 +3863,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
-      "rankScore": 0.0
-    },
-    {
-      "id": "49d83187d577",
-      "title": "SF leaders announce 1-day ceasefire to curb gun violence, hours before Mission shooting",
-      "summary": "San Francisco leaders said \"we're at a crisis point\" as they announced with community advocates a 24-hour ceasefire to curb gun violence, just hours before a shooting that left one person with life-threatening injuries. The city has had 14 homicides in 2026 compared to four this time last year.",
-      "link": "https://abc7news.com/post/san-francisco-mayor-daniel-lurie-city-leaders-announce-1-day-ceasefire-curb-gun-violence-hours-before-mission-shooting/18866233/",
-      "source": "ABC7 News",
-      "county": "San Francisco",
-      "published": "2026-04-10T17:32:48+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3684,7 +3877,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3698,7 +3891,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.1,
+      "ageDays": 1.9,
       "rankScore": 0.0
     },
     {
@@ -3712,7 +3905,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 2.0,
       "rankScore": 0.0
     },
     {
@@ -3726,7 +3919,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 2.0,
       "rankScore": 0.0
     },
     {
@@ -3740,7 +3933,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 2.0,
       "rankScore": 0.0
     },
     {
@@ -3754,7 +3947,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 2.0,
       "rankScore": 0.0
     },
     {
@@ -3773,7 +3966,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
+      "ageDays": 2.0,
       "rankScore": 0.0
     },
     {
@@ -3787,8 +3980,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
-      "rankScore": 0.0
+      "ageDays": 2.0,
+      "rankScore": -0.0
     },
     {
       "id": "ab997d163278",
@@ -3806,8 +3999,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
-      "rankScore": 0.0
+      "ageDays": 2.0,
+      "rankScore": -0.01
     },
     {
       "id": "01daca4153ae",
@@ -3820,8 +4013,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
-      "rankScore": 0.0
+      "ageDays": 2.0,
+      "rankScore": -0.01
     },
     {
       "id": "11c59d315cb0",
@@ -3834,8 +4027,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.2,
-      "rankScore": 0.0
+      "ageDays": 2.0,
+      "rankScore": -0.01
     },
     {
       "id": "6f604ea5fe63",
@@ -3853,8 +4046,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.0,
+      "rankScore": -0.02
     },
     {
       "id": "ffc54814d61d",
@@ -3867,8 +4060,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.03
     },
     {
       "id": "0c20e55ff394",
@@ -3881,8 +4074,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.03
     },
     {
       "id": "57557174e487",
@@ -3900,8 +4093,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.03
     },
     {
       "id": "1055bb18e0f0",
@@ -3919,8 +4112,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.05
     },
     {
       "id": "13157070b690",
@@ -3933,22 +4126,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
-    },
-    {
-      "id": "2f3ecb9f9365",
-      "title": "Remembering Paul Cotton, Berkeley High star athlete and  McClymonds High teacher and coach",
-      "summary": "Known as \"Popeye\" on the Berkeley High campus, where was the rare athlete to letter in four sports, he later traveled the country recording over 15,000 names of relatives to add to his family tree.",
-      "link": "https://www.berkeleyside.org/2026/04/10/paul-cotton-obituary",
-      "source": "Berkeleyside",
-      "county": "Alameda",
-      "published": "2026-04-10T12:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.05
     },
     {
       "id": "65b534db5c4f",
@@ -3961,8 +4140,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.05
     },
     {
       "id": "07ab883f1377",
@@ -3975,8 +4154,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.05
     },
     {
       "id": "c9864e81663f",
@@ -3994,8 +4173,22 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.05
+    },
+    {
+      "id": "2f3ecb9f9365",
+      "title": "Remembering Paul Cotton, Berkeley High star athlete and  McClymonds High teacher and coach",
+      "summary": "Known as \"Popeye\" on the Berkeley High campus, where was the rare athlete to letter in four sports, he later traveled the country recording over 15,000 names of relatives to add to his family tree.",
+      "link": "https://www.berkeleyside.org/2026/04/10/paul-cotton-obituary",
+      "source": "Berkeleyside",
+      "county": "Alameda",
+      "published": "2026-04-10T12:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 2.1,
+      "rankScore": -0.05
     },
     {
       "id": "f0475a92e662",
@@ -4008,8 +4201,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.05
     },
     {
       "id": "debbd09ffa76",
@@ -4027,8 +4220,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.06
     },
     {
       "id": "207dd84e28f0",
@@ -4041,8 +4234,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.07
     },
     {
       "id": "1ec16b56f9a8",
@@ -4055,8 +4248,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.07
     },
     {
       "id": "17d2faba114b",
@@ -4069,8 +4262,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.07
     },
     {
       "id": "84d7dd63bcfc",
@@ -4088,8 +4281,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.07
     },
     {
       "id": "cc933f64f198",
@@ -4102,8 +4295,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.3,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.07
     },
     {
       "id": "b07dd292cb4b",
@@ -4121,8 +4314,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.4,
-      "rankScore": 0.0
+      "ageDays": 2.1,
+      "rankScore": -0.07
     },
     {
       "id": "bedc8b3e81cb",
@@ -4135,8 +4328,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.4,
-      "rankScore": 0.0
+      "ageDays": 2.2,
+      "rankScore": -0.09
     },
     {
       "id": "01ee1fa1848d",
@@ -4149,8 +4342,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.4,
-      "rankScore": 0.0
+      "ageDays": 2.2,
+      "rankScore": -0.09
     },
     {
       "id": "cbcb38776dba",
@@ -4163,8 +4356,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.4,
-      "rankScore": 0.0
+      "ageDays": 2.2,
+      "rankScore": -0.1
     },
     {
       "id": "97e4e6f2c460",
@@ -4177,8 +4370,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.5,
-      "rankScore": 0.0
+      "ageDays": 2.3,
+      "rankScore": -0.14
     },
     {
       "id": "cc2bb552d9b7",
@@ -4191,22 +4384,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.6,
-      "rankScore": 0.0
-    },
-    {
-      "id": "af973574bbd9",
-      "title": "Hayward\u2019s St. Rose Hospital affiliating with Stanford Health Care",
-      "summary": "HAYWARD, Calif. (KRON) \u2014 St. Rose Hospital in Hayward is affiliating with Stanford Health Care to stabilize access to medical care for hundreds of thousands of residents in Alameda County. The small, independent, nonprofit hospital has been making a difference in the Hayward community for more than 60 years. \u201cAnecdotally, so many people have told [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/haywards-st-rose-hospital-affiliating-with-stanford-health-care/",
-      "source": "KRON4",
-      "county": "Alameda",
-      "published": "2026-04-10T05:18:48+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.6,
-      "rankScore": 0.0
+      "ageDays": 2.4,
+      "rankScore": -0.18
     },
     {
       "id": "ea5bcf5a0807",
@@ -4219,8 +4398,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.6,
-      "rankScore": 0.0
+      "ageDays": 2.4,
+      "rankScore": -0.19
     },
     {
       "id": "5fe1a07df162",
@@ -4238,8 +4417,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.6,
-      "rankScore": 0.0
+      "ageDays": 2.4,
+      "rankScore": -0.21
     },
     {
       "id": "2629e5e0bb8d",
@@ -4252,46 +4431,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.6,
-      "rankScore": 0.0
-    },
-    {
-      "id": "df89a4cecce9",
-      "title": "Man on e-scooter crashes into pedestrian on Petaluma sidewalk: PD",
-      "summary": "(KRON) \u2014 Petaluma police said an on-duty department volunteer happened to be driving by on North McDowell Boulevard Wednesday morning when they witnessed a man on an e-scooter crash into a pedestrian on a sidewalk. The incident happened at 9:54 a.m. and police said the 61-year-old suspect was traveling without a helmet on the wrong [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/man-riding-e-scooter-on-petaluma-sidewalk-crashes-into-pedestrian/",
-      "source": "KRON4",
-      "county": "Sonoma",
-      "published": "2026-04-10T02:48:33+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 0.0
-    },
-    {
-      "id": "7fc0c7b76c40",
-      "title": "Illegal electroshock device found on driver without plates, say Los Altos police",
-      "summary": "(KRON) \u2014 An illegal electroshock device and suspected methamphetamine were located in the vehicle of a woman who was spotted driving without license plates on April 1, according to the City of Los Altos Police Department. Police said officers made the traffic enforcement stop just before 9:30 p.m. in the city\u2019s downtown area. \u201cDuring the [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/illegal-electroshock-device-found-on-driver-without-plates-say-los-altos-police/",
-      "source": "KRON4",
-      "county": "Bay Area",
-      "published": "2026-04-10T02:15:17+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 0.0
+      "ageDays": 2.4,
+      "rankScore": -0.22
     },
     {
       "id": "e11195671a53",
@@ -4309,8 +4450,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.7,
-      "rankScore": 0.0
+      "ageDays": 2.5,
+      "rankScore": -0.26
     },
     {
       "id": "256aad08af3a",
@@ -4328,22 +4469,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "8620b83066d4",
-      "title": "Shuttered Walnut Creek sports bar finds new home",
-      "summary": "(KRON) \u2014 Masses Sports Bar &#038; Grill had been a staple in Walnut Creek for more than three decades. Locals expressed their sadness when news broke last November that it was going to close after 31 years on North Main Street. At the time of the closure, Masses made it known that this was not [\u2026]",
-      "link": "https://www.kron4.com/news/bay-area/shuttered-walnut-creek-sports-bar-finds-new-home/",
-      "source": "KRON4",
-      "county": "Contra Costa",
-      "published": "2026-04-10T00:23:54+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 0.0
+      "ageDays": 2.6,
+      "rankScore": -0.29
     },
     {
       "id": "b0b50854bf4d",
@@ -4356,8 +4483,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 0.0
+      "ageDays": 2.6,
+      "rankScore": -0.3
     },
     {
       "id": "64757a0d9a0a",
@@ -4370,22 +4497,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 0.0
-    },
-    {
-      "id": "57962f734d8e",
-      "title": "San Francisco Gets Its First Gluten-Free, Celiac-Safe Italian Restaurant, Clementina",
-      "summary": "There is no life without pasta for most Italians, and given that some Italians must also grapple with the scourge of celiac disease and gluten intolerance, people have found a way to make delicious pasta, and pizza, without the gluten.",
-      "link": "https://sfist.com/2026/04/09/san-francisco-gets-its-first-gluten-free-celiac-safe-italian-restaurant-clementina/",
-      "source": "SFist",
-      "county": "San Francisco",
-      "published": "2026-04-09T23:25:35+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.8,
-      "rankScore": 0.0
+      "ageDays": 2.6,
+      "rankScore": -0.31
     },
     {
       "id": "443f58b69b49",
@@ -4403,8 +4516,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.33
     },
     {
       "id": "8b1753507879",
@@ -4417,8 +4530,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.33
     },
     {
       "id": "edec898bca92",
@@ -4431,22 +4544,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
-    },
-    {
-      "id": "8ca95172fae2",
-      "title": "Calling It a 'Crisis Point,' DA Brooke Jenkins and Other City Leaders Call For Ceasefire Amid Spike In SF Homicides",
-      "summary": "There was a press conference Thursday morning on the steps of San Francisco City Hall to address the noted uptick in homicides since the start of the year, which puts the city on track for potentially double the number of homicides we saw in 2025.",
-      "link": "https://sfist.com/2026/04/09/calling-it-a-crisis-point-da-brooke-jenkins-calls-for-ceasefire-amid-spike-in-sf-homicides/",
-      "source": "SFist",
-      "county": "San Francisco",
-      "published": "2026-04-09T22:19:59+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.33
     },
     {
       "id": "b8c9efc021c8",
@@ -4459,8 +4558,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.34
     },
     {
       "id": "afa5db177945",
@@ -4473,22 +4572,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
-    },
-    {
-      "id": "64e189fb0ba1",
-      "title": "Spring restaurant superbloom brings new Filipino, burger, Mexican, coffee, and Nicaraguan spots",
-      "summary": "Spring restaurant superbloom brings new Filipino, burger, Mexican, coffee, and Nicaraguan spots\n\nFOB West, Tita Becca's, Butter's Burgers, Le\u00f1a, GA.RA, and La Cocinita Nica are some of the East Bay restaurants to open in March.",
-      "link": "https://richmondside.org/2026/04/09/fob-west-tita-beccas-butters-lena-gara-cocinita-nica-open/",
-      "source": "Richmondside",
-      "county": "Alameda",
-      "published": "2026-04-09T21:57:17+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.34
     },
     {
       "id": "f2aba391ca5c",
@@ -4506,8 +4591,22 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.34
+    },
+    {
+      "id": "7d2b419598e9",
+      "title": "Spring restaurant superbloom brings new Filipino, burger, Mexican, coffee, and Nicaraguan spots",
+      "summary": "Spring restaurant superbloom brings new Filipino, burger, Mexican, coffee, and Nicaraguan spots\n\nFOB West, Tita Becca's, Butter's Burgers, Le\u00f1a, GA.RA, and La Cocinita Nica are some of the East Bay restaurants to open in March.",
+      "link": "https://oaklandside.org/2026/04/09/fob-west-tita-beccas-butters-lena-gara-cocinita-nica-open/",
+      "source": "The Oaklandside",
+      "county": "Alameda",
+      "published": "2026-04-09T21:53:30+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 2.7,
+      "rankScore": -0.35
     },
     {
       "id": "24eeead8892a",
@@ -4520,8 +4619,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.35
     },
     {
       "id": "6959668e04c1",
@@ -4534,8 +4633,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.36
     },
     {
       "id": "78022758742c",
@@ -4548,8 +4647,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.36
     },
     {
       "id": "29ecee7c0392",
@@ -4562,8 +4661,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 1.9,
-      "rankScore": 0.0
+      "ageDays": 2.7,
+      "rankScore": -0.36
     },
     {
       "id": "c171c69ff5ed",
@@ -4576,8 +4675,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 0.0
+      "ageDays": 2.8,
+      "rankScore": -0.38
     },
     {
       "id": "0c6dfdabdc02",
@@ -4590,8 +4689,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 0.0
+      "ageDays": 2.8,
+      "rankScore": -0.39
     },
     {
       "id": "e69f3ef06df7",
@@ -4609,22 +4708,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 0.0
-    },
-    {
-      "id": "4750df594a99",
-      "title": "April is for action: 10 ways to volunteer now in Santa Cruz County",
-      "summary": "This April is Global Volunteer Month\u2014a time to honor the thousands of volunteers who show up for our community all year long. Research backs up what volunteers already know: service strengthens people, reduces isolation, and builds purpose. It reminds us we&#8217;re not alone. When the world feels heavy, when we&#8217;re facing seemingly insurmountable challenges, volunteering [&#8230;]\nThe post April is for action: 10 ways to volunteer now in Santa Cruz County appeared first on Lookout Santa Cr",
-      "link": "https://lookout.co/april-is-for-action-10-ways-to-volunteer-now-in-santa-cruz-county/story",
-      "source": "Lookout Santa Cruz",
-      "county": "Santa Cruz",
-      "published": "2026-04-09T19:38:35+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 0.0
+      "ageDays": 2.8,
+      "rankScore": -0.39
     },
     {
       "id": "d969d8637889",
@@ -4642,8 +4727,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": 0.0
+      "ageDays": 2.8,
+      "rankScore": -0.4
     },
     {
       "id": "085c14d0e9ed",
@@ -4656,8 +4741,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": -0.0
+      "ageDays": 2.8,
+      "rankScore": -0.4
     },
     {
       "id": "05276d4801ff",
@@ -4675,22 +4760,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": -0.01
-    },
-    {
-      "id": "ce0c85e6aeff",
-      "title": "Best of Santa Cruz County arts & food events this weekend, April 9-12",
-      "summary": "With the weekend nearly here, check out things to do around Santa Cruz County with a recommendation from Lily Belli and a specially curated list from Lookout&#8217;s BOLO events calendar.\nThe post Best of Santa Cruz County arts &amp; food events this weekend, April 9-12 appeared first on Lookout Santa Cruz.",
-      "link": "https://lookout.co/best-of-santa-cruz-county-arts-food-events-this-weekend-april-9-12/story",
-      "source": "Lookout Santa Cruz",
-      "county": "Santa Cruz",
-      "published": "2026-04-09T18:42:56+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": -0.01
+      "ageDays": 2.8,
+      "rankScore": -0.41
     },
     {
       "id": "dae265602921",
@@ -4703,8 +4774,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.0,
-      "rankScore": -0.02
+      "ageDays": 2.8,
+      "rankScore": -0.42
     },
     {
       "id": "9cfb39c9a83c",
@@ -4722,8 +4793,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.1,
-      "rankScore": -0.07
+      "ageDays": 2.9,
+      "rankScore": -0.46
     },
     {
       "id": "03876b07721a",
@@ -4736,8 +4807,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": -0.08
+      "ageDays": 2.9,
+      "rankScore": -0.47
     },
     {
       "id": "3fb1583b918d",
@@ -4750,8 +4821,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": -0.1
+      "ageDays": 3.0,
+      "rankScore": -0.5
     },
     {
       "id": "d9999ec361e4",
@@ -4764,8 +4835,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.2,
-      "rankScore": -0.11
+      "ageDays": 3.0,
+      "rankScore": -0.51
     },
     {
       "id": "1803a76c5b54",
@@ -4778,8 +4849,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.13
+      "ageDays": 3.1,
+      "rankScore": -0.53
     },
     {
       "id": "acfba80513b1",
@@ -4792,8 +4863,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.13
+      "ageDays": 3.1,
+      "rankScore": -0.53
     },
     {
       "id": "daf6e9347868",
@@ -4806,8 +4877,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.14
+      "ageDays": 3.1,
+      "rankScore": -0.53
     },
     {
       "id": "f7a09d7edd4c",
@@ -4825,8 +4896,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.15
+      "ageDays": 3.1,
+      "rankScore": -0.55
     },
     {
       "id": "419425977394",
@@ -4844,8 +4915,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.15
+      "ageDays": 3.1,
+      "rankScore": -0.55
     },
     {
       "id": "e467340450c0",
@@ -4858,22 +4929,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.17
-    },
-    {
-      "id": "f701f0512105",
-      "title": "San Francisco leaders, community announce 24-hour violence ceasefire",
-      "summary": "",
-      "link": "https://www.nbcbayarea.com/news/local/san-francisco-violence-ceasefire/4066272/",
-      "source": "NBC Bay Area",
-      "county": "San Francisco",
-      "published": "2026-04-09T11:19:21+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.3,
-      "rankScore": -0.17
+      "ageDays": 3.1,
+      "rankScore": -0.56
     },
     {
       "id": "84559f3b3449",
@@ -4886,8 +4943,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.4,
-      "rankScore": -0.19
+      "ageDays": 3.2,
+      "rankScore": -0.58
     },
     {
       "id": "93cbab65b62c",
@@ -4900,8 +4957,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.4,
-      "rankScore": -0.19
+      "ageDays": 3.2,
+      "rankScore": -0.59
     },
     {
       "id": "ce6faef1dc0a",
@@ -4919,8 +4976,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.5,
-      "rankScore": -0.27
+      "ageDays": 3.3,
+      "rankScore": -0.67
     },
     {
       "id": "1c52c2b709c1",
@@ -4938,8 +4995,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.28
+      "ageDays": 3.4,
+      "rankScore": -0.68
     },
     {
       "id": "1b48841f4d2c",
@@ -4952,8 +5009,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.28
+      "ageDays": 3.4,
+      "rankScore": -0.68
     },
     {
       "id": "6017461d0c2a",
@@ -4966,8 +5023,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.29
+      "ageDays": 3.4,
+      "rankScore": -0.69
     },
     {
       "id": "e68e9668b23b",
@@ -4980,55 +5037,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.29
-    },
-    {
-      "id": "87086a24f548",
-      "title": "Family desperate to find former San Jose State football player last seen in Daly City",
-      "summary": "",
-      "link": "https://www.nbcbayarea.com/news/local/hadari-darden-search/4066512/",
-      "source": "NBC Bay Area",
-      "county": "Santa Clara",
-      "published": "2026-04-09T05:11:31+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.29
-    },
-    {
-      "id": "fb64679b5aad",
-      "title": "Shooting in San Francisco leaves person hospitalized",
-      "summary": "",
-      "link": "https://www.nbcbayarea.com/news/local/shooting-sf-leaves-person-hospitalized/4066481/",
-      "source": "NBC Bay Area",
-      "county": "San Francisco",
-      "published": "2026-04-09T04:04:07+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.32
-    },
-    {
-      "id": "ff7d05086c08",
-      "title": "Attorney for man shot by ICE in Central Valley says client denies being gang member",
-      "summary": "",
-      "link": "https://www.nbcbayarea.com/news/california/man-shot-ice-central-valley-denies-being-gang-member/4066466/",
-      "source": "NBC Bay Area",
-      "county": "Bay Area",
-      "published": "2026-04-09T04:03:36+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 2.6,
-      "rankScore": -0.32
+      "ageDays": 3.4,
+      "rankScore": -0.69
     },
     {
       "id": "f3fe557089db",
@@ -5041,8 +5051,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.7,
-      "rankScore": -0.34
+      "ageDays": 3.5,
+      "rankScore": -0.74
     },
     {
       "id": "275b2c58c349",
@@ -5055,8 +5065,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.7,
-      "rankScore": -0.36
+      "ageDays": 3.5,
+      "rankScore": -0.76
     },
     {
       "id": "32844456e739",
@@ -5074,8 +5084,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.8,
-      "rankScore": -0.39
+      "ageDays": 3.6,
+      "rankScore": -0.79
     },
     {
       "id": "8a96439023f4",
@@ -5093,8 +5103,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.8,
-      "rankScore": -0.4
+      "ageDays": 3.6,
+      "rankScore": -0.8
     },
     {
       "id": "1c0b81bd652f",
@@ -5107,8 +5117,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.8,
-      "rankScore": -0.41
+      "ageDays": 3.6,
+      "rankScore": -0.8
     },
     {
       "id": "f03c75acf16f",
@@ -5121,8 +5131,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.8,
-      "rankScore": -0.41
+      "ageDays": 3.6,
+      "rankScore": -0.81
     },
     {
       "id": "90e3f4a1ac5c",
@@ -5144,8 +5154,8 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 4.8,
-      "rankScore": -0.42
+      "ageDays": 5.6,
+      "rankScore": -0.82
     },
     {
       "id": "c08fa84d3dd8",
@@ -5163,8 +5173,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.43
+      "ageDays": 3.7,
+      "rankScore": -0.83
     },
     {
       "id": "b34434f4e3ee",
@@ -5182,8 +5192,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.44
+      "ageDays": 3.7,
+      "rankScore": -0.84
     },
     {
       "id": "a8ed5d348c6d",
@@ -5201,8 +5211,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.45
+      "ageDays": 3.7,
+      "rankScore": -0.84
     },
     {
       "id": "a99be63e53ac",
@@ -5220,8 +5230,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.45
+      "ageDays": 3.7,
+      "rankScore": -0.85
     },
     {
       "id": "0012bdd54f4c",
@@ -5239,8 +5249,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.45
+      "ageDays": 3.7,
+      "rankScore": -0.85
     },
     {
       "id": "7a6f47618a7b",
@@ -5258,8 +5268,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.46
+      "ageDays": 3.7,
+      "rankScore": -0.86
     },
     {
       "id": "e177ae73310f",
@@ -5277,8 +5287,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 2.9,
-      "rankScore": -0.47
+      "ageDays": 3.7,
+      "rankScore": -0.87
     },
     {
       "id": "039f4157b118",
@@ -5291,8 +5301,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": -0.49
+      "ageDays": 3.8,
+      "rankScore": -0.88
     },
     {
       "id": "2fae1ba34d0e",
@@ -5305,8 +5315,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": -0.49
+      "ageDays": 3.8,
+      "rankScore": -0.89
     },
     {
       "id": "fdd382ae55cf",
@@ -5324,8 +5334,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": -0.49
+      "ageDays": 3.8,
+      "rankScore": -0.89
     },
     {
       "id": "245505e33961",
@@ -5343,8 +5353,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": -0.5
+      "ageDays": 3.8,
+      "rankScore": -0.9
     },
     {
       "id": "cda081d8f5bc",
@@ -5357,8 +5367,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": -0.51
+      "ageDays": 3.8,
+      "rankScore": -0.91
     },
     {
       "id": "ee56f0c22cf3",
@@ -5376,8 +5386,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.0,
-      "rankScore": -0.52
+      "ageDays": 3.8,
+      "rankScore": -0.91
     },
     {
       "id": "3fcaa7cabf46",
@@ -5395,8 +5405,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": -0.54
+      "ageDays": 3.9,
+      "rankScore": -0.94
     },
     {
       "id": "9501abd30590",
@@ -5409,8 +5419,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": -0.55
+      "ageDays": 3.9,
+      "rankScore": -0.95
     },
     {
       "id": "75669c01c977",
@@ -5423,8 +5433,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": -0.55
+      "ageDays": 3.9,
+      "rankScore": -0.95
     },
     {
       "id": "e9e4f04107e2",
@@ -5442,8 +5452,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.1,
-      "rankScore": -0.57
+      "ageDays": 3.9,
+      "rankScore": -0.97
     },
     {
       "id": "8f8389061ea9",
@@ -5456,8 +5466,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.2,
-      "rankScore": -0.59
+      "ageDays": 4.0,
+      "rankScore": -0.98
     },
     {
       "id": "ba562e29c580",
@@ -5470,8 +5480,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.2,
-      "rankScore": -0.59
+      "ageDays": 4.0,
+      "rankScore": -0.98
     },
     {
       "id": "c9505eb05813",
@@ -5484,8 +5494,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.2,
-      "rankScore": -0.6
+      "ageDays": 4.0,
+      "rankScore": -1.0
     },
     {
       "id": "c37f936addd5",
@@ -5498,8 +5508,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.2,
-      "rankScore": -0.61
+      "ageDays": 4.0,
+      "rankScore": -1.01
     },
     {
       "id": "c4f4d2857b3b",
@@ -5512,8 +5522,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.3,
-      "rankScore": -0.63
+      "ageDays": 4.1,
+      "rankScore": -1.03
     },
     {
       "id": "485f215c36f1",
@@ -5526,8 +5536,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.3,
-      "rankScore": -0.63
+      "ageDays": 4.1,
+      "rankScore": -1.03
     },
     {
       "id": "6ba0fa273ff6",
@@ -5540,8 +5550,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.3,
-      "rankScore": -0.63
+      "ageDays": 4.1,
+      "rankScore": -1.03
     },
     {
       "id": "01c0d9123871",
@@ -5554,8 +5564,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.3,
-      "rankScore": -0.65
+      "ageDays": 4.1,
+      "rankScore": -1.05
     },
     {
       "id": "05e1428303da",
@@ -5568,8 +5578,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.6,
-      "rankScore": -0.82
+      "ageDays": 4.4,
+      "rankScore": -1.22
     },
     {
       "id": "ce08b702f0ad",
@@ -5582,8 +5592,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.8,
-      "rankScore": -0.89
+      "ageDays": 4.6,
+      "rankScore": -1.29
     },
     {
       "id": "19c6d4c0851d",
@@ -5596,8 +5606,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.8,
-      "rankScore": -0.92
+      "ageDays": 4.6,
+      "rankScore": -1.32
     },
     {
       "id": "4c7deacfa0e5",
@@ -5610,8 +5620,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": -0.93
+      "ageDays": 4.7,
+      "rankScore": -1.33
     },
     {
       "id": "f8bd9b04d03f",
@@ -5629,8 +5639,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": -0.96
+      "ageDays": 4.7,
+      "rankScore": -1.35
     },
     {
       "id": "bd8feb52ddf8",
@@ -5648,8 +5658,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": -0.96
+      "ageDays": 4.7,
+      "rankScore": -1.36
     },
     {
       "id": "e3e1898fac6e",
@@ -5662,8 +5672,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": -0.97
+      "ageDays": 4.7,
+      "rankScore": -1.36
     },
     {
       "id": "5a9fa8710cec",
@@ -5681,8 +5691,8 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": -0.97
+      "ageDays": 4.7,
+      "rankScore": -1.37
     },
     {
       "id": "a3b645d68539",
@@ -5695,74 +5705,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 3.9,
-      "rankScore": -0.97
-    },
-    {
-      "id": "52abaa97bead",
-      "title": "S.F. supervisor Jackie Fielder seeks leave of absence through June 30",
-      "summary": "Mission District supervisor Jackie Fielder will be absent from City Hall through at least the end of June for a mental health leave.\nS.F. supervisor Jackie Fielder seeks leave of absence through June 30",
-      "link": "https://missionlocal.org/2026/04/sf-jackie-fielder-leave-of-absence/",
-      "source": "Mission Local",
-      "county": "San Francisco",
-      "published": "2026-04-07T19:09:43+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 4.0,
-      "rankScore": -1.0
-    },
-    {
-      "id": "9da6b8acd7e5",
-      "title": "Vallejo police solicit feedback on new complaint policy",
-      "summary": "The online complaint form is being revamped to incorporate the newly-formed Police Oversight and Accountability Commission.",
-      "link": "https://www.vallejosun.com/vallejo-police-solicit-feedback-on-new-complaint-policy/",
-      "source": "Vallejo Sun",
-      "county": "Solano",
-      "published": "2026-04-01T21:08:55+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 2,
-      "isEnterprise": true,
-      "ageDays": 9.9,
-      "rankScore": -1.0
-    },
-    {
-      "id": "9ddd4f0fda1b",
-      "title": "Could new species benefit Point Reyes?",
-      "summary": "It was, by any measure, a wildly successful experiment. In 1978, the National Park Service released 10 tule elk\u2014rangy, doe-eyed creatures once thought to have gone the way of the unfortunate dodo\u2014into a fenced 2,600-acre preserve on a former dairy farm at the northernmost tip of the Point Reyes peninsula. The elk thrived, taking easily [&#8230;]\nThe post Could new species benefit Point Reyes? appeared first on Point Reyes Light.",
-      "link": "https://www.ptreyeslight.com/news/could-new-species-benefit-point-reyes/",
-      "source": "Point Reyes Light",
-      "county": "Marin",
-      "published": "2026-04-01T20:11:21+00:00",
-      "themes": [],
-      "nationalSignificance": 2,
-      "isEnterprise": false,
-      "ageDays": 10.0,
-      "rankScore": -1.0
-    },
-    {
-      "id": "fbac6f0137d6",
-      "title": "Tanzie\u2019s duo open new restaurant, new coffee shop brewing in Hercules, and Cheese Board completes expansion",
-      "summary": "Tanzie\u2019s duo open new restaurant, new coffee shop brewing in Hercules, and Cheese Board completes expansion\n\nA running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-      "link": "https://richmondside.org/2026/04/07/nudi-blue-cheese-board-sodo-quebrada-opening/",
-      "source": "Richmondside",
-      "county": "Contra Costa",
-      "published": "2026-04-07T19:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 4.0,
-      "rankScore": -1.01
+      "ageDays": 4.7,
+      "rankScore": -1.37
     },
     {
       "id": "cf5b0ac1c878",
@@ -5775,8 +5719,22 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.0,
-      "rankScore": -1.01
+      "ageDays": 4.8,
+      "rankScore": -1.41
+    },
+    {
+      "id": "fbac6f0137d6",
+      "title": "Tanzie\u2019s duo open new restaurant, new coffee shop brewing in Hercules, and Cheese Board completes expansion",
+      "summary": "Tanzie\u2019s duo open new restaurant, new coffee shop brewing in Hercules, and Cheese Board completes expansion\n\nA running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+      "link": "https://richmondside.org/2026/04/07/nudi-blue-cheese-board-sodo-quebrada-opening/",
+      "source": "Richmondside",
+      "county": "Contra Costa",
+      "published": "2026-04-07T19:00:00+00:00",
+      "themes": [],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 4.8,
+      "rankScore": -1.41
     },
     {
       "id": "ae79cb8c9780",
@@ -5789,8 +5747,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.1,
-      "rankScore": -1.07
+      "ageDays": 4.9,
+      "rankScore": -1.47
     },
     {
       "id": "220e8efaef78",
@@ -5803,8 +5761,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.4,
-      "rankScore": -1.18
+      "ageDays": 5.2,
+      "rankScore": -1.58
     },
     {
       "id": "fc407cab6b37",
@@ -5817,8 +5775,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.4,
-      "rankScore": -1.18
+      "ageDays": 5.2,
+      "rankScore": -1.58
     },
     {
       "id": "bc5c249199bb",
@@ -5831,8 +5789,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.6,
-      "rankScore": -1.28
+      "ageDays": 5.4,
+      "rankScore": -1.68
     },
     {
       "id": "ede28e8fd8c7",
@@ -5845,8 +5803,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 4.8,
-      "rankScore": -1.39
+      "ageDays": 5.6,
+      "rankScore": -1.79
     },
     {
       "id": "2793a235db86",
@@ -5859,8 +5817,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 5.0,
-      "rankScore": -1.48
+      "ageDays": 5.7,
+      "rankScore": -1.87
     },
     {
       "id": "28d41af4c813",
@@ -5873,8 +5831,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 5.0,
-      "rankScore": -1.51
+      "ageDays": 5.8,
+      "rankScore": -1.91
     },
     {
       "id": "0f60bed8c53c",
@@ -5887,27 +5845,8 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 5.1,
-      "rankScore": -1.54
-    },
-    {
-      "id": "c0ffa9dc2ad0",
-      "title": "For the first time in nearly 10 years, Contra Costa voters will pick a new schools superintendent",
-      "summary": "For the first time in nearly 10 years, Contra Costa voters will pick a new schools superintendent\n\nThe June primary could determine who will lead the county\u2019s 18 school districts, many of which face budget woes and literacy challenges.",
-      "link": "https://richmondside.org/2026/04/06/contra-costa-voters-will-elect-schools-superintendent/",
-      "source": "Richmondside",
-      "county": "Contra Costa",
-      "published": "2026-04-06T13:00:00+00:00",
-      "themes": [
-        {
-          "name": "Governance & Power",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 5.3,
-      "rankScore": -1.63
+      "ageDays": 5.9,
+      "rankScore": -1.94
     },
     {
       "id": "4677996153e1",
@@ -5925,8 +5864,27 @@
       ],
       "nationalSignificance": 1,
       "isEnterprise": false,
-      "ageDays": 9.0,
+      "ageDays": 9.8,
       "rankScore": -2.0
+    },
+    {
+      "id": "c0ffa9dc2ad0",
+      "title": "For the first time in nearly 10 years, Contra Costa voters will pick a new schools superintendent",
+      "summary": "For the first time in nearly 10 years, Contra Costa voters will pick a new schools superintendent\n\nThe June primary could determine who will lead the county\u2019s 18 school districts, many of which face budget woes and literacy challenges.",
+      "link": "https://richmondside.org/2026/04/06/contra-costa-voters-will-elect-schools-superintendent/",
+      "source": "Richmondside",
+      "county": "Contra Costa",
+      "published": "2026-04-06T13:00:00+00:00",
+      "themes": [
+        {
+          "name": "Governance & Power",
+          "strength": 1
+        }
+      ],
+      "nationalSignificance": 0,
+      "isEnterprise": false,
+      "ageDays": 6.1,
+      "rankScore": -2.03
     },
     {
       "id": "c6b673529e0b",
@@ -5939,7 +5897,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 8.0,
+      "ageDays": 8.8,
       "rankScore": -3.0
     },
     {
@@ -5953,7 +5911,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 8.1,
+      "ageDays": 8.9,
       "rankScore": -3.0
     },
     {
@@ -5967,7 +5925,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 8.1,
+      "ageDays": 8.9,
       "rankScore": -3.0
     },
     {
@@ -5986,7 +5944,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 8.2,
+      "ageDays": 9.0,
       "rankScore": -3.0
     },
     {
@@ -6005,7 +5963,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 8.3,
+      "ageDays": 9.1,
       "rankScore": -3.0
     },
     {
@@ -6024,7 +5982,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 8.7,
+      "ageDays": 9.5,
       "rankScore": -3.0
     },
     {
@@ -6043,7 +6001,7 @@
       ],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 9.0,
+      "ageDays": 9.8,
       "rankScore": -3.0
     },
     {
@@ -6057,7 +6015,7 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 9.0,
+      "ageDays": 9.8,
       "rankScore": -3.0
     },
     {
@@ -6071,150 +6029,9 @@
       "themes": [],
       "nationalSignificance": 0,
       "isEnterprise": false,
-      "ageDays": 9.2,
-      "rankScore": -3.0
-    },
-    {
-      "id": "b3d3a0c6f350",
-      "title": "8 things to do in Richmond this week",
-      "summary": "8 things to do in Richmond this week\n\nHighlights include oysters or opera, a Holi celebration and community seder, and a week of spring break activities for kids.",
-      "link": "https://richmondside.org/2026/04/02/8-things-to-do-in-richmond-april-2/",
-      "source": "Richmondside",
-      "county": "Contra Costa",
-      "published": "2026-04-02T13:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 9.3,
-      "rankScore": -3.0
-    },
-    {
-      "id": "1da9b1870e6c",
-      "title": "\u2018Less crying in the walk-in\u2019: East Bay restaurants switch to counter service to survive",
-      "summary": "\u2018Less crying in the walk-in\u2019: East Bay restaurants switch to counter service to survive\n\nMore restaurants are pivoting to a fast-casual model to survive \u2014 and thrive \u2014 in an era of skyrocketing food, fuel and labor costs.",
-      "link": "https://richmondside.org/2026/04/01/lulus-ace-daytrip-counter-service-restaurant-conversion/",
-      "source": "Richmondside",
-      "county": "Alameda",
-      "published": "2026-04-01T22:00:00+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 9.9,
-      "rankScore": -3.0
-    },
-    {
-      "id": "50bcf6aaad50",
-      "title": "Golden Gate Fields could soon turn into a public park",
-      "summary": "Golden Gate Fields could soon turn into a public park\n\nA San Francisco-based nonprofit agreed to buy the former race track for $175 million and transfer it to the East Bay Regional Park District, creating a huge new shoreline park.",
-      "link": "https://richmondside.org/2026/04/01/golden-gate-fields-sold-east-bay-regional-park-district/",
-      "source": "Richmondside",
-      "county": "San Francisco",
-      "published": "2026-04-01T21:27:49+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 9.9,
-      "rankScore": -3.0
-    },
-    {
-      "id": "02ffc03ff021",
-      "title": "More homes acquired by land trust",
-      "summary": "With two new property purchases and an innovative lease agreement, the Community Land Trust Association of West Marin has made another substantial stride toward its goal of providing homes for 40 displaced ranch families. The new acquisitions include a Point Reyes Station property with three dwellings and an Inverness property with an additional three residences.\u00a0 [&#8230;]\nThe post More homes acquired by land trust appeared first on Point Reyes Light.",
-      "link": "https://www.ptreyeslight.com/news/more-homes-acquired-by-land-trust/",
-      "source": "Point Reyes Light",
-      "county": "Marin",
-      "published": "2026-04-01T20:12:15+00:00",
-      "themes": [
-        {
-          "name": "Housing & Displacement",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 10.0,
-      "rankScore": -3.0
-    },
-    {
-      "id": "6c6108227f17",
-      "title": "Hearsay attracts top-notch law firm",
-      "summary": "The Hearsay News, Bolinas\u2019s iconoclastic community bulletin, distributes a mere few hundred copies per issue and has never had a paid employee. Last month, the tiny operation acquired the same law firm that has represented Pfizer, Microsoft and the government of Brazil to defend it in a defamation lawsuit. Arnold &#38; Porter Kaye Scholer, one [&#8230;]\nThe post Hearsay attracts top-notch law firm appeared first on Point Reyes Light.",
-      "link": "https://www.ptreyeslight.com/news/hearsay-attracts-top-notch-law-firm/",
-      "source": "Point Reyes Light",
-      "county": "Marin",
-      "published": "2026-04-01T20:11:52+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 10.0,
-      "rankScore": -3.0
-    },
-    {
-      "id": "ef1b3146f72c",
-      "title": "Marin Water proposes Nicasio capture",
-      "summary": "The last time Marin Water came up with a plan for increasing water resiliency in times of drought, Nicasio residents rose up in protest. Now the water district has a new plan for boosting its water supply, and locals are worried again. The Atmospheric River Capture, or ARC, project involves constructing a 13-mile-long, 36-inch-wide pipeline [&#8230;]\nThe post Marin Water proposes Nicasio capture appeared first on Point Reyes Light.",
-      "link": "https://www.ptreyeslight.com/news/marin-water-proposes-nicasio-capture/",
-      "source": "Point Reyes Light",
-      "county": "Marin",
-      "published": "2026-04-01T20:10:50+00:00",
-      "themes": [
-        {
-          "name": "Climate & Environment",
-          "strength": 2
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 10.0,
-      "rankScore": -3.0
-    },
-    {
-      "id": "1e5bbd15a513",
-      "title": "Let\u2019s save our dairy farms",
-      "summary": "\u201cLast chance\u2014one night only\u201d may sound like a theater marquee, but for organic dairy farms at Point Reyes and across coastal California, it is a fair warning. Decisions made now will determine whether multigenerational organic dairy farms survive or are lost, along with the food security, ecological stewardship and rural livelihoods they sustain. California is [&#8230;]\nThe post Let\u2019s save our dairy farms appeared first on Point Reyes Light.",
-      "link": "https://www.ptreyeslight.com/opinion/lets-save-our-dairy-farms/",
-      "source": "Point Reyes Light",
-      "county": "Marin",
-      "published": "2026-04-01T20:10:05+00:00",
-      "themes": [
-        {
-          "name": "Climate & Environment",
-          "strength": 1
-        }
-      ],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 10.0,
-      "rankScore": -3.0
-    },
-    {
-      "id": "80d27d39576b",
-      "title": "In the Fields, April 2, 2026",
-      "summary": "Spring has arrived a month early at Point Reyes Flowers, where the roses are off to an explosive start. Pink damask bushes are already suffusing the air with a sweet, delicate perfume. Nearby Julia Child roses, buttery gold with a citrus fragrance, are starting to pop, dahlias are weeks ahead of schedule and a delphinium [&#8230;]\nThe post In the Fields, April 2, 2026 appeared first on Point Reyes Light.",
-      "link": "https://www.ptreyeslight.com/features/in-the-fields-april-2-2026/",
-      "source": "Point Reyes Light",
-      "county": "Marin",
-      "published": "2026-04-01T20:08:11+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
-      "ageDays": 10.0,
-      "rankScore": -3.0
-    },
-    {
-      "id": "9b40469bc743",
-      "title": "Upcoming Vallejo Events \u2014 Easter celebrations",
-      "summary": "Plus, Black Box Radio Stars open \u201cStage Door\u201d at the Mira Theatre",
-      "link": "https://www.vallejosun.com/upcoming-vallejo-events-easter-celebrations/",
-      "source": "Vallejo Sun",
-      "county": "Solano",
-      "published": "2026-04-01T20:00:26+00:00",
-      "themes": [],
-      "nationalSignificance": 0,
-      "isEnterprise": false,
       "ageDays": 10.0,
       "rankScore": -3.0
     }
   ],
-  "generated_at": "April 11, 2026 at 07:20 PM UTC"
+  "generated_at": "April 12, 2026 at 02:27 PM UTC"
 }
