@@ -1,7 +1,23 @@
 [
   {
-    "title": "How to get to know your unhoused neighbors, and take on City Hall",
-    "summary": "\u201cWood Street,\u201d a documentary directed by Caron Creighton, documents the tumultuous final year of the largest homeless encampment in Oakland. \nHow to get to know your unhoused neighbors, and take on City Hall",
+    "title": "Alone together",
+    "summary": "At SFMOMA. Photo by Walter Mackins. \nAlone together",
+    "link": "https://missionlocal.org/2026/05/alone-together-2/",
+    "source": "Mission Local",
+    "county": "San Francisco",
+    "published": "2026-05-31T07:00:00+00:00"
+  },
+  {
+    "title": "\u2018Not a NIMBY, not a YIMBY:\u2019 Albert Chow says that\u2019ll drive City Hall crazy",
+    "summary": "The District 4 candidate has strong feelings about Sunset Dunes, red lights and boarding islands, and he\u2019s not afraid to show it. \n\u2018Not a NIMBY, not a YIMBY:\u2019 Albert Chow says that\u2019ll drive City Hall crazy",
+    "link": "https://missionlocal.org/2026/05/sf-sunset-district-4-candidates-campaign-trail/",
+    "source": "Mission Local",
+    "county": "San Francisco",
+    "published": "2026-05-30T20:00:00+00:00"
+  },
+  {
+    "title": "Q&A: How to get to know your unhoused neighbors, and take on City Hall",
+    "summary": "\u201cWood Street,\u201d a documentary directed by Caron Creighton, documents the tumultuous final year of the largest homeless encampment in Oakland. \nQ&amp;A: How to get to know your unhoused neighbors, and take on City Hall",
     "link": "https://missionlocal.org/2026/05/how-to-get-to-know-your-unhoused-neighbors-and-take-on-city-hall/",
     "source": "Mission Local",
     "county": "Alameda",
@@ -24,8 +40,8 @@
     "published": "2026-05-30T12:00:00+00:00"
   },
   {
-    "title": "See How They Run: Mayor Lurie is popular. Can he transfer it to Alan Wong?",
-    "summary": "Mayor Lurie and Supervisor Alan Wong go door-to-door, courting Sunset voters. \"I need good partners,\" Lurie told voters. And Wong is one. \nSee How They Run: Mayor Lurie is popular. Can he transfer it to Alan Wong?",
+    "title": "Mayor Lurie is popular. Can he transfer it to Alan Wong?",
+    "summary": "Mayor Lurie and Supervisor Alan Wong go door-to-door, courting Sunset voters. \"I need good partners,\" Lurie told voters. And Wong is one. \nMayor Lurie is popular. Can he transfer it to Alan Wong?",
     "link": "https://missionlocal.org/2026/05/sf-sunset-district-4-alan-wong-daniel-lurie/",
     "source": "Mission Local",
     "county": "San Francisco",
@@ -184,20 +200,44 @@
     "published": "2026-05-28T14:00:00+00:00"
   },
   {
-    "title": "Carnaval\u2026 AF!",
-    "summary": "On Treat Avenue. Photo by Walter Mackins. \nCarnaval\u2026 AF!",
-    "link": "https://missionlocal.org/2026/05/carnaval-af/",
-    "source": "Mission Local",
+    "title": "Guess that billionaire PAC: A 2026 election quiz",
+    "summary": "Seemingly every baron in the Bay Area has a PAC now. None of them tell you what they really fund. Can you guess?",
+    "link": "https://sfstandard.com/2026/05/31/guess-billionaire-pac-2026-election-quiz/",
+    "source": "SF Standard",
     "county": "San Francisco",
-    "published": "2026-05-28T13:00:00+00:00"
+    "published": "2026-05-31T13:00:00+00:00"
   },
   {
-    "title": "Hidden fees can add hundreds to S.F. rent. New law aims to disclose them.",
-    "summary": "Landlords who don\u2019t disclose extra charges to would-be tenants could lose the ability to evict them for not paying.\nHidden fees can add hundreds to S.F. rent. New law aims to disclose them.",
-    "link": "https://missionlocal.org/2026/05/sf-rent-housing-hidden-junk-fees-bilal-mahmood/",
-    "source": "Mission Local",
+    "title": "5 most anticipated San Francisco restaurant, bar, and bakery openings in June",
+    "summary": "Two Haight Street icons, Toronado and The Deluxe, are set to return by the end of the month.",
+    "link": "https://sfstandard.com/2026/05/31/toronado-deluxe-reopening-new-restaurants/",
+    "source": "SF Standard",
     "county": "San Francisco",
-    "published": "2026-05-28T13:00:00+00:00"
+    "published": "2026-05-31T13:00:00+00:00"
+  },
+  {
+    "title": "Why San Francisco home buyers are stressing, grieving, and then doubling down",
+    "summary": "Despite buyer fatigue, agents predict \u201cno summer break,\u201d with frantic bidding wars and millions over asking continuing to be the norm.",
+    "link": "https://sfstandard.com/2026/05/31/home-buyers-double-down/",
+    "source": "SF Standard",
+    "county": "San Francisco",
+    "published": "2026-05-31T13:00:00+00:00"
+  },
+  {
+    "title": "The fossil fuel primary: Why Chevron and PG&E are spending millions to boost Becerra",
+    "summary": "Energy companies are shelling out to boost Democrat Xavier Becerra over progressive billionaire Tom Steyer before Tuesday\u2019s primary.",
+    "link": "https://sfstandard.com/2026/05/31/fossil-fuel-primary-chevron-pg-e-spending-millions-boost-becerra/",
+    "source": "SF Standard",
+    "county": "San Francisco",
+    "published": "2026-05-31T13:00:00+00:00"
+  },
+  {
+    "title": "Opinion: Lashinsky: Why I\u2019m throwing away my governor vote, and more last-minute election decisions",
+    "summary": "The Standard\u2019s political columnist returns (briefly) from book-leave to share his abbreviated voting guide.",
+    "link": "https://sfstandard.com/opinion/2026/05/31/lashinsky-governor-vote-election-takes/",
+    "source": "SF Standard",
+    "county": "San Francisco",
+    "published": "2026-05-31T13:00:00+00:00"
   },
   {
     "title": "Can\u2019t figure out how to vote? Neither can anyone. Luckily, we\u2019ve got you",
@@ -240,44 +280,20 @@
     "published": "2026-05-30T13:00:00+00:00"
   },
   {
-    "title": "They know it kills you. Gen Z is smoking cigarettes anyway",
-    "summary": "Celebrity influence, AI dread, and good old-fashioned youthful invincibility are fueling a cigarette revival among 20-somethings.",
-    "link": "https://sfstandard.com/2026/05/30/gen-z-cigarette-smoking-revival/",
-    "source": "SF Standard",
-    "county": "San Francisco",
-    "published": "2026-05-30T13:00:00+00:00"
+    "title": "Zendaya Delights Inner Richmond Shops With Afternoon Visit to Clement St.",
+    "summary": "On Wednesday, a giddy fan posted a TikTok after meeting Oakland native and current A-list actress Zendaya in the Inner Richmond on Clement Street. Accompanied by a small group of friends, Zendaya's itinerary reportedly included stops at Green Apple Books, Pasta Supply Co., and Foggy Notion.",
+    "link": "https://sfist.com/2026/05/30/zendaya-delights-inner-richmond-shops-with-afternoon-visit-to-clement-st/",
+    "source": "SFist",
+    "county": "Alameda",
+    "published": "2026-05-30T22:04:28+00:00"
   },
   {
-    "title": "A legendary Haight vintage shop is closing Sunday. On Saturday, everything is $9",
-    "summary": "After a nearly 50-year run, Held Over is abruptly closing its doors forever this weekend.",
-    "link": "https://sfstandard.com/2026/05/29/held-over-vintage-closing-sale-sf/",
-    "source": "SF Standard",
+    "title": "DHS Doubles Down on Threats to Ban International Arrivals at Airports in 'Radical Left' Sanctuary Cities",
+    "summary": "On Tuesday, DHS Secretary Markwayne Mullin appeared on Fox News to float the idea of blocking international arrivals at airports in so-called sanctuary cities like San Francisco by shutting down Customs and Border Protection checkpoints at airports like SFO.",
+    "link": "https://sfist.com/2026/05/30/dhs-threatens-ban-on-international-arrivals-at-airports-in-radical-left-sanctuary-cities/",
+    "source": "SFist",
     "county": "San Francisco",
-    "published": "2026-05-29T23:00:00+00:00"
-  },
-  {
-    "title": "\u2018Section 415\u2019 podcast: Warriors\u2019 offseason outlook and 10 years of \u2018Light Years\u2019",
-    "summary": "\u2018Light Years\u2019 podcast host Sam Esfandiari discusses how the Warriors may approach the 2026 NBA Draft",
-    "link": "https://sfstandard.com/section-415/2026/05/29/warriors-offseason-outlook-10-years-light-years-podcast/",
-    "source": "SF Standard",
-    "county": "San Francisco",
-    "published": "2026-05-29T22:15:00+00:00"
-  },
-  {
-    "title": "Valkyries swarm Caitlin Clark \u2014 and find a closing five",
-    "summary": "Veronica Burton led Golden State to one of the franchise\u2019s best wins in the franchise\u2019s short history",
-    "link": "https://sfstandard.com/2026/05/29/valkyries-swarm-caitlin-clark-find-closing-lineup-analysis-indiana-fever/",
-    "source": "SF Standard",
-    "county": "San Francisco",
-    "published": "2026-05-29T18:45:11+00:00"
-  },
-  {
-    "title": "Section 415: The brain-drained Giants",
-    "summary": "The players bear the brunt of responsibilty for a season already off the rails. But the coaching staff isn\u2019t guiltless either.",
-    "link": "https://sfstandard.com/2026/05/29/brain-drain-sf-giants-section-415-email-newsletter/",
-    "source": "SF Standard",
-    "county": "San Francisco",
-    "published": "2026-05-29T17:30:00+00:00"
+    "published": "2026-05-30T20:47:42+00:00"
   },
   {
     "title": "Saturday Links: Garbage Truck Strikes, Critically Injures SF Woman",
@@ -382,22 +398,6 @@
     "source": "SFist",
     "county": "Alameda",
     "published": "2026-05-29T00:38:40+00:00"
-  },
-  {
-    "title": "Los Gatos \u2018Party Mom\u2019 Receives 35 Years, 10 Months In Prison After Facing Victims",
-    "summary": "Shannon O'Connor, the maligned South Bay \u201cParty Mom,\u201d who was found guilty in March of hosting alcohol-fueled, teen sex parties in 2020 and 2021, was handed a sentence of 35 years and ten months in prison after being confronted by several victims in court.",
-    "link": "https://sfist.com/2026/05/28/los-gatos-party-mom-receives-35-years-10-months-following-statement-from-victims/",
-    "source": "SFist",
-    "county": "Santa Clara",
-    "published": "2026-05-28T22:24:36+00:00"
-  },
-  {
-    "title": "Portola Fest Drops 2026 Lineup and ROBYN IS HEADLINING",
-    "summary": "Yes, the great and magical Swedish dance diva Robyn will be the Saturday headliner at this year's Portola Festival in SF, and, appropriately, Swedish House Mafia will do headlining duty on Sunday.",
-    "link": "https://sfist.com/2026/05/28/portola-fest-drops-2026-lineup-with/",
-    "source": "SFist",
-    "county": "San Francisco",
-    "published": "2026-05-28T21:08:08+00:00"
   },
   {
     "title": "Can you actually buy a house with Anthropic stock? Probably not",
@@ -640,84 +640,108 @@
     "published": "2026-05-26T23:30:00+00:00"
   },
   {
-    "title": "San Jose may rethink voting method for special elections",
-    "summary": "San Jose is taking another look at ranked choice voting after the City Council rejected a proposal to adopt the idea in city elections four years ago. Amid concerns over the spiraling costs from special elections, councilmembers are considering a charter amendment that would give the city the option to use ranked choice voting in...\nThe post San Jose may rethink voting method for special elections appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/san-jose-may-rethink-voting-method-for-special-elections/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-30T15:30:41+00:00"
+    "title": "Heartbreak at Oakland Zoo as Baby Pudu and Adult Found Dead",
+    "summary": "Oakland Zoo says its newborn southern pudu died and an adult was found dead; vets suspect a bacterial or viral illness and are monitoring Riley and Gizmo.",
+    "link": "https://hoodline.com/2026/05/heartbreak-at-oakland-zoo-as-baby-pudu-and-adult-found-dead/",
+    "source": "Hoodline",
+    "county": "Alameda",
+    "published": "2026-05-30T23:05:39+00:00"
   },
   {
-    "title": "Burned East San Jose youth center could be rebuilt",
-    "summary": "An East San Jose youth center that burned to the ground last year has only made the community more determined to raise it from the ashes. The Alum Rock Union School District board of trustees on Thursday voted 4-1 to enter an exclusive negotiating agreement with SOMOS Mayfair and the School of Arts and Culture,...\nThe post Burned East San Jose youth center could be rebuilt appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/burned-east-san-jose-youth-center-could-be-rebuilt/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-29T22:30:06+00:00"
+    "title": "Chinatown's Out Museum Cuts the Ribbon on Queer Chinese History",
+    "summary": "Out Museum\u2014billed as the world's first Chinese-language queer museum\u2014held a ribbon-cutting in SF's Chinatown and launched exhibitions and programs through June 7.",
+    "link": "https://hoodline.com/2026/05/chinatown-s-out-museum-cuts-the-ribbon-on-queer-chinese-history/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T22:55:14+00:00"
   },
   {
-    "title": "Palo Alto seeks \u2018pro-housing\u2019 designation after resisting growth",
-    "summary": "Palo Alto is seeking to earn a pro-housing designation from the state of California this year, a label that would mark a major shift in the way the city has responded to growing regional housing needs amid significant resident pushback to new development. If the city\u2019s\u00a0application\u00a0succeeds, Palo Alto would join 74 other cities \u2014 including...\nThe post Palo Alto seeks &#8216;pro-housing&#8217; designation after resisting growth appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/palo-alto-seeks-pro-housing-designation-after-resisting-growth/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-29T19:30:41+00:00"
+    "title": "UC License Plates, Border Patrol Pings: Campus Data Trail Rattles Students",
+    "summary": "Public records show UC campuses shared ALPR data with U.S. Customs and Border Protection, raising questions under California\u2019s SB 34.",
+    "link": "https://hoodline.com/2026/05/uc-license-plates-border-patrol-pings-campus-data-trail-rattles-students/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T22:41:39+00:00"
   },
   {
-    "title": "Santa Clara County Fairgrounds shifts leadership structure",
-    "summary": "After two years of uncertainty, Santa Clara County Fairgrounds leaders are gearing up to change their own governing structure, ceding more control to the county over the 165-acre public property\u2019s future. The Fairgrounds Management Corporation board of directors on Wednesday voted unanimously to move forward with the county\u2019s recommendations to go from five volunteer board...\nThe post Santa Clara County Fairgrounds shifts leadership structure appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/santa-clara-county-fairgrounds-shifts-leadership-structure/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-29T15:30:14+00:00"
+    "title": "North Fair Oaks Soccer Coach Cops Plea In Teen Sex Scandal",
+    "summary": "A former Summit Everest coach pleaded no contest to sexual charges involving students; sentencing is set for Sept. 8 and he is free on $500,000 bail.",
+    "link": "https://hoodline.com/2026/05/north-fair-oaks-soccer-coach-cops-plea-in-teen-sex-scandal/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T22:29:15+00:00"
   },
   {
-    "title": "Silicon Valley lawmaker favors AI tech partnerships over regulations",
-    "summary": "With artificial intelligence threatening to upend workplaces throughout Silicon Valley, the area\u2019s representative in Congress has an idea he hopes will reduce anxieties about the revolutionary technology: nudge tech companies to take a central role in educating the workforce of the future. The tense relationship between recent college graduates and AI has been on display...\nThe post Silicon Valley lawmaker favors AI tech partnerships over regulations appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-28T23:00:51+00:00"
+    "title": "S.F. Pension Fund Drops $110 Million on Asia Loans, Bay Area Startups",
+    "summary": "San Francisco's pension deployed $110M to Asia\u2011focused real\u2011assets lending and Bay Area VC, expanding its private\u2011credit and venture programs.",
+    "link": "https://hoodline.com/2026/05/s-f-pension-fund-drops-110-million-on-asia-loans-bay-area-startups/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T22:02:23+00:00"
   },
   {
-    "title": "San Jose Taiko expresses Japanese American pride",
-    "summary": "San Jos\u00e9 Spotlight is highlighting community members who make a difference for AAPI Heritage Month. In a warehouse on The Alameda, San Jose Taiko members beat drums, play a bamboo flute, shake a beaded gourd, ring bells, switch positions and instruments and dance in practiced choreographed movements for hours. The group was practicing for performances...\nThe post San Jose Taiko expresses Japanese American pride appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/san-jose-taiko-expresses-japanese-american-pride/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-28T21:00:46+00:00"
+    "title": "Eric Trump\u2019s Robot Army: San Francisco Startup Snags $24 Million Pentagon Deal",
+    "summary": "Foundation Future Industries says it won $24M in Pentagon research contracts to test Phantom humanoid robots; lawmakers and ethicists are raising oversight concerns.",
+    "link": "https://hoodline.com/2026/05/eric-trump-s-robot-army-san-francisco-startup-snags-24-million-pentagon-deal/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T21:49:48+00:00"
   },
   {
-    "title": "Collins: Presentation is essential in today\u2019s housing market",
-    "summary": "The little things can make a big difference. This year&#8217;s housing market has been a mixed bag. Some weeks&#8217; sales are red hot, and others are ice cold. Even with all the challenges our market has had this year, it is remarkably resilient compared to other parts of the country. We are truly fortunate in...\nThe post Collins: Presentation is essential in today&#8217;s housing market appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/collins-presentation-is-essential-in-todays-housing-market/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-28T19:00:57+00:00"
+    "title": "Seattle Parents Sound Alarm as Teen Therapy Bots Go Off the Rails",
+    "summary": "Common Sense and Stanford testing found consumer AI therapy apps sometimes miss crises and can be harmful; parents and schools should favor human-backed tools.",
+    "link": "https://hoodline.com/2026/05/seattle-parents-sound-alarm-as-teen-therapy-bots-go-off-the-rails/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T21:26:04+00:00"
   },
   {
-    "title": "East San Jose neighborhood hit by stray golf balls",
-    "summary": "For residents living next to Rancho del Pueblo Golf Course in East San Jose, errant golf balls flying over the course\u2019s catch nets and into the surrounding neighborhoods is a fact of life. \u201cI kept the basket on my patio, so when the golf balls came through, I collected them,\u201d Donnette, a resident living in...\nThe post East San Jose neighborhood hit by stray golf balls appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/east-san-jose-neighborhood-hit-by-stray-golf-balls/",
-    "source": "San Jose Spotlight",
+    "title": "Palo Alto Cops Lose Big In BLM Mural Court Showdown",
+    "summary": "A state appeals court affirmed a judge's dismissal of a lawsuit by six officers who alleged a BLM mural outside Palo Alto City Hall created a hostile work environment.",
+    "link": "https://hoodline.com/2026/05/palo-alto-cops-lose-big-in-blm-mural-court-showdown/",
+    "source": "Hoodline",
     "county": "Santa Clara",
-    "published": "2026-05-28T15:30:21+00:00"
+    "published": "2026-05-30T20:45:51+00:00"
   },
   {
-    "title": "Santa Clara County church commits funds to immigration defense",
-    "summary": "Faith leaders across Santa Clara County are committing money to immigration legal defense services as advocates warn families continue to face fear and uncertainty around detention and deportation. More than 120 donors across the Presbytery of San Jose are giving $15,000 to local immigration advocacy groups to support legal aid services for people facing deportation....\nThe post Santa Clara County church commits funds to immigration defense appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/santa-clara-county-church-commits-funds-to-immigration-defense/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-27T23:00:31+00:00"
+    "title": "Raleigh Doctor\u2019s Livingood Daily Brand Snagged In California Toxin Fight",
+    "summary": "Livingood Daily agreed to a $50,000 Prop 65 settlement after labs found lead and PFOA in multiple supplements; warnings and testing will follow.",
+    "link": "https://hoodline.com/2026/05/raleigh-doctor-s-livingood-daily-brand-snagged-in-california-toxin-fight/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T20:34:40+00:00"
   },
   {
-    "title": "North Sunnyvale residents fight development to prevent food desert",
-    "summary": "A grassroots advocacy group in North Sunnyvale is working to stop the area from turning into a food desert. The threat of losing the area&#8217;s few remaining grocery stores to housing redevelopments at Fair Oaks Plaza and Lakewood Shopping Center has fueled residents to push city leaders and developers to find a way to preserve...\nThe post North Sunnyvale residents fight development to prevent food desert appeared first on San Jos\u00e9 Spotlight.",
-    "link": "https://sanjosespotlight.com/north-sunnyvale-residents-fight-development-to-prevent-food-desert/",
-    "source": "San Jose Spotlight",
-    "county": "Santa Clara",
-    "published": "2026-05-27T19:00:33+00:00"
+    "title": "SF Trump-Backing VC Lands Pentagon Tech Gig, Sparks Uproar",
+    "summary": "Sequoia partner Shaun Maguire joined the Pentagon's STIB, drawing criticism over anti\u2011Muslim remarks and a $500k donation to America PAC.",
+    "link": "https://hoodline.com/2026/05/sf-trump-backing-vc-lands-pentagon-tech-gig-sparks-uproar/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T20:24:17+00:00"
+  },
+  {
+    "title": "Rabid Bat Snagged Near Palo Verde Common Puts South Fremont On Alert",
+    "summary": "A bat collected May 26 near Palo Verde Common in Fremont tested positive for rabies; Alameda County Vector Control is investigating and no exposures are reported.",
+    "link": "https://hoodline.com/2026/05/rabid-bat-snagged-near-palo-verde-common-puts-south-fremont-on-alert/",
+    "source": "Hoodline",
+    "county": "Alameda",
+    "published": "2026-05-30T17:35:14+00:00"
+  },
+  {
+    "title": "Blind Bay Area Pastor Says Rideshare Drivers Keep Snubbing His Guide Dog",
+    "summary": "Pastor Albert Macklin says rideshare drivers canceled rides after seeing his guide dog Winter; advocates point to ADA protections.",
+    "link": "https://hoodline.com/2026/05/blind-bay-area-pastor-says-rideshare-drivers-keep-snubbing-his-guide-dog/",
+    "source": "Hoodline",
+    "county": "San Francisco",
+    "published": "2026-05-30T17:22:59+00:00"
+  },
+  {
+    "title": "San Bruno Shopping Strip Scores Low-Key Opening Of Brazilian Bakery Padoca",
+    "summary": "Padoca opened last Saturday at 445 San Mateo Ave in San Bruno offering p\u00e3o de queijo, cakes and espresso; open Wed\u2013Fri and weekends.",
+    "link": "https://hoodline.com/2026/05/san-bruno-shopping-strip-scores-low-key-opening-of-brazilian-bakery-padoca/",
+    "source": "Hoodline",
+    "county": "San Mateo",
+    "published": "2026-05-30T17:10:14+00:00"
   },
   {
     "title": "Richmond voters cast their ballots early: \u2018I\u2019m finally able to have some sort of power\u2019",
@@ -856,14 +880,6 @@
     "published": "2026-05-21T18:29:38+00:00"
   },
   {
-    "title": "Richmond green-lights improvements to one street. Some say it\u2019s the wrong one",
-    "summary": "Richmond green-lights improvements to one street. Some say it&#8217;s the wrong one\n\nIn a 4-3 vote, the city council allocated $2 million for Richmond Parkway work, but some council members say residential streets with known safety hazards are being left out.",
-    "link": "https://richmondside.org/2026/05/20/richmond-parkway-getting-2-million-in-repairs/",
-    "source": "Richmondside",
-    "county": "Contra Costa",
-    "published": "2026-05-20T23:00:07+00:00"
-  },
-  {
     "title": "California primary election: What S.F. Latino voters need to know",
     "summary": "From the governor\u2019s race to local propositions, our bilingual election guide breaks down the issues, candidates and decisions shaping San Francisco\u2019s Latino communities.\nThe post California primary election: What S.F. Latino voters need to know appeared first on El Tecolote.",
     "link": "https://eltecolote.org/content/en/california-primary-election-guide-latinos/",
@@ -886,6 +902,86 @@
     "source": "El Tecolote",
     "county": "San Francisco",
     "published": "2026-05-22T20:12:09+00:00"
+  },
+  {
+    "title": "San Jose may rethink voting method for special elections",
+    "summary": "San Jose is taking another look at ranked choice voting after the City Council rejected a proposal to adopt the idea in city elections four years ago. Amid concerns over the spiraling costs from special elections, councilmembers are considering a charter amendment that would give the city the option to use ranked choice voting in...\nThe post San Jose may rethink voting method for special elections appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/san-jose-may-rethink-voting-method-for-special-elections/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-30T15:30:41+00:00"
+  },
+  {
+    "title": "Burned East San Jose youth center could be rebuilt",
+    "summary": "An East San Jose youth center that burned to the ground last year has only made the community more determined to raise it from the ashes. The Alum Rock Union School District board of trustees on Thursday voted 4-1 to enter an exclusive negotiating agreement with SOMOS Mayfair and the School of Arts and Culture,...\nThe post Burned East San Jose youth center could be rebuilt appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/burned-east-san-jose-youth-center-could-be-rebuilt/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-29T22:30:06+00:00"
+  },
+  {
+    "title": "Palo Alto seeks \u2018pro-housing\u2019 designation after resisting growth",
+    "summary": "Palo Alto is seeking to earn a pro-housing designation from the state of California this year, a label that would mark a major shift in the way the city has responded to growing regional housing needs amid significant resident pushback to new development. If the city\u2019s\u00a0application\u00a0succeeds, Palo Alto would join 74 other cities \u2014 including...\nThe post Palo Alto seeks &#8216;pro-housing&#8217; designation after resisting growth appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/palo-alto-seeks-pro-housing-designation-after-resisting-growth/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-29T19:30:41+00:00"
+  },
+  {
+    "title": "Santa Clara County Fairgrounds shifts leadership structure",
+    "summary": "After two years of uncertainty, Santa Clara County Fairgrounds leaders are gearing up to change their own governing structure, ceding more control to the county over the 165-acre public property\u2019s future. The Fairgrounds Management Corporation board of directors on Wednesday voted unanimously to move forward with the county\u2019s recommendations to go from five volunteer board...\nThe post Santa Clara County Fairgrounds shifts leadership structure appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/santa-clara-county-fairgrounds-shifts-leadership-structure/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-29T15:30:14+00:00"
+  },
+  {
+    "title": "Silicon Valley lawmaker favors AI tech partnerships over regulations",
+    "summary": "With artificial intelligence threatening to upend workplaces throughout Silicon Valley, the area\u2019s representative in Congress has an idea he hopes will reduce anxieties about the revolutionary technology: nudge tech companies to take a central role in educating the workforce of the future. The tense relationship between recent college graduates and AI has been on display...\nThe post Silicon Valley lawmaker favors AI tech partnerships over regulations appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-28T23:00:51+00:00"
+  },
+  {
+    "title": "San Jose Taiko expresses Japanese American pride",
+    "summary": "San Jos\u00e9 Spotlight is highlighting community members who make a difference for AAPI Heritage Month. In a warehouse on The Alameda, San Jose Taiko members beat drums, play a bamboo flute, shake a beaded gourd, ring bells, switch positions and instruments and dance in practiced choreographed movements for hours. The group was practicing for performances...\nThe post San Jose Taiko expresses Japanese American pride appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/san-jose-taiko-expresses-japanese-american-pride/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-28T21:00:46+00:00"
+  },
+  {
+    "title": "Collins: Presentation is essential in today\u2019s housing market",
+    "summary": "The little things can make a big difference. This year&#8217;s housing market has been a mixed bag. Some weeks&#8217; sales are red hot, and others are ice cold. Even with all the challenges our market has had this year, it is remarkably resilient compared to other parts of the country. We are truly fortunate in...\nThe post Collins: Presentation is essential in today&#8217;s housing market appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/collins-presentation-is-essential-in-todays-housing-market/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-28T19:00:57+00:00"
+  },
+  {
+    "title": "East San Jose neighborhood hit by stray golf balls",
+    "summary": "For residents living next to Rancho del Pueblo Golf Course in East San Jose, errant golf balls flying over the course\u2019s catch nets and into the surrounding neighborhoods is a fact of life. \u201cI kept the basket on my patio, so when the golf balls came through, I collected them,\u201d Donnette, a resident living in...\nThe post East San Jose neighborhood hit by stray golf balls appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/east-san-jose-neighborhood-hit-by-stray-golf-balls/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-28T15:30:21+00:00"
+  },
+  {
+    "title": "Santa Clara County church commits funds to immigration defense",
+    "summary": "Faith leaders across Santa Clara County are committing money to immigration legal defense services as advocates warn families continue to face fear and uncertainty around detention and deportation. More than 120 donors across the Presbytery of San Jose are giving $15,000 to local immigration advocacy groups to support legal aid services for people facing deportation....\nThe post Santa Clara County church commits funds to immigration defense appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/santa-clara-county-church-commits-funds-to-immigration-defense/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-27T23:00:31+00:00"
+  },
+  {
+    "title": "North Sunnyvale residents fight development to prevent food desert",
+    "summary": "A grassroots advocacy group in North Sunnyvale is working to stop the area from turning into a food desert. The threat of losing the area&#8217;s few remaining grocery stores to housing redevelopments at Fair Oaks Plaza and Lakewood Shopping Center has fueled residents to push city leaders and developers to find a way to preserve...\nThe post North Sunnyvale residents fight development to prevent food desert appeared first on San Jos\u00e9 Spotlight.",
+    "link": "https://sanjosespotlight.com/north-sunnyvale-residents-fight-development-to-prevent-food-desert/",
+    "source": "San Jose Spotlight",
+    "county": "Santa Clara",
+    "published": "2026-05-27T19:00:33+00:00"
   },
   {
     "title": "Sacred Heart Prep Class of 2026 takes next steps across the country",
@@ -968,6 +1064,70 @@
     "published": "2026-05-29T18:55:59+00:00"
   },
   {
+    "title": "CLAM meets target with Cottages deal",
+    "summary": "For the last year and a half, the Community Land Trust Association of West Marin, a tiny nonprofit housing organization, has confronted an enormous challenge: finding homes for 150 displaced ranch residents in a market where the scarcity of affordable housing is dire. CLAM recently closed a deal on the final tranche of housing needed [&#8230;]\nThe post CLAM meets target with Cottages deal appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/news/clam-meets-target-with-cottages-deal/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:30:25+00:00"
+  },
+  {
+    "title": "Green Bridge project ramps up",
+    "summary": "The Green Bridge replacement project will shift into a higher gear next week, even as its completion date has been pushed back another year.\u00a0 PG&#38;E is dropping seven utility poles into place and installing new lines with a helicopter, in preparation for widening a section of road this summer.\u00a0 While the old poles are removed [&#8230;]\nThe post Green Bridge project ramps up appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/news/green-bridge-project-ramps-up/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:30:02+00:00"
+  },
+  {
+    "title": "Ginny Linder, who dressed dazzlingly",
+    "summary": "Virginia Linder, a fiber artist who wore a kaleidoscopic wardrobe of handmade, otherworldly garments, died on May 10 at her home in Inverness Park. She was 86.\u00a0 Ms. Linder was best known for her clamorous, irreverent ensembles, most of them of her own making: long layered skirts, petticoats and capes, crocheted collars and belts, leather [&#8230;]\nThe post Ginny Linder, who dressed dazzlingly appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/news/ginny-linder-who-dressed-dazzlingly/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:24:51+00:00"
+  },
+  {
+    "title": "Former park dairies garner startup funds",
+    "summary": "Three dairies that departed Point Reyes this year will share nearly $950,000 in federal funds secured by Representative Jared Huffman to help them restart elsewhere in the North Bay. The money comes from a $1 million appropriation Mr. Huffman called the San Francisco North Bay Dairy Community Transition Assistance project. After a 5 percent administrative [&#8230;]\nThe post Former park dairies garner startup funds appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/news/former-park-dairies-garner-startup-funds/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:22:35+00:00"
+  },
+  {
+    "title": "New lunch counter opens for summer in Stinson",
+    "summary": "Salt Bloom Kitchen\u2014a new summertime Stinson Beach lunch spot named for the salt crystals formed by seawater evaporated in the sun\u2014is the answer to what locals have been craving. An extension of Rachel DiPaolo\u2019s Debonair Events, the pop-up opened in mid-May to bring the catering company\u2019s locally sourced offerings to a bigger slice of the [&#8230;]\nThe post New lunch counter opens for summer in Stinson appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/news/new-lunch-counter-opens-for-summer-in-stinson/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:22:13+00:00"
+  },
+  {
+    "title": "Marin County appoints first climate officer",
+    "summary": "The county has hired its first chief climate officer, who will step into a role of great interest to coastal communities facing the threat of sea-level rise. In her new post, Nadia Seetaram will head up Marin\u2019s Climate and Sustainability Division, established last year as part of County Executive Derek Johnson\u2019s government reorganization. In her [&#8230;]\nThe post Marin County appoints first climate officer appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/news/marin-county-appoints-first-climate-officer/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:21:47+00:00"
+  },
+  {
+    "title": "Nature Notebook, May 28, 2026",
+    "summary": "A second full moon of the month\u2014a blue moon\u2014lights up the sky on May 31. The phrase \u201conce in a blue moon\u201d refers to the rarity of two full moons in one month. It continues the pattern of extra-low tides in the early mornings. Another recent rare occurrence were two brown pelicans landing on park [&#8230;]\nThe post Nature Notebook, May 28, 2026 appeared first on Point Reyes Light.",
+    "link": "https://www.ptreyeslight.com/features/nature-notebook-may-28-2026/",
+    "source": "Point Reyes Light",
+    "county": "Marin",
+    "published": "2026-05-27T19:21:05+00:00"
+  },
+  {
+    "title": "Opinion: A closer look at Redwood City\u2019s proposed rent control law",
+    "summary": "BY DAVE PRICEDaily Post Editor The rent control measure going to Redwood City voters in November will drastically reduce future rent increases on certain apartments, but it has a loophole. [...]",
+    "link": "https://padailypost.com/2026/05/30/a-closer-look-at-redwood-citys-proposed-rent-control-law/",
+    "source": "Palo Alto Daily Post",
+    "county": "San Mateo",
+    "published": "2026-05-31T06:43:27+00:00"
+  },
+  {
     "title": "Appeals court hands city a win in dispute over Black Lives Matter mural",
     "summary": "The Post broke this story on Friday morning, May 29. Since then, one of our competitors has re-written it and presented it as their own. Here&#8217;s the original. To get [...]",
     "link": "https://padailypost.com/2026/05/29/appeals-court-hands-city-a-win-in-dispute-over-black-lives-matter-mural/",
@@ -990,14 +1150,6 @@
     "source": "Palo Alto Daily Post",
     "county": "Santa Clara",
     "published": "2026-05-29T21:17:00+00:00"
-  },
-  {
-    "title": "Becerra, Hilton lead in race for governor",
-    "summary": "By CalMatters Democrat Xavier Becerra and Republican Steve Hilton are holding on to the lead in the latest poll ahead of the California governor election. That\u2019s according to the\u00a0Public Policy [...]",
-    "link": "https://padailypost.com/2026/05/28/becerra-hilton-lead-in-california-governor-race/",
-    "source": "Palo Alto Daily Post",
-    "county": "Santa Clara",
-    "published": "2026-05-29T00:02:13+00:00"
   },
   {
     "title": "1015 owner, SF nightlife pioneer Ira Sandler has passed away",
@@ -1080,228 +1232,252 @@
     "published": "2026-05-27T00:40:28+00:00"
   },
   {
-    "title": "Letter to the editor: Ryan Coonerty helped bring the Warriors to Santa Cruz \u2013 he\u2019s the best pick for mayor",
-    "summary": "In a letter to the editor, a Santa Cruz resident lauds Ryan Coonerty for his role in bringing minor league basketball to the city and cites Coonerty&#8217;s leadership and experience in backing him in the race for mayor.",
-    "link": "https://lookout.co/letter-to-the-editor-ryan-coonerty-helped-bring-the-warriors-to-santa-cruz-hes-the-best-pick-for-mayor/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-30T09:00:00+00:00"
-  },
-  {
-    "title": "County parks proposes pay-for-parking pilot program",
-    "summary": "The Santa Cruz County Parks department is proposing a pay-for-parking pilot program at high-traffic area parks.\nThe post County parks proposes pay-for-parking pilot program appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/county-parks-proposes-pay-for-parking-pilot-program/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-30T02:17:02+00:00"
-  },
-  {
-    "title": "Citing budgetary woes, Housing Matters moves to decrease capacity at Rebele Family Shelter and Recuperative Care Center",
-    "summary": "Homelessness nonprofit Housing Matters announced Friday that it will reduce capacity at the Rebele Family Shelter on Coral Street and its off-site recuperative care center at the former Salt Air Lodge on Leibrandt Avenue, as both are \u201coperating with significant budgetary deficits.\u201d CEO Phil Kramer said the move is likely to take place over the next month or so, but none of the current occupants will be forced out early.",
-    "link": "https://lookout.co/citing-budgetary-woes-housing-matters-moves-to-decrease-capacity-at-rebele-family-shelter-and-recuperative-care-center/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-30T00:55:21+00:00"
-  },
-  {
-    "title": "Watsonville Community Hospital will receive $10.6 million state grant to help weather financial challenges",
-    "summary": "Watsonville Community Hospital is receiving a $10.6 million state grant that will provide temporary financial relief. Watsonville is one of four California hospitals receiving additional state funding.\nThe post Watsonville Community Hospital will receive $10.6 million state grant to help weather financial challenges appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/watsonville-community-hospital-will-receive-10-6-million-state-grant-to-help-weather-financial-challenges/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T20:50:41+00:00"
-  },
-  {
-    "title": "Ami Chen Mills: I reject flattened portrayal of Santa Cruz mayoral campaign",
-    "summary": "In a letter to the editor, Santa Cruz mayoral candidate Ami Chen Mills takes issue with the characterization of the race laid out by the author of a previous Lookout opinion piece.",
-    "link": "https://lookout.co/ami-chen-mills-i-reject-flattened-portrayal-of-santa-cruz-mayoral-campaign/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T20:20:16+00:00"
-  },
-  {
-    "title": "El Hospital Comunitario de Watsonville recibir\u00e1 una subvenci\u00f3n estatal de 10.6 millones de d\u00f3lares para afrontar desaf\u00edos financieros",
-    "summary": "El Hospital Comunitario de Watsonville recibir\u00e1 una subvenci\u00f3n estatal de 10,6 millones de d\u00f3lares que le brindar\u00e1 un alivio financiero temporal. Watsonville es uno de los cuatro hospitales de California que recibir\u00e1n fondos estatales adicionales.\nThe post El Hospital Comunitario de Watsonville recibir\u00e1 una subvenci\u00f3n estatal de 10.6 millones de d\u00f3lares para afrontar desaf\u00edos financieros appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/el-hospital-comunitario-de-watsonville-recibira-una-subvencion-estatal-de-10-6-millones-de-dolares-para-afrontar-desafios-financieros/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T19:47:13+00:00"
-  },
-  {
-    "title": "10 Hot Jobs in Santa Cruz County: Week of May 29",
-    "summary": "Looking for a new job in Santa Cruz County? Explore the top 10 exciting job opportunities across industries like education, healthcare, and more. Your next career move starts here!\nThe post 10 Hot Jobs in Santa Cruz County: Week of May 29 appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/10-hot-jobs-in-santa-cruz-county-week-of-may-29/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T18:00:00+00:00"
-  },
-  {
-    "title": "Help those in need \u2013 become an IHSS caregiver today",
-    "summary": "For many, safety doesn\u2019t come from a system \u2014 it comes from a person who shows up. Meet Erika. Erika is an In-Home Support Services (IHSS) caregiver. IHSS caregivers are independent contractors who care for older adults and people living with disabilities. When everyday tasks become a challenge, IHSS provides support so seniors and adults [&#8230;]\nThe post Help those in need \u2013 become an IHSS caregiver today appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/help-those-in-need-become-an-ihss-caregiver-today/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T16:01:08+00:00"
-  },
-  {
-    "title": "Your guide to the 2026 Santa Cruz County primary election",
-    "summary": "Get all the information you need as a Santa Cruz County voter on candidates and important dates as the June 2 primary election draws closer.\nThe post Your guide to the 2026 Santa Cruz County primary election appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/your-guide-to-the-2026-santa-cruz-county-primary-election/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T13:52:50+00:00"
-  },
-  {
-    "title": "Friday evening traffic: Hit and run with injuries at Soquel Dr & Porter St.",
-    "summary": "Friday traffic trouble spots in and around Santa Cruz County.\nThe post Friday evening traffic: Hit and run with injuries at Soquel Dr &#038; Porter St. appeared first on Lookout Santa Cruz.",
-    "link": "https://lookout.co/friday-morning-traffic-flooding-on-highway-1-lane-closures-on-highways-9-17/story",
-    "source": "Lookout Santa Cruz",
-    "county": "Santa Cruz",
-    "published": "2026-05-29T13:24:17+00:00"
-  },
-  {
-    "title": "Rabid Bat Snagged Near Palo Verde Common Puts South Fremont On Alert",
-    "summary": "A bat collected May 26 near Palo Verde Common in Fremont tested positive for rabies; Alameda County Vector Control is investigating and no exposures are reported.",
-    "link": "https://hoodline.com/2026/05/rabid-bat-snagged-near-palo-verde-common-puts-south-fremont-on-alert/",
-    "source": "Hoodline",
-    "county": "Alameda",
-    "published": "2026-05-30T17:35:14+00:00"
-  },
-  {
-    "title": "Blind Bay Area Pastor Says Rideshare Drivers Keep Snubbing His Guide Dog",
-    "summary": "Pastor Albert Macklin says rideshare drivers canceled rides after seeing his guide dog Winter; advocates point to ADA protections.",
-    "link": "https://hoodline.com/2026/05/blind-bay-area-pastor-says-rideshare-drivers-keep-snubbing-his-guide-dog/",
-    "source": "Hoodline",
+    "title": "Jane Warner Plaza Refresh",
+    "summary": "Jane Warner Plaza\u2014located at the intersection of Castro, 17th, and Market streets in the Castro District of San Francisco\u2014has a new look. As a reminder, here&#8217;s what the plaza looked like a few years ago: The plaza was named after a beloved San Francisco Patrol Special Police Officer Jane Ellen Warner (1956\u20132010). For two decades, [&#8230;]\nThe post Jane Warner Plaza Refresh appeared first on San Francisco Bay Times.",
+    "link": "https://sfbaytimes.com/jane-warner-plaza-refresh/?utm_source=rss&utm_medium=rss&utm_campaign=jane-warner-plaza-refresh",
+    "source": "SF Bay Times",
     "county": "San Francisco",
-    "published": "2026-05-30T17:22:59+00:00"
+    "published": "2026-05-24T19:59:07+00:00"
   },
   {
-    "title": "San Bruno Shopping Strip Scores Low-Key Opening Of Brazilian Bakery Padoca",
-    "summary": "Padoca opened last Saturday at 445 San Mateo Ave in San Bruno offering p\u00e3o de queijo, cakes and espresso; open Wed\u2013Fri and weekends.",
-    "link": "https://hoodline.com/2026/05/san-bruno-shopping-strip-scores-low-key-opening-of-brazilian-bakery-padoca/",
-    "source": "Hoodline",
+    "title": "Ann Rostow: Okay Boomer",
+    "summary": "By Ann Rostow\u2014 Okay Boomer Former Senator Barney Frank, who died of congestive heart failure on May 19, 2026, gave an interview to The New York Times shortly before his passing in which he decried the Democratic Party for insisting on a suicidal political correctness. Unlike the fight for trans rights, Frank said the gay [&#8230;]\nThe post Ann Rostow: Okay Boomer appeared first on San Francisco Bay Times.",
+    "link": "https://sfbaytimes.com/ann-rostow-okay-boomer/?utm_source=rss&utm_medium=rss&utm_campaign=ann-rostow-okay-boomer",
+    "source": "SF Bay Times",
+    "county": "San Francisco",
+    "published": "2026-05-22T05:26:30+00:00"
+  },
+  {
+    "title": "Honorees of the 2026 Celebrating Bay Area AAPI LGBTQ+ Women Leaders & Allies",
+    "summary": "These are the 16 honorees of the 2026 Celebrating Bay Area AAPI LGBTQ+ Women Leaders &#38; Allies, which will be presented by the San Francisco Bay Times at the SF LGBT Center on May 28, 2026. Miki Adachi \u201cI am the granddaughter of Japanese immigrants, who started and ran a very successful florist and nursery [&#8230;]\nThe post Honorees of the 2026 Celebrating Bay Area AAPI LGBTQ+ Women Leaders &#038; Allies appeared first on San Francisco Bay Times.",
+    "link": "https://sfbaytimes.com/honorees-of-the-2026-celebrating-bay-area-aapi-lgbtq-women-leaders-allies/?utm_source=rss&utm_medium=rss&utm_campaign=honorees-of-the-2026-celebrating-bay-area-aapi-lgbtq-women-leaders-allies",
+    "source": "SF Bay Times",
+    "county": "San Francisco",
+    "published": "2026-05-22T05:24:21+00:00"
+  },
+  {
+    "title": "Now or Never",
+    "summary": "By Joanie Juster\u2014 I was raised with the firm conviction that voting is every American\u2019s duty and privilege. No matter what, if there\u2019s an election, you vote, because every vote matters. And I still believe that wholeheartedly, even though I have lived through entirely too many elections when the choice of candidates seems to be [&#8230;]\nThe post Now or Never appeared first on San Francisco Bay Times.",
+    "link": "https://sfbaytimes.com/now-or-never/?utm_source=rss&utm_medium=rss&utm_campaign=now-or-never",
+    "source": "SF Bay Times",
+    "county": "San Francisco",
+    "published": "2026-05-21T16:27:07+00:00"
+  },
+  {
+    "title": "Simple Acts of Resistance",
+    "summary": "By Stuart Gaffney and John Lewis\u2014 Elise and Otto Hampel were an unremarkable working-class couple living in Berlin in 1940. With little formal education, Elise was employed as a domestic, and Otto worked in a factory. Otto had fought for Germany in World War I, and Elise was now a patriotic member of the National [&#8230;]\nThe post Simple Acts of Resistance appeared first on San Francisco Bay Times.",
+    "link": "https://sfbaytimes.com/simple-acts-of-resistance/?utm_source=rss&utm_medium=rss&utm_campaign=simple-acts-of-resistance",
+    "source": "SF Bay Times",
+    "county": "San Francisco",
+    "published": "2026-05-21T16:18:49+00:00"
+  },
+  {
+    "title": "Rescuers say a blast at a building in Myanmar said to be storing mining explosives has killed more than 45 people",
+    "summary": "Rescuers say a blast at a building in Myanmar said to be storing mining explosives has killed more than 45 people.",
+    "link": "https://www.smdailyjournal.com/news/world/rescuers-say-a-blast-at-a-building-in-myanmar-said-to-be-storing-mining-explosives/article_21e3112e-8142-5826-b77a-b8e93b9914de.html",
+    "source": "SM Daily Journal",
     "county": "San Mateo",
-    "published": "2026-05-30T17:10:14+00:00"
+    "published": "2026-05-31T14:09:34+00:00"
   },
   {
-    "title": "Haight Street Vintage Legend Held Over Shuts Down For Good Saturday",
-    "summary": "Held Over, the Haight's last Retro City Fashion shop, will close this Saturday. Owner Cynthia Anderson cites slumping sales and rising rent.",
-    "link": "https://hoodline.com/2026/05/haight-street-vintage-legend-held-over-shuts-down-for-good-saturday/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T16:56:17+00:00"
+    "title": "Carter Hart\u2019s highly scrutinzed comeback has arrived at the Stanley Cup Final with Vegas",
+    "summary": "LAS VEGAS (AP) \u2014 No strangers to controversy, the Golden Knights know the spotlight is going to shine even brighter now that they are back in the Stanley Cup Final with a particular glare on goaltender Carter Hart.",
+    "link": "https://www.smdailyjournal.com/sports/carter-hart-s-highly-scrutinzed-comeback-has-arrived-at-the-stanley-cup-final-with-vegas/article_ef09489a-307f-5aa5-8f3a-8843cb608ac9.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T14:10:06+00:00"
   },
   {
-    "title": "Feds Roll Out $1.625 Billion Lifeline for Fruit and Veggie Growers",
-    "summary": "USDA finalized ASCF payment rates and opens enrollment June 1. $1.625B in one\u2011time aid, tiered per\u2011acre rates and eligibility details for specialty crop growers.",
-    "link": "https://hoodline.com/2026/05/feds-roll-out-1-625-billion-lifeline-for-fruit-and-veggie-growers/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T16:43:23+00:00"
+    "title": "Experimental pill promises new hope for deadly pancreatic cancer",
+    "summary": "New research shows a novel pill is helping people with advanced pancreatic cancer live longer. It's not a cure, as the drug's effects eventually waned. But it's a very different kind of treatment than the chemotherapy that is a mainstay\u2026",
+    "link": "https://www.smdailyjournal.com/business/experimental-pill-promises-new-hope-for-deadly-pancreatic-cancer/article_62ed604b-ee8b-5342-b2d5-a2ef90427dbc.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T14:07:45+00:00"
   },
   {
-    "title": "Foggy Chill, Sunny Thrill: San Francisco Braces for Breezy Saturday",
-    "summary": "Cool marine layer Saturday; highs near 67\u00b0F, gusts to ~18 mph, and Small Craft Advisories for parts of Monterey Bay this evening.",
-    "link": "https://hoodline.com/2026/05/foggy-chill-sunny-thrill-san-francisco-braces-for-breezy-saturday/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T15:20:10+00:00"
+    "title": "Spain's Lamine Yamal says he was scared of missing the World Cup after he injured his hamstring",
+    "summary": "MADRID (AP) \u2014 Lamine Yamal was scared of missing the World Cup after injuring his hamstring and prayed that he could recover in time.",
+    "link": "https://www.smdailyjournal.com/sports/spains-lamine-yamal-says-he-was-scared-of-missing-the-world-cup-after-he-injured/article_edf4046a-6797-5599-b039-f6d11043e3a4.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T13:40:55+00:00"
   },
   {
-    "title": "Sneaker Wave Rips Fisherman Off Baker Beach, Leaves Him In Critical Condition",
-    "summary": "A fisherman was rushed to the hospital after a sneaker wave swept him off Baker Beach; officials warn of dangerous sneaker waves and strong rip currents.",
-    "link": "https://hoodline.com/2026/05/sneaker-wave-rips-fisherman-off-baker-beach-leaves-him-in-critical-condition/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T15:08:18+00:00"
+    "title": "Colombia's presidential election pits outgoing leader's ally against pro-Trump candidates",
+    "summary": "Colombians are casting ballots in the first round of the South American nation\u2019s presidential elections. Sunday's vote comes 10 years after Colombia signed a historic peace pact with guerrillas of the Revolutionary Armed Forces of Colombia, or FARC, a deal\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/colombias-presidential-election-pits-outgoing-leaders-ally-against-pro-trump-candidates/article_a88105e6-1498-561d-a70f-05691ffbc233.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T13:30:45+00:00"
   },
   {
-    "title": "105-Year-Old Chinatown Banquet Hall the City Spent $1.9M to Save Just Got Shut Down by Rats",
-    "summary": "Far East Cafe, the 105-year-old Chinatown banquet hall SF fought to save during COVID, was shut by health inspectors over an active rodent infestation.",
-    "link": "https://hoodline.com/2026/05/105-year-old-chinatown-banquet-hall-the-city-spent-1-9m-to-save-just-got-shut-down-by-rats/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T03:49:43+00:00"
+    "title": "Athletics get wrong end of an apparent ABS mistake against the Yankees",
+    "summary": "The ABS system appeared to hit a rare glitch during the Athletics game against the New York Yankees. A pitch to the A\u2019s Tyler Soderstrom in the fourth inning was confirmed as a strike even though the replay showed it\u2026",
+    "link": "https://www.smdailyjournal.com/sports/athletics-get-wrong-end-of-an-apparent-abs-mistake-against-the-yankees/article_92143542-a322-54c8-96c9-c89a55376f60.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T13:24:47+00:00"
   },
   {
-    "title": "California Pols Hit Pause on Game Shutdowns, Send 'Protect Our Games' Bill to Senate",
-    "summary": "California's AB 1921 would require offline-capable versions, patches, or refunds when online games shut down. The Assembly passed it and sent it to the Senate.",
-    "link": "https://hoodline.com/2026/05/california-pols-hit-pause-on-game-shutdowns-send-protect-our-games-bill-to-senate/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T03:14:16+00:00"
+    "title": "US strike on an alleged drug boat kills 3 in the eastern Pacific Ocean in fourth attack this week",
+    "summary": "The U.S. military said it carried out another strike Saturday on a boat accused of smuggling drugs in the eastern Pacific Ocean, killing three men in the fourth attack this week and putting the total death toll at 205. U.S.\u2026",
+    "link": "https://www.smdailyjournal.com/news/national/us-strike-on-an-alleged-drug-boat-kills-3-in-the-eastern-pacific-ocean-in/article_81f0324a-5f73-53c4-b3e2-a87ee33548a5.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T13:08:28+00:00"
   },
   {
-    "title": "Sacramento Pushes To Cut Alleged Rapists Out Of Custody Fights",
-    "summary": "SB 1364 would let judges bar custody when a child was conceived in an alleged sexual assault; it passed the Senate and now heads to the Assembly.",
-    "link": "https://hoodline.com/2026/05/sacramento-pushes-to-cut-alleged-rapists-out-of-custody-fights/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T02:51:54+00:00"
+    "title": "As the Pentagon pushes for battlefield AI, some military leaders urge caution",
+    "summary": "The Trump administration is pushing to use artificial intelligence in the U.S. military even as it faces calls for caution from some companies and military leaders. Adm. Frank Bradley of U.S. Special Operations Command emphasized in recent remarks at a\u2026",
+    "link": "https://www.smdailyjournal.com/business/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/article_f9dfb3c7-85ca-599a-9d73-5a53d9488edb.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T12:56:37+00:00"
   },
   {
-    "title": "Vacaville Dad Busted After Letting Unlicensed Son Smash Parked Cars",
-    "summary": "Vacaville police arrested a man after his underage son hit four parked cars; a transcript shows a 0.31% BAC and the father faces DUI, hit\u2011and\u2011run and child endangerment.",
-    "link": "https://hoodline.com/2026/05/vacaville-dad-busted-after-letting-unlicensed-son-smash-parked-cars/",
-    "source": "Hoodline",
-    "county": "Solano",
-    "published": "2026-05-30T02:14:10+00:00"
+    "title": "WHO chief hails 5 Ebola recoveries as a new treatment center opens in eastern Congo",
+    "summary": "The World Health Organization reports that five patients have recovered from a rare type of Ebola in eastern Congo. WHO Director-General Tedros Adhanom Ghebreyesus announced the recoveries during a visit to Bunia, the provincial capital of Ituri. The Bundibugyo virus,\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/who-chief-hails-5-ebola-recoveries-as-a-new-treatment-center-opens-in-eastern-congo/article_fdd94cfe-9e8d-5e68-b96f-9a7d1e6b7d6f.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T12:49:18+00:00"
   },
   {
-    "title": "Walnut Creek Ballet Staple Takes Final Bow After 60 Years As New Owners Step In",
-    "summary": "Contra Costa Ballet Centre is closing after 60 years; Aaron and Kristin Orza plan to take over the Walnut Creek studio and continue classes under new leadership.",
-    "link": "https://hoodline.com/2026/05/walnut-creek-ballet-staple-takes-final-bow-after-60-years-as-new-owners-step-in/",
-    "source": "Hoodline",
-    "county": "Contra Costa",
-    "published": "2026-05-30T02:02:30+00:00"
+    "title": "Heavy rains threaten to delay search for 2 people still missing in Laos cave",
+    "summary": "Heavy rains have threatened the search for two more people missing in a flooded cave in Laos. Five others trapped for over a week were rescued on Saturday. Finnish diver Mikko Paasi says rains filled the cave up to the\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/heavy-rains-threaten-to-delay-search-for-2-people-still-missing-in-laos-cave/article_94486b78-3769-5839-8a9b-cf0ac0009516.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T12:39:41+00:00"
   },
   {
-    "title": "Bonta Reaches $2.5M Settlement With MV Realty",
-    "summary": "California AG reaches a $2.5M settlement that voids MV Realty contracts, clears liens and restores rights for nearly 1,500 homeowners.",
-    "link": "https://hoodline.com/2026/05/ag-cracks-down-as-1-500-california-homeowners-escape-realty-trap/",
-    "source": "Hoodline",
-    "county": "San Francisco",
-    "published": "2026-05-30T01:50:06+00:00"
+    "title": "Ukraine hits Russian energy targets and denies striking Kremlin-occupied nuclear plant",
+    "summary": "Ukraine has launched strikes on Russian energy sites. Russian authorities and media say drone debris set fire to a fuel storage facility in the Rostov region, and civilian infrastructure was reported damaged in Saratov province. Ukraine has increased attacks on\u2026",
+    "link": "https://www.smdailyjournal.com/news/national/ukraine-hits-russian-energy-targets-and-denies-striking-kremlin-occupied-nuclear-plant/article_faf57c05-216e-5bcf-b4a6-2156f92e1cd5.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T12:37:27+00:00"
   },
   {
-    "title": "Can you even say no when your hospital asks you to sign a waiver?",
-    "summary": "If your doctor\u2019s office has ever asked you to sign an electronic pad without showing you exactly what you\u2019re signing, you aren\u2019t alone. CalMatters\u2019 director of sociotechnical research, Alex Rosenblat, heard dozens of stories like this as she visited clinics across the country to see how hard it is for patients to do basic things [&#8230;]",
-    "link": "https://calmatters.org/newsletter/opt-out-hospital-privacy/",
-    "source": "CalMatters",
-    "county": "Bay Area",
-    "published": "2026-05-29T13:00:00+00:00"
+    "title": "Marta Kostyuk stuns 4-time champion Iga Swiatek on big day for Ukraine at French Open",
+    "summary": "There will be a first-time women\u2019s champion at Roland Garros this year, with two Ukrainian players among the top contenders. Marta Kostyuk, undefeated on clay this season, reached the quarterfinals by defeating four-time champion Iga Swiatek. Kostyuk will face fellow\u2026",
+    "link": "https://www.smdailyjournal.com/sports/marta-kostyuk-stuns-4-time-champion-iga-swiatek-on-big-day-for-ukraine-at-french/article_ba69543d-1883-5ac8-8c35-9d5389efe7b4.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T14:23:48+00:00"
   },
   {
-    "title": "Berkeley\u2019s soda tax success story deserves wider attention across California",
-    "summary": "After Berkeley voters first passed a soda tax in 2014, the city has invested millions of dollars into impactful health programs. Other California cities should follow.",
-    "link": "https://calmatters.org/commentary/2026/05/berkeley-soda-tax-success-health/",
-    "source": "CalMatters",
+    "title": "PSG is targeting a Champions League threepeat. So how do you make the best better?",
+    "summary": "MANCHESTER, England (AP) \u2014 After going back-to-back in the Champions League, the next target for Paris Saint-Germain is the threepeat.",
+    "link": "https://www.smdailyjournal.com/sports/psg-is-targeting-a-champions-league-threepeat-so-how-do-you-make-the-best-better/article_88b7619d-766a-5090-b6aa-31acf76c7954.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T11:30:35+00:00"
+  },
+  {
+    "title": "Eintracht Frankfurt brings back Adi H\u00fctter as coach on a 3-year deal",
+    "summary": "FRANKFURT, Germany (AP) \u2014 Eintracht Frankfurt appointed Adi H\u00fctter as coach on Sunday, with the Austrian making a return to the Bundesliga and the club he left five years ago.",
+    "link": "https://www.smdailyjournal.com/sports/eintracht-frankfurt-brings-back-adi-h-tter-as-coach-on-a-3-year-deal/article_98682c88-b03c-53c8-972b-4276a0558b99.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T11:13:31+00:00"
+  },
+  {
+    "title": "Scotland\u2019s former leader rejects blame for estranged husband\u2019s embezzlement of party funds",
+    "summary": "Nicola Sturgeon, Scotland\u2019s former first minister, rejects any blame for her estranged husband\u2019s embezzlement of Scottish National Party funds. On Sunday, she told the BBC she wouldn\u2019t apologize for his crimes. Her husband, Peter Murrell, pleaded guilty last week to\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/scotland-s-former-leader-rejects-blame-for-estranged-husband-s-embezzlement-of-party-funds/article_0752436e-12ae-5c7a-9579-0d4dc8026b64.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T11:01:32+00:00"
+  },
+  {
+    "title": "France detains hundreds after violent clashes as Paris Saint-German won Champions League",
+    "summary": "PARIS (AP) \u2014 French police detained 780 people involved in violent clashes in Paris and other French cities that erupted Saturday night after Paris Saint-Germain won the Champions League title.",
+    "link": "https://www.smdailyjournal.com/sports/france-detains-hundreds-after-violent-clashes-as-paris-saint-german-won-champions-league/article_81a60910-ec9a-54b9-a800-381adf7ddee3.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T10:45:53+00:00"
+  },
+  {
+    "title": "AP News in Brief at 6:04 a.m. EDT",
+    "summary": "Israeli army captures strategic castle in Lebanon in deepest incursion into country in 26 years",
+    "link": "https://www.smdailyjournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_d9b7d8cd-ccf5-54b3-8db2-1d6e1904a4a7.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T10:04:03+00:00"
+  },
+  {
+    "title": "Emiliano Mart\u00ednez\u2019s mind games: From childhood tricks to FIFA\u2019s code for goalkeepers",
+    "summary": "BUENOS AIRES (AP) \u2014 Goalkeeper Emiliano Mart\u00ednez already had a knack for irritating his opponents as a child.",
+    "link": "https://www.smdailyjournal.com/sports/emiliano-mart-nez-s-mind-games-from-childhood-tricks-to-fifa-s-code-for-goalkeepers/article_d43646d5-23ae-56c5-8b48-89b5c6a00cad.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T10:00:39+00:00"
+  },
+  {
+    "title": "A collapse occurs during an illegal mining operation in China, killing 5 people",
+    "summary": "A collapse during an illegal mining operation in China has killed five people and injured one other person. The incident occurred Sunday in Huize County, Yunnan province, according to China's official news agency Xinhua. Rescuers pulled all six trapped individuals\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/a-collapse-occurs-during-an-illegal-mining-operation-in-china-killing-5-people/article_fa83976b-1fcc-5788-89e7-2aa999579035.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T09:08:38+00:00"
+  },
+  {
+    "title": "Bus crashes and catches fire in western Turkey, killing 8 people, including an infant",
+    "summary": "Local media reports that a bus crashed a caught fire in western Turkey, leaving eight people including a 9-month-old baby dead. The bus, owned by Pamukkale Tourism, crashed into highway barriers in Denizli province early Sunday while carrying 38 passengers\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/bus-crashes-and-catches-fire-in-western-turkey-killing-8-people-including-an-infant/article_f48099ea-3f91-5596-9ea0-430209d11bd2.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T08:12:38+00:00"
+  },
+  {
+    "title": "American allies warn division weakens deterrence in calls for global unity to meet new threats",
+    "summary": "American allies are emphasizing the need for unity and cooperation as security threats increasingly cross regional boundaries, even as the Trump administration criticizes traditional partners. Japanese Defense Minister Shinjiro Koizumi on Sunday praised U.S. Defense Secretary Pete Hegseth\u2019s commitment to\u2026",
+    "link": "https://www.smdailyjournal.com/news/world/american-allies-warn-division-weakens-deterrence-in-calls-for-global-unity-to-meet-new-threats/article_2c217bd4-b55e-5953-aa27-4cd219e89f80.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T08:04:59+00:00"
+  },
+  {
+    "title": "This Day in History",
+    "summary": "On May 31, 1921, a two-day massacre erupted in Tulsa, Oklahoma, as white mobs began looting and burning the affluent Black district of Greenwood over reports a Black man had assaulted a white woman in an elevator; though the exact\u2026",
+    "link": "https://www.smdailyjournal.com/lifestyle/this-day-in-history/article_05053fdc-4b86-4287-9792-618abe053d14.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T07:00:00+00:00"
+  },
+  {
+    "title": "Athletics hit 3 homers to beat Yankees 6-4 and snap a 4-game losing streak",
+    "summary": "Shea Langeliers and and Nick Kurtz each hit two-run homers to lead the Athletics to a 6-4 victory over the New York Yankees that snapped a four-game losing streak. J.T. Ginn allowed one unearned run in six innings to give\u2026",
+    "link": "https://www.smdailyjournal.com/sports/athletics-hit-3-homers-to-beat-yankees-6-4-and-snap-a-4-game-losing/article_460ee531-00a8-5ae8-8ea5-9a5cbf186aae.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T06:01:08+00:00"
+  },
+  {
+    "title": "Mexican designer blends soccer and pre-Hispanic culture ahead of the World Cup",
+    "summary": "It\u2019s no coincidence that Hugo Rosas\u2019 jersey designs ahead of the World Cup resemble some of Mexico\u2019s most iconic decorations. His work fuses soccer and Mexican identity to showcase his country\u2019s culture beyond its borders. His latest collection is called\u2026",
+    "link": "https://www.smdailyjournal.com/sports/mexican-designer-blends-soccer-and-pre-hispanic-culture-ahead-of-the-world-cup/article_ebaed5a5-5c81-5bf1-a48f-e446dd4d31cb.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T06:01:52+00:00"
+  },
+  {
+    "title": "Moana Pasifika bow out of Super Rugby with sadness but in style",
+    "summary": "WELLINGTON, New Zealand (AP) \u2014 Moana Pasifika\u2019s four-year tenure in Super Rugby ended not with a whimper but a bang Saturday when they snapped a 12-match losing streak by beating the playoff-bound Brumbies in their last match in the tournament.",
+    "link": "https://www.smdailyjournal.com/sports/moana-pasifika-bow-out-of-super-rugby-with-sadness-but-in-style/article_96346f97-81d2-5ea6-8491-4cf6b00fff90.html",
+    "source": "SM Daily Journal",
+    "county": "San Mateo",
+    "published": "2026-05-31T05:56:45+00:00"
+  },
+  {
+    "title": "Berkeley police investigate city\u2019s first homicide in 16 months",
+    "summary": "Police provided few details on the killing or the victim, a woman in her 30s, saying \u201cthe investigation is still in its preliminary stages.\u201d",
+    "link": "https://www.berkeleyside.org/2026/05/30/california-street-apartment-homicide-berkeley-police-department",
+    "source": "Berkeleyside",
     "county": "Alameda",
-    "published": "2026-05-29T12:00:00+00:00"
-  },
-  {
-    "title": "Gavin Newsom\u2019s rosy painting of California\u2019s economy leaves out its darker undertones",
-    "summary": "Gov. Newsom often brags about California's productivity and Nobel winners but omits its recent tech layoffs, shrinking jobs base and growing gaps between rich and poor.",
-    "link": "https://calmatters.org/commentary/2026/05/gavin-newsom-california-economy-brag/",
-    "source": "CalMatters",
-    "county": "Bay Area",
-    "published": "2026-05-29T12:00:00+00:00"
-  },
-  {
-    "title": "Sigamos el rastro del dinero: \u00bfQui\u00e9n apoya al pr\u00f3ximo gobernador de California y por qu\u00e9?",
-    "summary": "Multimillonarios, grandes petroleras y otros grupos de inter\u00e9s est\u00e1n gastando grandes sumas de dinero para influir en la contienda por la gobernaci\u00f3n de California, lo que la convierte en la campa\u00f1a de primarias m\u00e1s cara de la historia del estado.",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/05/sigamos-el-rastro-del-dinero-gobernador-california/",
-    "source": "CalMatters",
-    "county": "Bay Area",
-    "published": "2026-05-28T20:27:46+00:00"
-  },
-  {
-    "title": "Inf\u00f3rmate r\u00e1pidamente sobre las elecciones de California con nuestra gu\u00eda para indecisos",
-    "summary": "Los californianos votan en una contienda por la gobernaci\u00f3n muy re\u00f1ida. Xavier Becerra, Steve Hilton y Tom Steyer lideran las encuestas, pero solo dos pasar\u00e1n a las elecciones generales.",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/05/guia-rapida-elecciones-california/",
-    "source": "CalMatters",
-    "county": "Bay Area",
-    "published": "2026-05-28T20:08:18+00:00"
+    "published": "2026-05-31T00:41:07+00:00"
   },
   {
     "title": "Trump admin suspended UC Berkeley grants over \u2018foreign funding.\u2019 Some researchers say they didn\u2019t take any.",
@@ -1368,12 +1544,140 @@
     "published": "2026-05-28T14:00:00+00:00"
   },
   {
-    "title": "Around Berkeley: Ballet costumes, Bay Area Book Fest, bike repairs",
-    "summary": "Other events include a lecture on the state of journalism, a free furniture exchange program and an artist meetup at the UC Botanical Garden.",
-    "link": "https://www.berkeleyside.org/2026/05/28/around-berkeley-ballet-costumes-bay-area-book-fest-bike-repairs",
-    "source": "Berkeleyside",
+    "title": "\u2018The Lost Boys\u2019: How Santa Cruz became Santa Carla",
+    "summary": "Forty years after \u201cThe Lost Boys\u201d transformed Santa Cruz into the fictional vampire haven of Santa Carla, the cult classic still pulses through the town\u2019s identity. Part 1 of a three-part series explores the film\u2019s enduring lure, outsider mythology and the strange cultural magic of 1980s Santa Cruz.",
+    "link": "https://lookout.co/the-lost-boys-how-santa-cruz-became-santa-carla/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-31T11:30:00+00:00"
+  },
+  {
+    "title": "What will Watsonville Community Hospital\u2019s next chapter be?",
+    "summary": "State Sen. John Laird warns that Watsonville Community Hospital is once again facing a financial crisis, with fewer than 10 days of cash on hand. Recently passed emergency legislation will provide $10.6 million in short-term relief to help the hospital stay afloat through July 1, he writes, but it is not a permanent solution. Laird argues that federal funding cuts have reversed years of financial progress and left community hospitals like Watsonville especially vulnerable. The hospital continues",
+    "link": "https://lookout.co/what-will-watsonville-community-hospitals-next-chapter-be/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-31T11:00:00+00:00"
+  },
+  {
+    "title": "Tom Steyer says the right things. His record says otherwise.",
+    "summary": "Rose K. Murphy argues that Tom Steyer\u2019s environmental and economic rhetoric clashes with the investment record of the hedge fund he built at Farallon Capital Management. From water rights fights in Colorado to private prisons and overseas fossil fuel projects, the Watsonville resident writes that Steyer, now running for California governor, has never fully answered for the profits tied to environmental damage and corporate exploitation.\nThe post Tom Steyer says the right things. His record says ",
+    "link": "https://lookout.co/tom-steyer-says-the-right-things-his-record-says-otherwise/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-31T10:30:00+00:00"
+  },
+  {
+    "title": "Letter to the editor: Ryan Coonerty helped bring the Warriors to Santa Cruz \u2013 he\u2019s the best pick for mayor",
+    "summary": "In a letter to the editor, a Santa Cruz resident lauds Ryan Coonerty for his role in bringing minor league basketball to the city and cites Coonerty&#8217;s leadership and experience in backing him in the race for mayor.",
+    "link": "https://lookout.co/letter-to-the-editor-ryan-coonerty-helped-bring-the-warriors-to-santa-cruz-hes-the-best-pick-for-mayor/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-30T09:00:00+00:00"
+  },
+  {
+    "title": "County parks proposes pay-for-parking pilot program",
+    "summary": "The Santa Cruz County Parks department is proposing a pay-for-parking pilot program at high-traffic area parks.\nThe post County parks proposes pay-for-parking pilot program appeared first on Lookout Santa Cruz.",
+    "link": "https://lookout.co/county-parks-proposes-pay-for-parking-pilot-program/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-30T02:17:02+00:00"
+  },
+  {
+    "title": "Citing budgetary woes, Housing Matters moves to decrease capacity at Rebele Family Shelter and Recuperative Care Center",
+    "summary": "Homelessness nonprofit Housing Matters announced Friday that it will reduce capacity at the Rebele Family Shelter on Coral Street and its off-site recuperative care center at the former Salt Air Lodge on Leibrandt Avenue, as both are \u201coperating with significant budgetary deficits.\u201d CEO Phil Kramer said the move is likely to take place over the next month or so, but none of the current occupants will be forced out early.",
+    "link": "https://lookout.co/citing-budgetary-woes-housing-matters-moves-to-decrease-capacity-at-rebele-family-shelter-and-recuperative-care-center/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-30T00:55:21+00:00"
+  },
+  {
+    "title": "Watsonville Community Hospital will receive $10.6 million state grant to help weather financial challenges",
+    "summary": "Watsonville Community Hospital is receiving a $10.6 million state grant that will provide temporary financial relief. Watsonville is one of four California hospitals receiving additional state funding.\nThe post Watsonville Community Hospital will receive $10.6 million state grant to help weather financial challenges appeared first on Lookout Santa Cruz.",
+    "link": "https://lookout.co/watsonville-community-hospital-will-receive-10-6-million-state-grant-to-help-weather-financial-challenges/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-29T20:50:41+00:00"
+  },
+  {
+    "title": "Ami Chen Mills: I reject flattened portrayal of Santa Cruz mayoral campaign",
+    "summary": "In a letter to the editor, Santa Cruz mayoral candidate Ami Chen Mills takes issue with the characterization of the race laid out by the author of a previous Lookout opinion piece.",
+    "link": "https://lookout.co/ami-chen-mills-i-reject-flattened-portrayal-of-santa-cruz-mayoral-campaign/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-29T20:20:16+00:00"
+  },
+  {
+    "title": "El Hospital Comunitario de Watsonville recibir\u00e1 una subvenci\u00f3n estatal de 10.6 millones de d\u00f3lares para afrontar desaf\u00edos financieros",
+    "summary": "El Hospital Comunitario de Watsonville recibir\u00e1 una subvenci\u00f3n estatal de 10,6 millones de d\u00f3lares que le brindar\u00e1 un alivio financiero temporal. Watsonville es uno de los cuatro hospitales de California que recibir\u00e1n fondos estatales adicionales.\nThe post El Hospital Comunitario de Watsonville recibir\u00e1 una subvenci\u00f3n estatal de 10.6 millones de d\u00f3lares para afrontar desaf\u00edos financieros appeared first on Lookout Santa Cruz.",
+    "link": "https://lookout.co/el-hospital-comunitario-de-watsonville-recibira-una-subvencion-estatal-de-10-6-millones-de-dolares-para-afrontar-desafios-financieros/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-29T19:47:13+00:00"
+  },
+  {
+    "title": "10 Hot Jobs in Santa Cruz County: Week of May 29",
+    "summary": "Looking for a new job in Santa Cruz County? Explore the top 10 exciting job opportunities across industries like education, healthcare, and more. Your next career move starts here!\nThe post 10 Hot Jobs in Santa Cruz County: Week of May 29 appeared first on Lookout Santa Cruz.",
+    "link": "https://lookout.co/10-hot-jobs-in-santa-cruz-county-week-of-may-29/story",
+    "source": "Lookout Santa Cruz",
+    "county": "Santa Cruz",
+    "published": "2026-05-29T18:00:00+00:00"
+  },
+  {
+    "title": "Can you even say no when your hospital asks you to sign a waiver?",
+    "summary": "If your doctor\u2019s office has ever asked you to sign an electronic pad without showing you exactly what you\u2019re signing, you aren\u2019t alone. CalMatters\u2019 director of sociotechnical research, Alex Rosenblat, heard dozens of stories like this as she visited clinics across the country to see how hard it is for patients to do basic things [&#8230;]",
+    "link": "https://calmatters.org/newsletter/opt-out-hospital-privacy/",
+    "source": "CalMatters",
+    "county": "Bay Area",
+    "published": "2026-05-29T13:00:00+00:00"
+  },
+  {
+    "title": "Berkeley\u2019s soda tax success story deserves wider attention across California",
+    "summary": "After Berkeley voters first passed a soda tax in 2014, the city has invested millions of dollars into impactful health programs. Other California cities should follow.",
+    "link": "https://calmatters.org/commentary/2026/05/berkeley-soda-tax-success-health/",
+    "source": "CalMatters",
     "county": "Alameda",
-    "published": "2026-05-28T12:00:00+00:00"
+    "published": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "title": "Gavin Newsom\u2019s rosy painting of California\u2019s economy leaves out its darker undertones",
+    "summary": "Gov. Newsom often brags about California's productivity and Nobel winners but omits its recent tech layoffs, shrinking jobs base and growing gaps between rich and poor.",
+    "link": "https://calmatters.org/commentary/2026/05/gavin-newsom-california-economy-brag/",
+    "source": "CalMatters",
+    "county": "Bay Area",
+    "published": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "title": "Sigamos el rastro del dinero: \u00bfQui\u00e9n apoya al pr\u00f3ximo gobernador de California y por qu\u00e9?",
+    "summary": "Multimillonarios, grandes petroleras y otros grupos de inter\u00e9s est\u00e1n gastando grandes sumas de dinero para influir en la contienda por la gobernaci\u00f3n de California, lo que la convierte en la campa\u00f1a de primarias m\u00e1s cara de la historia del estado.",
+    "link": "https://calmatters.org/calmatters-en-espanol/2026/05/sigamos-el-rastro-del-dinero-gobernador-california/",
+    "source": "CalMatters",
+    "county": "Bay Area",
+    "published": "2026-05-28T20:27:46+00:00"
+  },
+  {
+    "title": "Inf\u00f3rmate r\u00e1pidamente sobre las elecciones de California con nuestra gu\u00eda para indecisos",
+    "summary": "Los californianos votan en una contienda por la gobernaci\u00f3n muy re\u00f1ida. Xavier Becerra, Steve Hilton y Tom Steyer lideran las encuestas, pero solo dos pasar\u00e1n a las elecciones generales.",
+    "link": "https://calmatters.org/calmatters-en-espanol/2026/05/guia-rapida-elecciones-california/",
+    "source": "CalMatters",
+    "county": "Bay Area",
+    "published": "2026-05-28T20:08:18+00:00"
+  },
+  {
+    "title": "Anthropic blows past OpenAI, two chip companies join $1 trillion club: Week in AI",
+    "summary": "Anthropic overtook OpenAI as the top AI startup with a $47B run-rate, while SK Hynix and Micron joined the trillion-dollar club.",
+    "link": "https://www.bizjournals.com/sanfrancisco/news/2026/05/29/week-in-ai-anthropic-openai-trillion-dollar-club.html",
+    "source": "SF Business Journal",
+    "county": "San Francisco",
+    "published": "2026-05-29T21:49:52+00:00"
+  },
+  {
+    "title": "New Trump immigration memo 'caused a lot of panic' for Bay Area immigrants, employers",
+    "summary": "Trump's new green card rules create uncertainty for Bay Area tech companies relying on foreign workers like those at Apple and Meta.",
+    "link": "https://www.bizjournals.com/sanfrancisco/news/2026/05/29/trump-administration-visas-bay-area-employers.html",
+    "source": "SF Business Journal",
+    "county": "San Francisco",
+    "published": "2026-05-29T21:24:46+00:00"
   },
   {
     "title": "Daily Digest: Gap plunges on Wall Street, Corgi bulks up on cash",
@@ -1549,7 +1853,7 @@
     "link": "https://www.bizjournals.com/sanfrancisco/news/2026/05/27/juicebox-77-federal-soma-david-paffenholz.html",
     "source": "SF Business Journal",
     "county": "San Francisco",
-    "published": "2026-05-27T21:28:24+00:00"
+    "published": "2026-05-29T23:34:08+00:00"
   },
   {
     "title": "Corcept Therapeutics reloads for another shot at rare-disease drug approval",
@@ -1560,188 +1864,124 @@
     "published": "2026-05-27T21:21:35+00:00"
   },
   {
-    "title": "United Airlines CEO makes case for AI \u2014 and it doesn't involve layoffs",
-    "summary": "United Airlines CEO Scott Kirby discusses AI investment and industry consolidation at the Bernstein Strategic Decisions Conference in New York.",
-    "link": "https://www.bizjournals.com/sanfrancisco/news/2026/05/27/united-airlines-ceo-scott-kirby-ai-technology.html",
-    "source": "SF Business Journal",
-    "county": "San Francisco",
-    "published": "2026-05-27T21:08:18+00:00"
-  },
-  {
-    "title": "Daily Digest: Plans at naval site clear hurdle, Robinhood's new AI stock tool",
-    "summary": "Zscaler shares dropped over 30% after disappointing revenue outlook, while Meta announced hundreds of Bay Area job cuts in a state filing. Everlane's co-founder is back with a new apparel brand that nods to his previous company's commitment to sustainability and supply chain integrity, following the sale of Everlane to a Chinese fast-fashion giant.",
-    "link": "https://www.bizjournals.com/sanfrancisco/news/2026/05/27/sfbt-digest-wednesday-concord-us-navy-robinhood-sf.html",
-    "source": "SF Business Journal",
-    "county": "San Francisco",
-    "published": "2026-05-27T20:24:23+00:00"
-  },
-  {
-    "title": "Headlines, May 29",
-    "summary": "",
-    "link": "https://sf.streetsblog.org/2026/05/29/headlines-may-29-3",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-29T15:03:08+00:00"
-  },
-  {
-    "title": "Muni Funding Measure Also Qualifies for November Ballot",
-    "summary": "Mayor and advocates turn in 18,469 signatures, almost twice what was needed",
-    "link": "https://sf.streetsblog.org/2026/05/28/muni-funding-measure-also-qualifies-for-november-ballot",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-28T23:13:52+00:00"
-  },
-  {
-    "title": "Here\u2019s How to Vote Before Election Day in California",
-    "summary": "Changes in federal post office regulations mean that it may already be too late to send in your ballot, depending where you live. But there's still a lot of ways to make sure your vote counts, including voting on election day like our grandparents used to last century.",
-    "link": "https://cal.streetsblog.org/2026/05/28/heres-how-to-vote-before-election-day-in-california",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-28T20:36:11+00:00"
-  },
-  {
-    "title": "Talking Headways Podcast: Community Severance by Road",
-    "summary": "Jaime Benevides and Marianthi-Anna Kioumourtzoglou on how community severance by road infrastructure increases mental health hospital visits in New York City.",
-    "link": "https://usa.streetsblog.org/2026/05/28/talking-headways-podcast-community-severance-by-road",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-28T16:32:33+00:00"
-  },
-  {
-    "title": "Headlines, May 28",
-    "summary": "",
-    "link": "https://sf.streetsblog.org/2026/05/28/headlines-may-28-3",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-28T15:27:25+00:00"
-  },
-  {
-    "title": "Data Show Why Mamdani Must Pedestrianize NYC\u2019s Financial District",
-    "summary": "People walk in the Financial District, but the neighborhood's business group prioritizes the car.",
-    "link": "https://nyc.streetsblog.org/2026/05/28/data-show-why-mamdani-must-pedestrianize-the-financial-district",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-28T04:05:00+00:00"
-  },
-  {
-    "title": "America Keeps Building Stadiums Like Transit Doesn\u2019t Matter",
-    "summary": "What would it take to build a truly transit-oriented sports stadium in Washington D.C., rather than repeating the mistakes of the past?",
-    "link": "https://usa.streetsblog.org/2026/05/28/america-keeps-building-stadiums-like-transit-doesnt-matter",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-28T04:01:00+00:00"
-  },
-  {
-    "title": "Bay Area Advocates Rally to Stop State Giveaway to Oil Companies",
-    "summary": "Governor Newsom's environmental agency wants to rob cash-strapped transit operators and give the money to the worst polluters, ostensibly to help with high gas prices",
-    "link": "https://sf.streetsblog.org/2026/05/27/bay-area-advocates-rally-to-stop-state-giveaway-to-oil-companies",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-27T23:27:27+00:00"
-  },
-  {
-    "title": "An Update on Contactless Fare Payment across Agencies in California",
-    "summary": "Once Tap Plus launches later this year, it will be available on the agencies that operate roughly 95% of public transit trips in California, but there are some notable laggards...",
-    "link": "https://cal.streetsblog.org/2026/05/27/an-update-on-contactless-fare-payment-across-agencies-in-california",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-27T16:57:31+00:00"
-  },
-  {
-    "title": "Headlines, May 27",
-    "summary": "",
-    "link": "https://sf.streetsblog.org/2026/05/27/headlines-may-27-2",
-    "source": "Streetsblog SF",
-    "county": "Bay Area",
-    "published": "2026-05-27T14:57:21+00:00"
-  },
-  {
-    "title": "What would get Gen Z to vote in California\u2019s primary? These candidates are trying",
-    "summary": "DESPITE MAKING UP one-fifth of the state\u2019s voting population, most Gen Z Californians won\u2019t vote in the June 2 primary, which is stacked with several gubernatorial candidates. The primary election tees up the ballot in November, which will also host other high-profile races and issues, such as the rest of the executive candidates, as well [&#8230;]\nThe post What would get Gen Z to vote in California\u2019s primary? These candidates are trying appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/30/gen-z-voters-california-primary-election-2026/",
-    "source": "Local News Matters",
-    "county": "Bay Area",
-    "published": "2026-05-30T18:00:00+00:00"
-  },
-  {
-    "title": "Family of Oakland homicide victim, 19, raising money to send his body home to Guatemala",
-    "summary": "The family of a 19-year-old Oakland man who was stabbed to death last weekend is trying to raise money to bring his body back to Guatemala. Aldon Rochel Mata Cardona was stabbed May 23 at about 6:45 p.m. in the 1700 block of East 19th Street, according to the Oakland Police Department. Cardona was taken [&#8230;]\nThe post Family of Oakland homicide victim, 19, raising money to send his body home to Guatemala appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/30/family-of-oakland-homicide-victim-19-raising-money-to-send-his-body-home-to-guatemala/",
-    "source": "Local News Matters",
-    "county": "Alameda",
-    "published": "2026-05-30T16:00:00+00:00"
-  },
-  {
-    "title": "Fairfield High School cancels freshman prom after confrontation with police",
-    "summary": "Fairfield High School has canceled its freshman prom in the wake of a confrontation between police and a 16-year-old sophomore that went viral on social media. The prom was scheduled for Saturday and was to have doubled as an awards ceremony for student achievements during the school year. The cancellation came in an email to [&#8230;]\nThe post Fairfield High School cancels freshman prom after confrontation with police appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/30/fairfield-high-school-cancels-freshman-prom-after-confrontation-with-police/",
-    "source": "Local News Matters",
+    "title": "Lawsuit accuses Vallejo police of using excessive force during false arrest",
+    "summary": "The lawsuit alleges that Vallejo police officers Rosendo Mesa and Jeremy Callahan misidentified Ronnie Lewis as a suspect in the carjacking of an unhoused person\u2019s car in 2024",
+    "link": "https://www.vallejosun.com/lawsuit-accuses-vallejo-police-of-using-excessive-force-during-false-arrest/",
+    "source": "Vallejo Sun",
     "county": "Solano",
-    "published": "2026-05-30T14:00:00+00:00"
+    "published": "2026-05-28T21:00:58+00:00"
   },
   {
-    "title": "Alameda County budget plan closes $91.4M spending gap without layoffs, service cuts",
-    "summary": "The Alameda County Board of Supervisors was presented with a $6.7 billion budget proposal Thursday that closes an estimated $91.4 million funding gap without layoffs or major reductions in services. County Administrator Susan Muranishi said the 2026-2027 \u201call funds\u201d budget grew by $570 million, a 9% increase from last fiscal year that was \u201cdriven largely\u201d [&#8230;]\nThe post Alameda County budget plan closes $91.4M spending gap without layoffs, service cuts appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/30/alameda-county-budget-plan-closes-91-4m-spending-gap-without-layoffs-service-cuts/",
-    "source": "Local News Matters",
-    "county": "Alameda",
-    "published": "2026-05-30T10:00:00+00:00"
+    "title": "Upcoming Vallejo Events \u2014 Rappin' 4-Tay at Noble Cinema Studios",
+    "summary": "Plus, On The Fringe Junior opens the play Madagascar Jr at the Odd Fellows Hall.",
+    "link": "https://www.vallejosun.com/upcoming-vallejo-events-rappin-4-tay-at-noble-cinema-studios/",
+    "source": "Vallejo Sun",
+    "county": "Solano",
+    "published": "2026-05-27T20:00:08+00:00"
   },
   {
-    "title": "Richmond voters to decide City Council Districts 3 and 4 races",
-    "summary": "On Tuesday, Richmond will vote to elect candidates to represent District 3 and District 4 on the City Council. In District 3, which covers neighborhoods like Richmore Village, Coronado, and Pullman, Councilmember Doria Robinson is up against Brandon Evans. To the east, District 4 Councilmember Soheila Bana, whose district includes eastern neighborhoods like May Valley, [&#8230;]\nThe post Richmond voters to decide City Council Districts 3 and 4 races appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/30/richmond-voters-to-decide-city-council-districts-3-and-4-races/",
-    "source": "Local News Matters",
-    "county": "Contra Costa",
-    "published": "2026-05-30T08:00:00+00:00"
+    "title": "Vallejo to eliminate at least three crosswalks on busy Tennessee Street",
+    "summary": "A city spokeperson said the city was removing the crosswalks \u201cdue to numerous vehicle vs. pedestrian collisions.\"",
+    "link": "https://www.vallejosun.com/vallejo-to-eliminate-at-least-three-crosswalks-on-busy-tennessee-street/",
+    "source": "Vallejo Sun",
+    "county": "Solano",
+    "published": "2026-05-26T19:52:47+00:00"
   },
   {
-    "title": "San Jose man sentenced to 25 years to life for killing 8-month-old daughter",
-    "summary": "A San Jose man was sentenced to 25 years-to-life in prison Friday for killing his infant daughter by striking her so hard across the face that she suffered brain damage, prosecutors said. Jesse Manuel Figueroa, 36, was babysitting 8-month-old Raina when he took the child to a Mountain View fire station on July 4, 2020, [&#8230;]\nThe post San Jose man sentenced to 25 years to life for killing 8-month-old daughter appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/29/san-jose-man-sentenced-to-25-years-to-life-for-killing-8-month-old-daughter/",
-    "source": "Local News Matters",
-    "county": "Santa Clara",
-    "published": "2026-05-30T06:00:00+00:00"
+    "title": "Fairfield police reassign officer seen punching high school student on video, launch investigation",
+    "summary": "Fairfield police Chief Dan Marshall apologized for the incident, which he said caused \u201cdivision and concern within our community.\u201d",
+    "link": "https://www.vallejosun.com/fairfield-police-reassign-officer-seen-punching-high-school-student-on-video-launch-investigation/",
+    "source": "Vallejo Sun",
+    "county": "Solano",
+    "published": "2026-05-23T21:54:12+00:00"
   },
   {
-    "title": "Former North Fair Oaks soccer coach pleads no contest to statutory rape, other crimes",
-    "summary": "A former soccer coach at a now-shuttered charter school near Redwood City pleaded no contest to statutory rape and other charges stemming from a case involving two students, the San Mateo County District Attorney&#8217;s Office said Thursday.&#160;&#160; Palo Alto resident Anthony Giovanny GutierrezMolina, 31, worked at the now-closed Summit Everest High School in North Fair [&#8230;]\nThe post Former North Fair Oaks soccer coach pleads no contest to statutory rape, other crimes appeared first on",
-    "link": "https://localnewsmatters.org/2026/05/29/north-fair-oaks-coach-sex-crimes-plea/",
-    "source": "Local News Matters",
-    "county": "Santa Clara",
-    "published": "2026-05-30T04:00:00+00:00"
+    "title": "Early morning blaze destroys long-shuttered Vallejo school",
+    "summary": "The Grant School had been been closed since 1989.",
+    "link": "https://www.vallejosun.com/early-morning-blaze-destroys-long-shuttered-vallejo-school/",
+    "source": "Vallejo Sun",
+    "county": "Solano",
+    "published": "2026-05-23T21:44:21+00:00"
   },
   {
-    "title": "Canal residents unveil vision for future that protects community from displacement",
-    "summary": "Five months after the release of a major sea level adaptation study for San Rafael\u2019s most flood-prone neighborhood, the residents that live in the Canal district have released their own vision plan. It is tied to the city\u2019s climate adaptation planning, with links to the city\u2019s economic development and housing policy, and it explicitly calls [&#8230;]\nThe post Canal residents unveil vision for future that protects community from displacement appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/29/canal-residents-unveil-vision-for-future-that-protects-community-from-displacement/",
-    "source": "Local News Matters",
-    "county": "Marin",
-    "published": "2026-05-30T01:00:00+00:00"
+    "title": "Video shows Fairfield officer punching high school student in the face",
+    "summary": "Fairfield police confirmed the arrest of two Fairfield high school students Wednesday.",
+    "link": "https://www.vallejosun.com/video-shows-fairfield-officer-punching-high-school-student-in-the-face/",
+    "source": "Vallejo Sun",
+    "county": "Solano",
+    "published": "2026-05-22T00:50:41+00:00"
   },
   {
-    "title": "California governor\u2019s race: Poll finds Becerra and Hilton leading field with vote days away",
-    "summary": "DEMOCRAT XAVIER BECERRA and Republican Steve Hilton are holding on to the lead in the latest poll ahead of the California governor election.\u00a0 That\u2019s according to the&#160;Public Policy Institute of California, which surveyed 986 likely voters earlier this month. Nearly a quarter of those surveyed (23%) said they\u2019d vote for Becerra, followed by Hilton at [&#8230;]\nThe post California governor&#8217;s race: Poll finds Becerra and Hilton leading field with vote days away appeared first on Local New",
-    "link": "https://localnewsmatters.org/2026/05/29/california-governors-race-poll-finds-becerra-and-hilton-leading-field-with-vote-days-away/",
-    "source": "Local News Matters",
+    "title": "Ethan Hawke reveals what career achievement 'The Lowdown' helped him reach",
+    "summary": "\"I've never done this!\" Ethan Hawke reveals what's happening with \"The Lowdown\" that gave him a new career milestone. Season 2 of the crime noir series is filming now in Tulsa. You can watch season 1 on Hulu and Hulu on Disney+.",
+    "link": "https://abc7.com/post/ethan-hawke-reveals-what-career-achievement-lowdown-helped-reach/19203678/",
+    "source": "ABC7 News",
     "county": "Bay Area",
-    "published": "2026-05-29T23:00:00+00:00"
+    "published": "2026-05-31T06:28:33+00:00"
   },
   {
-    "title": "Review: Berkeley Rep\u2019s musical \u2018Lunchbox\u2019 is charming, heartfelt, joyful",
-    "summary": "The charm of Berkeley Repertory Theatre\u2019s world premiere of \u201cThe Lunchbox\u201d&#160;can\u2019t&#160;be overstated.&#160; Based on the 2013 film of the same name, it is, to put it simply, a must-see. It is that rare beast: an art film that seems to have been heightened, intensified, not merely gussied up, by its new iteration as a musical.&#160; [&#8230;]\nThe post Review: Berkeley Rep\u2019s musical \u2018Lunchbox\u2019 is charming, heartfelt, joyful\u00a0\u00a0 appeared first on Local News Matters.",
-    "link": "https://localnewsmatters.org/2026/05/29/review-berkeley-reps-musical-lunchbox-is-charming-heartfelt-joyful/",
-    "source": "Local News Matters",
-    "county": "Alameda",
-    "published": "2026-05-29T21:05:26+00:00"
+    "title": "Mountain lion tranquilized, captured after roaming Santa Monica neighborhood",
+    "summary": "A mountain lion kept a Santa Monica neighborhood on high alert for hours before it was tranquilized and captured.",
+    "link": "https://abc7.com/post/mountain-lion-spotted-santa-monica-street-closures-residents-told-remain-indoors/19195518/",
+    "source": "ABC7 News",
+    "county": "Bay Area",
+    "published": "2026-05-31T06:03:17+00:00"
   },
   {
-    "title": "AccuWeather Forecast: Clear, sunny and warmer today",
-    "summary": "Daytime highs will return to normal today with temperatures reaching the 60s at the coast and the 80s farther inland. The marine layer will lift mid-morning, then skies will remain clear through the early evening.",
+    "title": "Bus driver charged after crash kills 5 in Virginia, including family of 4 traveling to wedding",
+    "summary": "A family of four from Massachusetts who were killed when a bus crashed into multiple vehicles in Virginia were traveling to a wedding with a carload of homemade desserts for the celebration.",
+    "link": "https://abc7chicago.com/post/virginia-bus-crash-driver-jing-dong-charged-i95-dmitri-ecaterina-doncev-priscilla-mafalda-among-victims/19202268/",
+    "source": "ABC7 News",
+    "county": "Bay Area",
+    "published": "2026-05-31T03:46:54+00:00"
+  },
+  {
+    "title": "Trump vents about judge who blocked the Kennedy Center renovation and fumes over his legal setbacks",
+    "summary": "President Donald Trump is fuming about a court ruling that blocked his renovation plans for the Kennedy Center in Washington.",
+    "link": "https://abc7.com/post/trump-vents-judge-blocked-kennedy-center-renovation-fumes-legal-setbacks/19201090/",
+    "source": "ABC7 News",
+    "county": "Bay Area",
+    "published": "2026-05-31T02:52:37+00:00"
+  },
+  {
+    "title": "AccuWeather Forecast: Clear and cool overnight",
+    "summary": "Tonight will be clear and seasonably cool, with overnight lows mainly in the range of 50 to 52 degrees.",
     "link": "https://abc7news.com/post/weather-bay-area-forecast-temperatures/39468/",
     "source": "ABC7 News",
-    "county": "Marin",
-    "published": "2026-05-30T19:04:06+00:00"
+    "county": "Bay Area",
+    "published": "2026-05-31T02:05:17+00:00"
+  },
+  {
+    "title": "Democratic candidates rally voters as CA governor's race enters final stretch ahead of primary",
+    "summary": "With Tuesday's primary quickly approaching, candidates for California governor are making a final push across the Bay Area and the state, rallying supporters and urging voters to head to the polls. We caught up with some of the top Democratic candidates this weekend.",
+    "link": "https://abc7news.com/post/2026-election-democratic-candidates-rally-voters-california-governors-race-enters-final-stretch-ahead-june-2-primary/19202078/",
+    "source": "ABC7 News",
+    "county": "Bay Area",
+    "published": "2026-05-31T01:30:47+00:00"
+  },
+  {
+    "title": "Crash between car and Recology truck on I-80 in San Francisco leaves 1 dead, CHP says",
+    "summary": "The California Highway Patrol is investigating what caused a deadly crash between an 18-wheeler and a car in San Francisco.",
+    "link": "https://abc7news.com/post/interstate-80-accident-crash-between-chevy-camaro-recology-transfer-truck-san-francisco-leaves-1-dead-chp-says/19202116/",
+    "source": "ABC7 News",
+    "county": "San Francisco",
+    "published": "2026-05-31T01:08:56+00:00"
+  },
+  {
+    "title": "San Francisco reassessing public monuments of past and future: Here's a look at city's art history",
+    "summary": "San Francisco is re-examining its monuments and memorials as officials and residents alike question whether the city's public art reflects its history and values. The reassessment comes after years of political and public pressure that has prompted changes to how the city presents its history.",
+    "link": "https://abc7news.com/post/san-francisco-is-reassessing-public-monuments-past-future-how-reflect-citys-history-values/19181219/",
+    "source": "ABC7 News",
+    "county": "San Francisco",
+    "published": "2026-05-30T21:35:34+00:00"
+  },
+  {
+    "title": "CAL FIRE urging Bay Area residents to create defensible space as wildfire season begins",
+    "summary": "While fires can happen pretty much anywhere, it's neighborhoods like those in the Oakland Hills that are especially at risk. Fire officials are urging people to take precautions now.",
+    "link": "https://abc7news.com/post/california-wildfires-cal-fire-urging-residents-create-defensible-space-wildfire-season-begins/19197444/",
+    "source": "ABC7 News",
+    "county": "Alameda",
+    "published": "2026-05-30T19:58:25+00:00"
   },
   {
     "title": "Capitol rioters clamor for payouts from Trump's new 'anti-weaponization' fund despite backlash",
@@ -1832,124 +2072,292 @@
     "published": "2026-05-29T20:57:04+00:00"
   },
   {
-    "title": "Concord moves forward with plan to build 12,000 homes at former Naval Weapons Station",
-    "summary": "Concord is moving forward with a project to build 12,000 homes at the former Naval Weapons Station after decades of delays. In addition to thousands of new homes, the project is also expected to include 6 million square feet of new commercial space.",
-    "link": "https://abc7news.com/post/concord-moves-forward-plan-build-12000-homes-former-naval-weapons-station/19183058/",
-    "source": "ABC7 News",
-    "county": "Contra Costa",
-    "published": "2026-05-29T20:45:32+00:00"
-  },
-  {
-    "title": "California sues 23andMe, alleging it failed to protect user data in 2023 breach",
-    "summary": "California's attorney general Rob Bonta sued the genetic testing company formerly known as 23andMe on Thursday, alleging it failed to protect sensitive user data in a 2023 breach that affected nearly 7 million people across the country.",
-    "link": "https://abc7news.com/post/california-ag-rob-bonta-sues-bay-area-genetic-testing-company-23andme-alleging-failed-protect-user-data-2023-breach/19194408/",
-    "source": "ABC7 News",
-    "county": "Bay Area",
-    "published": "2026-05-29T20:44:59+00:00"
-  },
-  {
-    "title": "3 climbers who fell near treacherous pass on Alaska's Mount McKinley are dead, 1 rescued",
-    "summary": "Three climbers on Alaska's Mount McKinley who fell near a treacherous pass on North America's tallest peak have died, a Latvian mountaineering group announced Friday.",
-    "link": "https://abc7.com/post/3-climbers-fell-treacherous-pass-alaskas-mount-mckinley-are-dead-1-rescued/19194834/",
-    "source": "ABC7 News",
-    "county": "Bay Area",
-    "published": "2026-05-29T20:13:21+00:00"
-  },
-  {
-    "title": "\ufeffFinal bell rings for 5 San Jose elementary schools permanently closing",
-    "summary": "It was the end of an era Friday for several schools in the San Jose Unified School District, as teachers and students entered classrooms for the final time before multiple campuses permanently close.",
-    "link": "https://abc7news.com/post/sjusd-closures-last-day-classes-closing-san-jose-elementary-schools/19194016/",
-    "source": "ABC7 News",
-    "county": "Santa Clara",
-    "published": "2026-05-29T20:11:54+00:00"
-  },
-  {
-    "title": "New Jersey community gathers to pray for 12-year-old baseball player critically injured before game",
-    "summary": "A New Jersey community gathered Thursday night to support 12-year-old Xavier Taylor, who remains in critical condition following an incident at a baseball game.",
-    "link": "https://abc7chicago.com/post/new-jersey-community-gathers-pray-12-year-old-xavier-taylor-maple-shade-baseball-player-injured-before-game/19192950/",
-    "source": "ABC7 News",
-    "county": "Bay Area",
-    "published": "2026-05-29T19:36:54+00:00"
-  },
-  {
-    "title": "Louisiana's new congressional map could allow GOP to pick up seat, erases Black majority district",
-    "summary": "Louisiana lawmakers on Friday approved a new congressional map that could allow Republicans to flip one of the state's two Democratic-held House seats in the 2026 midterms.",
-    "link": "https://abc7news.com/post/louisiana-approves-new-congressional-map-could-allow-republicans-pick-seat-eliminates-1-majority-black-district/19194608/",
-    "source": "ABC7 News",
-    "county": "Bay Area",
-    "published": "2026-05-29T19:30:08+00:00"
-  },
-  {
-    "title": "83-year-old Alameda woman attacked by wild turkeys as city warns residents to take precautions",
-    "summary": "One week later, and the bruises still haven't healed on 83-year-old Mary Jo Kelly's face. Last Thursday, the longtime Alameda resident was on her nightly walk when suddenly she was attacked from behind by a pair of wild turkeys. Now the city is warning others to take precautions.",
-    "link": "https://abc7news.com/post/83-year-old-alameda-woman-attacked-wild-turkeys-city-warns-residents-take-precautions-during-mating-season/19190785/",
-    "source": "ABC7 News",
+    "title": "Fire breaks out near Dublin furniture store",
+    "summary": "The Alameda County Fire Department logo, serving Alameda County, California. (Alameda County Fire Department via Bay City News)",
+    "link": "https://www.nbcbayarea.com/east-bay-2/fire-breaks-out-at-dublin-furniture-store/4092128/",
+    "source": "NBC Bay Area",
     "county": "Alameda",
-    "published": "2026-05-29T19:16:50+00:00"
+    "published": "2026-05-30T10:55:51+00:00"
   },
   {
-    "title": "National Geographic's 'Time and Water' is a love letter to Iceland's melting glaciers",
-    "summary": "National Geographic's \"Time and Water\" weaves together the family memories of a renowned Icelandic poet with the story of the country's disappearing glaciers. The documentary will be in New York theaters May 29 and in LA and San Francisco June 5.",
-    "link": "https://abc7.com/post/national-geographics-time-water-is-love-letter-icelands-melting-glaciers/19176688/",
-    "source": "ABC7 News",
+    "title": "San Jose garage fire displaces family, kills dog",
+    "summary": "San Jose Fire Department logo.",
+    "link": "https://www.nbcbayarea.com/news/local/south-bay/san-jose-garage-fire-displaces-family-kills-dog/4092112/",
+    "source": "NBC Bay Area",
+    "county": "Santa Clara",
+    "published": "2026-05-30T10:02:45+00:00"
+  },
+  {
+    "title": "Car collides with truck and flies off overpass in SF",
+    "summary": "A close-up of a CHP vehicle",
+    "link": "https://www.nbcbayarea.com/news/local/san-francisco/car-collides-with-truck-and-flies-off-overpass-in-sf/4092067/",
+    "source": "NBC Bay Area",
     "county": "San Francisco",
-    "published": "2026-05-29T19:00:10+00:00"
+    "published": "2026-05-30T08:24:10+00:00"
   },
   {
-    "title": "Lawsuit accuses Vallejo police of using excessive force during false arrest",
-    "summary": "The lawsuit alleges that Vallejo police officers Rosendo Mesa and Jeremy Callahan misidentified Ronnie Lewis as a suspect in the carjacking of an unhoused person\u2019s car in 2024",
-    "link": "https://www.vallejosun.com/lawsuit-accuses-vallejo-police-of-using-excessive-force-during-false-arrest/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-28T21:00:58+00:00"
+    "title": "Trump to headline \u2018Great American State Fair' after artists drop out",
+    "summary": "U.S. President Donald Trump dances on stage after delivering remarks during a campaign and economic policy event on May 22, 2026 in Suffern, New York.",
+    "link": "https://www.nbcbayarea.com/news/politics/president-trump/trump-headline-great-american-state-fair-artists-drop-out/4091962/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-30T01:33:47+00:00"
   },
   {
-    "title": "Upcoming Vallejo Events \u2014 Rappin' 4-Tay at Noble Cinema Studios",
-    "summary": "Plus, On The Fringe Junior opens the play Madagascar Jr at the Odd Fellows Hall.",
-    "link": "https://www.vallejosun.com/upcoming-vallejo-events-rappin-4-tay-at-noble-cinema-studios/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-27T20:00:08+00:00"
+    "title": "Woman found dead in Berkeley apartment",
+    "summary": "Foto de archivo.",
+    "link": "https://www.nbcbayarea.com/news/local/east-bay/woman-found-dead-in-berkeley-apartment/4092031/",
+    "source": "NBC Bay Area",
+    "county": "Alameda",
+    "published": "2026-05-30T06:40:12+00:00"
   },
   {
-    "title": "Vallejo to eliminate at least three crosswalks on busy Tennessee Street",
-    "summary": "A city spokeperson said the city was removing the crosswalks \u201cdue to numerous vehicle vs. pedestrian collisions.\"",
-    "link": "https://www.vallejosun.com/vallejo-to-eliminate-at-least-three-crosswalks-on-busy-tennessee-street/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-26T19:52:47+00:00"
+    "title": "Two juveniles on E-scooter injured in hit-and-run",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/two-teens-on-e-scooter-injured-in-hit-and-run/4092017/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-30T06:11:17+00:00"
   },
   {
-    "title": "Fairfield police reassign officer seen punching high school student on video, launch investigation",
-    "summary": "Fairfield police Chief Dan Marshall apologized for the incident, which he said caused \u201cdivision and concern within our community.\u201d",
-    "link": "https://www.vallejosun.com/fairfield-police-reassign-officer-seen-punching-high-school-student-on-video-launch-investigation/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-23T21:54:12+00:00"
+    "title": "Spurs upset Thunder in Game 7 to advance to NBA Finals against Knicks",
+    "summary": "Victor Wembanyama of the San Antonio Spurs celebrates during the game against the Oklahoma City Thunder during Game Seven of the NBA Western Conference Finals on May 30, 2026 at Paycom Center in Oklahoma City, Oklahoma.",
+    "link": "https://www.nbcbayarea.com/nba/spurs-upset-thunder-in-game-advance-to-nba-finals-against-knicks/4092049/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-30T08:07:28+00:00"
   },
   {
-    "title": "Early morning blaze destroys long-shuttered Vallejo school",
-    "summary": "The Grant School had been been closed since 1989.",
-    "link": "https://www.vallejosun.com/early-morning-blaze-destroys-long-shuttered-vallejo-school/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-23T21:44:21+00:00"
+    "title": "Teen driver charged with DUI, driving without a license",
+    "summary": "Santa Rosa Police responds to car into ditch Friday morning",
+    "link": "https://www.nbcbayarea.com/news/teen-driver-charged-with-dui-driving-without-a-license/4091980/",
+    "source": "NBC Bay Area",
+    "county": "Sonoma",
+    "published": "2026-05-30T05:17:53+00:00"
   },
   {
-    "title": "Video shows Fairfield officer punching high school student in the face",
-    "summary": "Fairfield police confirmed the arrest of two Fairfield high school students Wednesday.",
-    "link": "https://www.vallejosun.com/video-shows-fairfield-officer-punching-high-school-student-in-the-face/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-22T00:50:41+00:00"
+    "title": "World Cup preparations ramp up across Santa Clara and San Jose",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/world-cup-preparations-santa-clara-san-jose/4092000/",
+    "source": "NBC Bay Area",
+    "county": "Santa Clara",
+    "published": "2026-05-30T06:30:30+00:00"
   },
   {
-    "title": "Upcoming Vallejo Events \u2014  Punk rock festival at the Odd Fellows Hall",
-    "summary": "Memorial Day Ceremonies will be held at the Mare Island Cemetery and at the Vallejo Warriors' Memorial behind City Hall",
-    "link": "https://www.vallejosun.com/upcoming-vallejo-events-punk-rock-festival-at-the-odd-fellows-hall/",
-    "source": "Vallejo Sun",
-    "county": "Solano",
-    "published": "2026-05-20T20:00:00+00:00"
+    "title": "Alameda County urges voters to cast ballots before Election Day",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/alameda-county-early-voting/4091992/",
+    "source": "NBC Bay Area",
+    "county": "Alameda",
+    "published": "2026-05-30T06:32:06+00:00"
+  },
+  {
+    "title": "Rabid bat found on Fremont sidewalk prompts health warning",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/bat-rabies-fremont/4092006/",
+    "source": "NBC Bay Area",
+    "county": "Alameda",
+    "published": "2026-05-30T06:28:57+00:00"
+  },
+  {
+    "title": "Becerra leads race for governor, Hilton and Steyer in close race for second, poll shows",
+    "summary": "WASHINGTON, DC \u2013 NOVEMBER 20: Xavier Becerra speaks during a hearing on Capitol Hill on November 20, 2024 in Washington, DC. Becerra was giving testimony regarding oversight at HHS\u2019s Refugee Resettlement Office. (Photo by Tasos Katopodis/Getty Images)",
+    "link": "https://www.nbcbayarea.com/news/local/becerra-hilton-steyer-california-governor-polls-election/4091398/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-29T05:50:33+00:00"
+  },
+  {
+    "title": "Meta to slash more Bay Area jobs",
+    "summary": "Meta\u2019s logo is seen on a sign at the company\u2019s headquarters in Menlo Park, Calif., Nov. 9, 2022.",
+    "link": "https://www.nbcbayarea.com/news/local/meta-more-bay-area-layoffs/4091585/",
+    "source": "NBC Bay Area",
+    "county": "San Mateo",
+    "published": "2026-05-29T04:47:14+00:00"
+  },
+  {
+    "title": "Oakland Police Department welcomes 17 new officers to the force",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/oakland-police-department-academy-graduation/4091570/",
+    "source": "NBC Bay Area",
+    "county": "Alameda",
+    "published": "2026-05-29T05:12:25+00:00"
+  },
+  {
+    "title": "Layoffs hit Bay Area workers with disabilities",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/layoffs-bay-area-workers-with-disabilities/4091574/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-29T05:23:13+00:00"
+  },
+  {
+    "title": "Candidates eyeing Pelosi's congressional seat set to make final pitches to voters",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/candidates-pelosi-congressional-seat-campaigning/4091588/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-29T05:09:19+00:00"
+  },
+  {
+    "title": "SFFD top aide retires, repays firefighters' union",
+    "summary": "FILE: San Francisco Fire Department truck.",
+    "link": "https://www.nbcbayarea.com/news/local/sffd-top-aide-retires-repays-firefighters-union/4091619/",
+    "source": "NBC Bay Area",
+    "county": "San Francisco",
+    "published": "2026-05-29T04:58:03+00:00"
+  },
+  {
+    "title": "San Jose father gets 25 years to life for killing infant daughter",
+    "summary": "A court gavel",
+    "link": "https://www.nbcbayarea.com/news/local/san-jose-father-sentenced-murder/4091559/",
+    "source": "NBC Bay Area",
+    "county": "Santa Clara",
+    "published": "2026-05-29T02:27:20+00:00"
+  },
+  {
+    "title": "Planning to visit Yosemite National Park this summer? Be prepared for big crowds",
+    "summary": "People gather at Glacier Point to watch the sun set over Half Dome in Yosemite National Park on Sunday, May 17, 2026 in Yosemite, CA.",
+    "link": "https://www.nbcbayarea.com/news/california/yosemite-national-park-summer-crowds/4091504/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-29T12:20:16+00:00"
+  },
+  {
+    "title": "Vendors outside San Jose church say police are harassing them over city codes",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/san-jose-street-vendors-police-harassment-complaints/4090985/",
+    "source": "NBC Bay Area",
+    "county": "Santa Clara",
+    "published": "2026-05-29T09:10:43+00:00"
+  },
+  {
+    "title": "Valkyries clinch a win over Fever in yet another sold-out Chase Center game",
+    "summary": "Gabby Williams #1 of the Golden State Valkyries is guarded by Caitlin Clark #22 of the Indiana Fever at Chase Center on May 28, 2026 in San Francisco, California.",
+    "link": "https://www.nbcbayarea.com/news/local/valkyries-fever-chase-center/4091254/",
+    "source": "NBC Bay Area",
+    "county": "San Francisco",
+    "published": "2026-05-29T09:57:44+00:00"
+  },
+  {
+    "title": "Arrest made in Redwood City hit and run that killed woman",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/redwood-city-hit-and-run-arrest/4091345/",
+    "source": "NBC Bay Area",
+    "county": "San Mateo",
+    "published": "2026-05-29T07:05:48+00:00"
+  },
+  {
+    "title": "Surfer dies after rescue off San Francisco's Ocean Beach",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/surfer-dies-san-francisco-ocean-beach/4091277/",
+    "source": "NBC Bay Area",
+    "county": "San Francisco",
+    "published": "2026-05-29T05:44:04+00:00"
+  },
+  {
+    "title": "Alameda County supervisors approve new term sheet for sale of Coliseum property",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/local/alameda-county-term-sheet-sale-coliseum-property/4091192/",
+    "source": "NBC Bay Area",
+    "county": "Alameda",
+    "published": "2026-05-28T07:03:18+00:00"
+  },
+  {
+    "title": "\u2018Sadness and anger': Northern California animal rescue accused of killing dogs for profit",
+    "summary": "",
+    "link": "https://www.nbcbayarea.com/news/california/northern-california-animal-rescue-investigation/4091164/",
+    "source": "NBC Bay Area",
+    "county": "Bay Area",
+    "published": "2026-05-28T06:05:22+00:00"
+  },
+  {
+    "title": "1 dead, 3 injured in San Francisco after car falls 25 feet off freeway in crash, CHP says",
+    "summary": "One person is dead and three others were injured after a car crashed off Interstate 80 and landed on its roof in San Francisco early Saturday morning, authorities said.",
+    "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-i-80-7th-street-deadly-crash-camaro/",
+    "source": "CBS San Francisco",
+    "county": "San Francisco",
+    "published": "2026-05-31T06:16:16+00:00"
+  },
+  {
+    "title": "Teen killed in crash along Interstate 80 in San Francisco",
+    "summary": "One person is dead and three others were injured after a car crashed off Interstate 80 and landed on its roof in San Francisco early Saturday morning, authorities said.",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/teen-killed-in-crash-along-interstate-80-in-san-francisco/",
+    "source": "CBS San Francisco",
+    "county": "San Francisco",
+    "published": "2026-05-31T06:12:00+00:00"
+  },
+  {
+    "title": "Hilton, Steyer and Becerra make final pitch to Bay Area voters ahead of primary",
+    "summary": "Gubernatorial candidates Tom Steyer, Steve Hilton and Xavier Becerra were in the Bay Area to make their final pitch to voters ahead of the primary election.",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/hilton-steyer-and-becerra-make-final-pitch-to-bay-area-voters-ahead-of-primary/",
+    "source": "CBS San Francisco",
+    "county": "Bay Area",
+    "published": "2026-05-31T06:06:00+00:00"
+  },
+  {
+    "title": "Jake McCarthy hits 2-run homer, drives in 4 runs in the Rockies' 8-3 win over the Giants",
+    "summary": "Jake McCarthy had a two-run homer and two RBIs singles, Kyle Karros also homered and the Colorado Rockies had 14 hits in an 8-3 victory over the San Francisco Giants on Saturday night.",
+    "link": "https://www.cbsnews.com/sanfrancisco/news/jake-mccarthy-homer-rockies-8-3-win-over-the-giants/",
+    "source": "CBS San Francisco",
+    "county": "San Francisco",
+    "published": "2026-05-31T04:29:52+00:00"
+  },
+  {
+    "title": "As California primary nears, some San Francisco voters say governor's race feels crowded",
+    "summary": "With just days remaining before California's June 2 primary election, voter turnout remains relatively low statewide, even as election officials encourage residents to cast their ballots before Tuesday's deadline.",
+    "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-voters-governors-race-upcoming-primary/",
+    "source": "CBS San Francisco",
+    "county": "San Francisco",
+    "published": "2026-05-31T04:25:45+00:00"
+  },
+  {
+    "title": "First Alert Saturday evening weather forecast - 5/30/2026",
+    "summary": "Here's a look at the weather forecast Saturday evening.",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/first-alert-saturday-evening-weather-forecast-5302026/",
+    "source": "CBS San Francisco",
+    "county": "Bay Area",
+    "published": "2026-05-31T02:56:00+00:00"
+  },
+  {
+    "title": "Checking in on San Francisco voters as primary election nears",
+    "summary": "Da Lin talked to some San Francisco voters about how they feel heading into the June primary.",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/checking-in-on-san-francisco-voters-as-primary-election-nears/",
+    "source": "CBS San Francisco",
+    "county": "San Francisco",
+    "published": "2026-05-31T02:40:00+00:00"
+  },
+  {
+    "title": "Bay Area's R&B and Ribs gathering grows into global movement",
+    "summary": "What began as a Bay Area gathering centered on music, food and community has grown into a global movement.",
+    "link": "https://www.cbsnews.com/sanfrancisco/news/bay-areas-rb-and-ribs-gathering-global-movement/",
+    "source": "CBS San Francisco",
+    "county": "Bay Area",
+    "published": "2026-05-31T02:37:18+00:00"
+  },
+  {
+    "title": "Bay Area celebration that combines music and culture grows into global movement",
+    "summary": "What began as a Bay Area gathering centered on music, food and community has grown into a global movement.",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/bay-area-celebration-that-combines-music-and-culture-grows-into-global-movement/",
+    "source": "CBS San Francisco",
+    "county": "Bay Area",
+    "published": "2026-05-31T02:17:00+00:00"
+  },
+  {
+    "title": "After repeatedly voting to raise taxes, Oakland voters to decide on parcel tax",
+    "summary": "On Tuesday, voters in Oakland will decide whether to approve Measure E, a parcel tax being pushed by local employee unions.",
+    "link": "https://www.cbsnews.com/sanfrancisco/news/oakland-measure-e-parcel-tax/",
+    "source": "CBS San Francisco",
+    "county": "Alameda",
+    "published": "2026-05-31T00:54:45+00:00"
+  },
+  {
+    "title": "Oakland's Measure E on parcel tax stirs up debate",
+    "summary": "Oakland has faced chronic budget deficits in recent years and residents have voted repeatedly to raise their taxes in order to preserve public safety. \u00a0Measure E is the latest initiative. \u00a0Proponents say it will stabilize the city's finances. \u00a0Opponents say they've heard that all before.",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/oaklands-measure-e-on-parcel-tax-stirs-up-debate/",
+    "source": "CBS San Francisco",
+    "county": "Alameda",
+    "published": "2026-05-31T00:15:00+00:00"
   },
   {
     "title": "New photo collection of Beatles' final concert at Candlestick to be released",
@@ -2029,7 +2437,7 @@
     "link": "https://www.cbsnews.com/sanfrancisco/news/trump-executive-order-cdc-childhood-vaccines/",
     "source": "CBS San Francisco",
     "county": "Bay Area",
-    "published": "2026-05-30T01:24:02+00:00"
+    "published": "2026-05-30T01:24:00+00:00"
   },
   {
     "title": "Oakland business leaders hope $2 parking will revitalize Chinatown",
@@ -2064,364 +2472,172 @@
     "published": "2026-05-30T00:59:36+00:00"
   },
   {
-    "title": "California lawmakers advance proposal to make it easier to convert cars to E-85 fuel",
-    "summary": "As gas prices soar, state lawmakers are advancing a proposal that would make it easier for California drivers to convert vehicles to run on a cheaper fuel blend known as E-85.",
-    "link": "https://www.cbsnews.com/sanfrancisco/video/california-lawmakers-advance-proposal-to-make-it-easier-to-convert-cars-to-e-85-fuel/",
-    "source": "CBS San Francisco",
+    "title": "Residents of closing Napa homeless shelter offered up to $700 to move out early",
+    "summary": "Homeless people living in a former motel known as North Napa Shelter, closing June 30, have been offered gift cards if they move out by June 25. Earlier is better. The payout is tiered by departure date: $700 for those who vacate June 1-10; $500 for June 11-15, and $250 for June 16-25. &#8220;No gift [&#8230;]\nThe post Residents of closing Napa homeless shelter offered up to $700 to move out early appeared first on Local News Matters.",
+    "link": "https://localnewsmatters.org/2026/05/31/residents-of-closing-napa-homeless-shelter-offered-up-to-700-to-move-out-early/",
+    "source": "Local News Matters",
+    "county": "Napa",
+    "published": "2026-05-31T14:00:00+00:00"
+  },
+  {
+    "title": "University of the Pacific plans medical school to tackle Central Valley doctor shortage",
+    "summary": "ON A LAWN at California\u2019s oldest university, leaders from education, health care and politics gathered Thursday morning to announce a project they said could reshape the future of medical care in the Central Valley: a new medical school in Stockton. University of the Pacific announced&#160;plans to open a School of Medicine&#160;on its Stockton campus, establishing [&#8230;]\nThe post University of the Pacific plans medical school to tackle Central Valley doctor shortage appeared first on Local N",
+    "link": "https://localnewsmatters.org/2026/05/31/university-of-the-pacific-plans-medical-school-to-tackle-central-valley-doctor-shortage/",
+    "source": "Local News Matters",
     "county": "Bay Area",
-    "published": "2026-05-30T00:40:00+00:00"
+    "published": "2026-05-31T10:00:00+00:00"
   },
   {
-    "title": "First Alert Friday evening weather forecast - 5/29/2026",
-    "summary": "Here's a look at the weather forecast Friday evening.",
-    "link": "https://www.cbsnews.com/sanfrancisco/video/first-alert-friday-evening-weather-forecast-5292026/",
-    "source": "CBS San Francisco",
-    "county": "Bay Area",
-    "published": "2026-05-30T00:25:00+00:00"
+    "title": "Inside the Liquidity Summit: Private investor group plans \u2018takeover\u2019 of Yountville",
+    "summary": "A group of private investors plans a &#8220;full-town takeover&#8221; of Yountville as it commandeers the heart of the community for four days of meetings beginning Sunday. The event, known as the Liquidity Summit, will close the Napa County town&#8217;s Community Center to the public through Wednesday, increase traffic and limit parking, the city said in [&#8230;]\nThe post Inside the Liquidity Summit: Private investor group plans &#8216;takeover&#8217; of Yountville appeared first on Local News",
+    "link": "https://localnewsmatters.org/2026/05/30/inside-the-liquidity-summit-private-investor-group-plans-takeover-of-yountville/",
+    "source": "Local News Matters",
+    "county": "Napa",
+    "published": "2026-05-31T06:00:00+00:00"
   },
   {
-    "title": "San Francisco fisherman hospitalized after sneaker wave pulls him into ocean",
-    "summary": "A fisherman is hospitalized after he was swept into the ocean in San Francisco on Friday afternoon, fire officials said.",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-fisherman-hospitalized-sneaker-wave/",
-    "source": "CBS San Francisco",
-    "county": "San Francisco",
-    "published": "2026-05-30T00:22:07+00:00"
-  },
-  {
-    "title": "Comedian Phil Medina returns as headliner to San Jose stage where his career began",
-    "summary": "One of the Bay Area's most recognizable comedy venues is preparing for another packed night of stand-up as comedian Phil Medina returns to the stage where his career began.",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/comedian-phil-medina-returns-san-jose-headliner/",
-    "source": "CBS San Francisco",
-    "county": "Santa Clara",
-    "published": "2026-05-30T00:19:02+00:00"
-  },
-  {
-    "title": "San Francisco fisherman hospitalized after sneaker wave sweeps him into ocean",
-    "summary": "A fisherman is hospitalized after he was swept into the ocean in San Francisco on Friday afternoon, fire officials said.",
-    "link": "https://www.cbsnews.com/sanfrancisco/video/san-francisco-fisherman-hospitalized-after-sneaker-wave-sweeps-him-into-ocean/",
-    "source": "CBS San Francisco",
-    "county": "San Francisco",
-    "published": "2026-05-30T00:14:00+00:00"
-  },
-  {
-    "title": "What to expect in the South Bay as World Cup approaches",
-    "summary": "Soccer fans are expected to pour into the Bay Area as the World Cup is just two weeks ago.",
-    "link": "https://www.cbsnews.com/sanfrancisco/video/what-to-expect-in-the-south-bay-as-world-cup-approaches/",
-    "source": "CBS San Francisco",
-    "county": "Bay Area",
-    "published": "2026-05-30T00:11:00+00:00"
-  },
-  {
-    "title": "Blue Origin explosion threatens to delay NASA's moon program",
-    "summary": "Blue Origin assess the impact of Thursday's New Glenn explosion, prompting concern about NASA moon program delays.",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/blue-origin-explosion-threatens-delays-for-nasas-moon-program/",
-    "source": "CBS San Francisco",
-    "county": "Bay Area",
-    "published": "2026-05-30T00:09:18+00:00"
-  },
-  {
-    "title": "San Jose comedian Phil Medina returns home as headliner at iconic venue",
-    "summary": "Phil Medina is returning to the stage in San Jose, this time as a headliner.",
-    "link": "https://www.cbsnews.com/sanfrancisco/video/san-jose-comedian-phil-medina-returns-home-as-headliner-at-iconic-venue/",
-    "source": "CBS San Francisco",
-    "county": "Santa Clara",
-    "published": "2026-05-29T23:46:00+00:00"
-  },
-  {
-    "title": "Dead gray whale found in water off San Leandro",
-    "summary": "Officials in San Leandro are urging residents to avoid a portion of the Bay Trail after a dead gray whale washed ashore.",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/san-leandro-dead-gray-whale-bay-trail-marina-park/",
-    "source": "CBS San Francisco",
-    "county": "Bay Area",
-    "published": "2026-05-29T21:59:34+00:00"
-  },
-  {
-    "title": "California's \"Diapergate\": Critics got free diaper math wrong, but state won't release key Baby2Baby records",
-    "summary": "A CBS News California fact-check found the state's free diaper program won't cost taxpayers 50 cents per diaper, as viral posts claimed. But the Newsom administration still won't release the Baby2Baby contract or competitive bid records amid concerns free diapers could go to waste.",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/california-diaper-gate-taxpayer-costs-fact-check/",
-    "source": "CBS San Francisco",
-    "county": "Bay Area",
-    "published": "2026-05-29T20:53:00+00:00"
-  },
-  {
-    "title": "Former Arcadia mayor pleads guilty to acting as agent for China",
-    "summary": "Former Arcadia mayor Eileen Wang pleaded guilty to one count of acting in the U.S. as an illegal agent of a foreign government.",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/arcadia-mayor-eileen-wang-pleads-guilty-acting-agent-for-china/",
-    "source": "CBS San Francisco",
-    "county": "Bay Area",
-    "published": "2026-05-29T20:20:43+00:00"
-  },
-  {
-    "title": "Becerra leads race for governor, Hilton and Steyer in close race for second, poll shows",
-    "summary": "WASHINGTON, DC \u2013 NOVEMBER 20: Xavier Becerra speaks during a hearing on Capitol Hill on November 20, 2024 in Washington, DC. Becerra was giving testimony regarding oversight at HHS\u2019s Refugee Resettlement Office. (Photo by Tasos Katopodis/Getty Images)",
-    "link": "https://www.nbcbayarea.com/news/local/becerra-hilton-steyer-california-governor-polls-election/4091398/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-29T05:50:33+00:00"
-  },
-  {
-    "title": "Meta to slash more Bay Area jobs",
-    "summary": "Meta\u2019s logo is seen on a sign at the company\u2019s headquarters in Menlo Park, Calif., Nov. 9, 2022.",
-    "link": "https://www.nbcbayarea.com/news/local/meta-more-bay-area-layoffs/4091585/",
-    "source": "NBC Bay Area",
-    "county": "San Mateo",
-    "published": "2026-05-29T04:47:14+00:00"
-  },
-  {
-    "title": "Oakland Police Department welcomes 17 new officers to the force",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/oakland-police-department-academy-graduation/4091570/",
-    "source": "NBC Bay Area",
+    "title": "4 charged in utility wire thefts that caused outages to thousands in Fremont",
+    "summary": "Four suspects have been charged with vandalizing and stealing utility wires earlier this month in Fremont, causing outages to thousands of customers. On May 9, several suspects allegedly cut down fiber-optic and coaxial cables in the 2100 block of Peralta Boulevard, Fremont police said in a news release. The cuts caused about $50,000 in damages [&#8230;]\nThe post 4 charged in utility wire thefts that caused outages to thousands in Fremont appeared first on Local News Matters.",
+    "link": "https://localnewsmatters.org/2026/05/30/fremont-utility-wire-theft-charges/",
+    "source": "Local News Matters",
     "county": "Alameda",
-    "published": "2026-05-29T05:12:25+00:00"
+    "published": "2026-05-31T04:00:00+00:00"
   },
   {
-    "title": "Four more men rescued from flooded cave after becoming trapped while searching for gold",
-    "summary": "In this handout image provided by the Metta Tham Kalasin Rescue Unit, specialist divers work to rescue a group of seven Lao nationals trapped in a cave on May 29, 2026 in Xaisomboun, Laos.",
-    "link": "https://www.nbcbayarea.com/news/national-international/four-more-men-rescued-from-flooded-cave-laos/4091895/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-30T07:47:18+00:00"
-  },
-  {
-    "title": "Layoffs hit Bay Area workers with disabilities",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/layoffs-bay-area-workers-with-disabilities/4091574/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-29T05:23:13+00:00"
-  },
-  {
-    "title": "Candidates eyeing Pelosi's congressional seat set to make final pitches to voters",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/candidates-pelosi-congressional-seat-campaigning/4091588/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-29T05:09:19+00:00"
-  },
-  {
-    "title": "Joan Cusack poses on red carpet for the first time since 2015 for \u2018Toy Story 5'",
-    "summary": "Joan Cusack poses upon arrival to attend the red carpet for the UK launch event of the film \u2018Toy Story 5\u2019 in London on May 28, 2026.",
-    "link": "https://www.nbcbayarea.com/entertainment/entertainment-news/joan-cusack-poses-red-carpet-first-time-since-2015-toy-story-5/4091890/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-30T05:51:57+00:00"
-  },
-  {
-    "title": "SFFD top aide retires, repays firefighters' union",
-    "summary": "FILE: San Francisco Fire Department truck.",
-    "link": "https://www.nbcbayarea.com/news/local/sffd-top-aide-retires-repays-firefighters-union/4091619/",
-    "source": "NBC Bay Area",
+    "title": "\u201cNo Hidden Rent\u201d: SF supervisor proposes bill requiring disclosure of total rental costs",
+    "summary": "San Francisco Supervisor Bilal Mahmood announced plans Thursday to introduce legislation that would require landlords to disclose the full monthly cost of renting a unit in advertisements and lease agreements. The proposed &#8220;No Hidden Rent Act&#8221; would require rental listings to prominently display a &#8220;Total Estimated Cost&#8221; alongside the base rent and itemize recurring charges [&#8230;]\nThe post \u201cNo Hidden Rent\u201d: SF supervisor proposes bill requiring disclosure of total renta",
+    "link": "https://localnewsmatters.org/2026/05/30/no-hidden-rent-sf-supervisor-proposes-bill-requiring-disclosure-of-total-rental-costs/",
+    "source": "Local News Matters",
     "county": "San Francisco",
-    "published": "2026-05-29T04:58:03+00:00"
+    "published": "2026-05-31T01:00:00+00:00"
   },
   {
-    "title": "San Jose father gets 25 years to life for killing infant daughter",
-    "summary": "A court gavel",
-    "link": "https://www.nbcbayarea.com/news/local/san-jose-father-sentenced-murder/4091559/",
-    "source": "NBC Bay Area",
-    "county": "Santa Clara",
-    "published": "2026-05-29T02:27:20+00:00"
-  },
-  {
-    "title": "Planning to visit Yosemite National Park this summer? Be prepared for big crowds",
-    "summary": "People gather at Glacier Point to watch the sun set over Half Dome in Yosemite National Park on Sunday, May 17, 2026 in Yosemite, CA.",
-    "link": "https://www.nbcbayarea.com/news/california/yosemite-national-park-summer-crowds/4091504/",
-    "source": "NBC Bay Area",
+    "title": "Khamis: Air district\u2019s gas appliance ban will hurt families; pushes costly, punitive rules",
+    "summary": "THE BAY AREA AIR DISTRICT is charging ahead with a natural gas appliance ban that is as impractical as it is punitive. Despite legitimate concerns over implementation, costs and confusing exemptions, the board\u2019s recent meeting on May 13 proved that the voices of 7.7 million residents are falling on deaf ears. This&#160;looming mandate, set to [&#8230;]\nThe post Khamis: Air district\u2019s gas appliance ban will hurt families; pushes costly, punitive rules appeared first on Local News Matters.",
+    "link": "https://localnewsmatters.org/2026/05/30/khamis-air-districts-gas-appliance-ban-will-hurt-families-pushes-costly-punitive-rules/",
+    "source": "Local News Matters",
     "county": "Bay Area",
-    "published": "2026-05-29T12:20:16+00:00"
+    "published": "2026-05-30T23:00:00+00:00"
   },
   {
-    "title": "Vendors outside San Jose church say police are harassing them over city codes",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/san-jose-street-vendors-police-harassment-complaints/4090985/",
-    "source": "NBC Bay Area",
-    "county": "Santa Clara",
-    "published": "2026-05-29T09:10:43+00:00"
-  },
-  {
-    "title": "Valkyries clinch a win over Fever in yet another sold-out Chase Center game",
-    "summary": "Gabby Williams #1 of the Golden State Valkyries is guarded by Caitlin Clark #22 of the Indiana Fever at Chase Center on May 28, 2026 in San Francisco, California.",
-    "link": "https://www.nbcbayarea.com/news/local/valkyries-fever-chase-center/4091254/",
-    "source": "NBC Bay Area",
-    "county": "San Francisco",
-    "published": "2026-05-29T09:57:44+00:00"
-  },
-  {
-    "title": "Arrest made in Redwood City hit and run that killed woman",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/redwood-city-hit-and-run-arrest/4091345/",
-    "source": "NBC Bay Area",
-    "county": "San Mateo",
-    "published": "2026-05-29T07:05:48+00:00"
-  },
-  {
-    "title": "Surfer dies after rescue off San Francisco's Ocean Beach",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/surfer-dies-san-francisco-ocean-beach/4091277/",
-    "source": "NBC Bay Area",
-    "county": "San Francisco",
-    "published": "2026-05-29T05:44:04+00:00"
-  },
-  {
-    "title": "Alameda County supervisors approve new term sheet for sale of Coliseum property",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/alameda-county-term-sheet-sale-coliseum-property/4091192/",
-    "source": "NBC Bay Area",
+    "title": "June 2026 author events:\u00a0Dusty Baker, Cory Doctorow, Dave Eggers, Andrew Sean Greer, Matt Haig, J.P. Lacrampe, Ama Ofosua Lieb, Joan Lunden, Barry Walters, Jonathan Weber",
+    "summary": "A good handful of Bay Area\u00a0literary, journalistic and cultural\u00a0stalwarts are speaking about their new releases, both fiction and nonfiction, this month.\u00a0A few celebrities with national recognition will be in town to share their new titles, too.\u00a0To\u00a0submit\u00a0an event to the calendar, email\u00a0books@baycitynews.com.\u00a0\u00a0\u00a0\u00a0 June 1&#160;&#160; Jeremy Lent:&#160;The Berkeley activist, author of \u201cThe Patterning Instinct\u201d and \u201cThe Web [&#8230;]\nThe post June 2026 author events:\u00a0Dusty Baker, Cory Doctorow, Dave ",
+    "link": "https://localnewsmatters.org/2026/05/30/june-2026-author-events-dusty-baker-cory-doctorow-dave-eggers-andrew-sean-greer-matt-haig-j-p-lacrampe-ama-ofosua-lieb-joan-lunden-barry-walters-jonathan-weber/",
+    "source": "Local News Matters",
     "county": "Alameda",
-    "published": "2026-05-28T07:03:18+00:00"
+    "published": "2026-05-30T22:54:42+00:00"
   },
   {
-    "title": "\u2018Sadness and anger': Northern California animal rescue accused of killing dogs for profit",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/california/northern-california-animal-rescue-investigation/4091164/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-28T06:05:22+00:00"
-  },
-  {
-    "title": "Stanford dropouts raise nearly $10M to launch AI-driven dating app",
-    "summary": "Close\nEver feel exhausted by swiping through dating apps? You might be experiencing burnout.",
-    "link": "https://www.nbcbayarea.com/news/local/stanford-known-dating-app-ai/4091043/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-28T03:31:41+00:00"
-  },
-  {
-    "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
-    "summary": "In this photo illustration, Claude AI logo is seen on a smartphone and Anthropic logo on a pc screen. (Photo Illustration by Pavlo Gonchar/SOPA Images/LightRocket via Getty Images)",
-    "link": "https://www.nbcbayarea.com/news/local/anthropic-valuation-claude-demand/4090979/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-28T01:04:35+00:00"
-  },
-  {
-    "title": "3 injured after small plane crashes at Sonoma Valley Airport",
-    "summary": "Three people were injured on Wednesday, May 27, 2026, after a small plane crashed while trying to land at Sonoma Valley Airport, authorities said.",
-    "link": "https://www.nbcbayarea.com/news/local/small-plane-crash-sonoma-valley-airport/4090938/",
-    "source": "NBC Bay Area",
-    "county": "Sonoma",
-    "published": "2026-05-28T11:46:03+00:00"
-  },
-  {
-    "title": "Google employee charged with using confidential search data to make $1.2 million on Polymarket",
-    "summary": "A smartphone screen displays the Google app logo, with the Google brand logo in the background.",
-    "link": "https://www.nbcbayarea.com/news/local/google-employee-charged/4090874/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-28T11:26:43+00:00"
-  },
-  {
-    "title": "California Democrats shrug at their choices in packed race to replace Newsom",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/california/california-democrats-choices-governor-race/4090738/",
-    "source": "NBC Bay Area",
-    "county": "Bay Area",
-    "published": "2026-05-28T11:19:45+00:00"
-  },
-  {
-    "title": "68-year-old landlord arrested, charged in deadly San Francisco shooting",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/arrest-deadly-shooting-san-francisco-sunset-district/4090918/",
-    "source": "NBC Bay Area",
-    "county": "San Francisco",
-    "published": "2026-05-28T11:10:57+00:00"
-  },
-  {
-    "title": "Los Gatos mom sentenced to over 35 years for throwing alcohol-fueled underage parties",
-    "summary": "",
-    "link": "https://www.nbcbayarea.com/news/local/los-gatos-mom-sentenced-underage-parties/4090878/",
-    "source": "NBC Bay Area",
+    "title": "\u2018The city needs to do something\u2019: East San Jose neighborhood hit by stray golf balls",
+    "summary": "FOR RESIDENTS LIVING next to Rancho del Pueblo Golf Course in East San Jose, errant golf balls flying over the course\u2019s catch nets and into the surrounding neighborhoods is a fact of life. \u201cI kept the basket on my patio, so when the golf balls came through, I collected them,\u201d Donnette, a resident living in [&#8230;]\nThe post &#8216;The city needs to do something&#8217;: East San Jose neighborhood hit by stray golf balls appeared first on Local News Matters.",
+    "link": "https://localnewsmatters.org/2026/05/30/the-city-needs-to-do-something-east-san-jose-neighborhood-hit-by-stray-golf-balls/",
+    "source": "Local News Matters",
     "county": "Santa Clara",
-    "published": "2026-05-28T10:21:25+00:00"
+    "published": "2026-05-30T21:00:00+00:00"
   },
   {
-    "title": "Rain, chance of thunderstorms in forecast for Bay Area",
-    "summary": "Visitors take in city views at Hyde and Lombard streets as rain begins to soak the Bay Area in San Francisco on Sunday, Feb. 15, 2026.",
-    "link": "https://www.nbcbayarea.com/weather/rain-chance-of-thunderstorms-in-forecast-for-bay-area/4090850/",
-    "source": "NBC Bay Area",
-    "county": "San Francisco",
-    "published": "2026-05-28T08:34:34+00:00"
+    "title": "What would get Gen Z to vote in California\u2019s primary? These candidates are trying",
+    "summary": "DESPITE MAKING UP one-fifth of the state\u2019s voting population, most Gen Z Californians won\u2019t vote in the June 2 primary, which is stacked with several gubernatorial candidates. The primary election tees up the ballot in November, which will also host other high-profile races and issues, such as the rest of the executive candidates, as well [&#8230;]\nThe post What would get Gen Z to vote in California\u2019s primary? These candidates are trying appeared first on Local News Matters.",
+    "link": "https://localnewsmatters.org/2026/05/30/gen-z-voters-california-primary-election-2026/",
+    "source": "Local News Matters",
+    "county": "Bay Area",
+    "published": "2026-05-30T18:00:00+00:00"
   },
   {
-    "title": "Jane Warner Plaza Refresh",
-    "summary": "Jane Warner Plaza\u2014located at the intersection of Castro, 17th, and Market streets in the Castro District of San Francisco\u2014has a new look. As a reminder, here&#8217;s what the plaza looked like a few years ago: The plaza was named after a beloved San Francisco Patrol Special Police Officer Jane Ellen Warner (1956\u20132010). For two decades, [&#8230;]\nThe post Jane Warner Plaza Refresh appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/jane-warner-plaza-refresh/?utm_source=rss&utm_medium=rss&utm_campaign=jane-warner-plaza-refresh",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-24T19:59:07+00:00"
+    "title": "Family of Oakland homicide victim, 19, raising money to send his body home to Guatemala",
+    "summary": "The family of a 19-year-old Oakland man who was stabbed to death last weekend is trying to raise money to bring his body back to Guatemala. Aldon Rochel Mata Cardona was stabbed May 23 at about 6:45 p.m. in the 1700 block of East 19th Street, according to the Oakland Police Department. Cardona was taken [&#8230;]\nThe post Family of Oakland homicide victim, 19, raising money to send his body home to Guatemala appeared first on Local News Matters.",
+    "link": "https://localnewsmatters.org/2026/05/30/family-of-oakland-homicide-victim-19-raising-money-to-send-his-body-home-to-guatemala/",
+    "source": "Local News Matters",
+    "county": "Alameda",
+    "published": "2026-05-30T16:00:00+00:00"
   },
   {
-    "title": "Ann Rostow: Okay Boomer",
-    "summary": "By Ann Rostow\u2014 Okay Boomer Former Senator Barney Frank, who died of congestive heart failure on May 19, 2026, gave an interview to The New York Times shortly before his passing in which he decried the Democratic Party for insisting on a suicidal political correctness. Unlike the fight for trans rights, Frank said the gay [&#8230;]\nThe post Ann Rostow: Okay Boomer appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/ann-rostow-okay-boomer/?utm_source=rss&utm_medium=rss&utm_campaign=ann-rostow-okay-boomer",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-22T05:26:30+00:00"
+    "title": "Headlines, May 29",
+    "summary": "",
+    "link": "https://sf.streetsblog.org/2026/05/29/headlines-may-29-3",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-29T15:03:08+00:00"
   },
   {
-    "title": "Honorees of the 2026 Celebrating Bay Area AAPI LGBTQ+ Women Leaders & Allies",
-    "summary": "These are the 16 honorees of the 2026 Celebrating Bay Area AAPI LGBTQ+ Women Leaders &#38; Allies, which will be presented by the San Francisco Bay Times at the SF LGBT Center on May 28, 2026. Miki Adachi \u201cI am the granddaughter of Japanese immigrants, who started and ran a very successful florist and nursery [&#8230;]\nThe post Honorees of the 2026 Celebrating Bay Area AAPI LGBTQ+ Women Leaders &#038; Allies appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/honorees-of-the-2026-celebrating-bay-area-aapi-lgbtq-women-leaders-allies/?utm_source=rss&utm_medium=rss&utm_campaign=honorees-of-the-2026-celebrating-bay-area-aapi-lgbtq-women-leaders-allies",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-22T05:24:21+00:00"
+    "title": "Muni Funding Measure Also Qualifies for November Ballot",
+    "summary": "Mayor and advocates turn in 18,469 signatures, almost twice what was needed",
+    "link": "https://sf.streetsblog.org/2026/05/28/muni-funding-measure-also-qualifies-for-november-ballot",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-28T23:13:52+00:00"
   },
   {
-    "title": "Now or Never",
-    "summary": "By Joanie Juster\u2014 I was raised with the firm conviction that voting is every American\u2019s duty and privilege. No matter what, if there\u2019s an election, you vote, because every vote matters. And I still believe that wholeheartedly, even though I have lived through entirely too many elections when the choice of candidates seems to be [&#8230;]\nThe post Now or Never appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/now-or-never/?utm_source=rss&utm_medium=rss&utm_campaign=now-or-never",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-21T16:27:07+00:00"
+    "title": "Here\u2019s How to Vote Before Election Day in California",
+    "summary": "Changes in federal post office regulations mean that it may already be too late to send in your ballot, depending where you live. But there's still a lot of ways to make sure your vote counts, including voting on election day like our grandparents used to last century.",
+    "link": "https://cal.streetsblog.org/2026/05/28/heres-how-to-vote-before-election-day-in-california",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-28T20:36:11+00:00"
   },
   {
-    "title": "Simple Acts of Resistance",
-    "summary": "By Stuart Gaffney and John Lewis\u2014 Elise and Otto Hampel were an unremarkable working-class couple living in Berlin in 1940. With little formal education, Elise was employed as a domestic, and Otto worked in a factory. Otto had fought for Germany in World War I, and Elise was now a patriotic member of the National [&#8230;]\nThe post Simple Acts of Resistance appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/simple-acts-of-resistance/?utm_source=rss&utm_medium=rss&utm_campaign=simple-acts-of-resistance",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-21T16:18:49+00:00"
+    "title": "Talking Headways Podcast: Community Severance by Road",
+    "summary": "Jaime Benevides and Marianthi-Anna Kioumourtzoglou on how community severance by road infrastructure increases mental health hospital visits in New York City.",
+    "link": "https://usa.streetsblog.org/2026/05/28/talking-headways-podcast-community-severance-by-road",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-28T16:32:33+00:00"
   },
   {
-    "title": "Ahead of GGBA\u2019s Rebranding Launch, Gratitude for Those Making It Possible",
-    "summary": "By Aaron Boot-Haury\u2014 As I write this, we are putting the final touches on the new GGBA. After months of planning, listening, drafting, redrafting, and a healthy amount of late-night text messages, I can tell you with full confidence that what we will unveil on June 2 is something our community will be proud of. [&#8230;]\nThe post Ahead of GGBA\u2019s Rebranding Launch, Gratitude for Those Making It Possible appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/ahead-of-ggbas-rebranding-launch-gratitude-for-those-making-it-possible/?utm_source=rss&utm_medium=rss&utm_campaign=ahead-of-ggbas-rebranding-launch-gratitude-for-those-making-it-possible",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-21T14:23:56+00:00"
+    "title": "Headlines, May 28",
+    "summary": "",
+    "link": "https://sf.streetsblog.org/2026/05/28/headlines-may-28-3",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-28T15:27:25+00:00"
   },
   {
-    "title": "Marissa Quaranta and Stacy Owens of S.E. Owens & Company",
-    "summary": "S. E. Owens &#38; Company, with a nationwide reach and offices in Oakland, California, provides a wide range of services related to compliance and accounting. While their team is focused on excellence in these areas, they uniquely are also passionate about promoting social equity and have clients representing the fields of politics and animal rights, [&#8230;]\nThe post Marissa Quaranta and Stacy Owens of S.E. Owens &#038; Company appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/marissa-quaranta-and-stacy-owens-of-s-e-owens-company/?utm_source=rss&utm_medium=rss&utm_campaign=marissa-quaranta-and-stacy-owens-of-s-e-owens-company",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-21T14:20:00+00:00"
+    "title": "Data Show Why Mamdani Must Pedestrianize NYC\u2019s Financial District",
+    "summary": "People walk in the Financial District, but the neighborhood's business group prioritizes the car.",
+    "link": "https://nyc.streetsblog.org/2026/05/28/data-show-why-mamdani-must-pedestrianize-the-financial-district",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-28T04:05:00+00:00"
   },
   {
-    "title": "What\u2019s the Cost of Surrogacy?",
-    "summary": "By Brandon Miller\u2014 There\u2019s a version of my journey to parenthood that sounds very put-together: I flew to Missouri, met my baby twins, and flew home\u2014beautiful, seamless, and the kind of thing you post on Instagram with a tasteful filter. Here\u2019s the real version: A flu outbreak grounded us, and we ended up cramming two [&#8230;]\nThe post What\u2019s the Cost of Surrogacy? appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/whats-the-cost-of-surrogacy/?utm_source=rss&utm_medium=rss&utm_campaign=whats-the-cost-of-surrogacy",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-21T14:16:00+00:00"
+    "title": "America Keeps Building Stadiums Like Transit Doesn\u2019t Matter",
+    "summary": "What would it take to build a truly transit-oriented sports stadium in Washington D.C., rather than repeating the mistakes of the past?",
+    "link": "https://usa.streetsblog.org/2026/05/28/america-keeps-building-stadiums-like-transit-doesnt-matter",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-28T04:01:00+00:00"
   },
   {
-    "title": "Medi-Cal Estate Recovery: Will Long\u2011Term Care Take My Home After I\u2019m Gone?",
-    "summary": "By Jay Greene\u2014 From Getting Care to Protecting Your Legacy In April, we covered how Medi-Cal\u2019s reinstated 2026 asset limits and the 30\u2011month lookback affect eligibility for long\u2011term care. This month, we address the following: Once Medi-Cal pays for your care and you pass away, can the state come after your home? If you are [&#8230;]\nThe post Medi-Cal Estate Recovery: Will Long\u2011Term Care Take My Home After I\u2019m Gone? appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/medi-cal-estate-recovery-will-long%e2%80%91term-care-take-my-home-after-im-gone/?utm_source=rss&utm_medium=rss&utm_campaign=medi-cal-estate-recovery-will-long%25e2%2580%2591term-care-take-my-home-after-im-gone",
-    "source": "SF Bay Times",
-    "county": "San Francisco",
-    "published": "2026-05-21T14:09:42+00:00"
+    "title": "Bay Area Advocates Rally to Stop State Giveaway to Oil Companies",
+    "summary": "Governor Newsom's environmental agency wants to rob cash-strapped transit operators and give the money to the worst polluters, ostensibly to help with high gas prices",
+    "link": "https://sf.streetsblog.org/2026/05/27/bay-area-advocates-rally-to-stop-state-giveaway-to-oil-companies",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-27T23:27:27+00:00"
   },
   {
-    "title": "Lance Toma: Dedication in the Tenderloin",
-    "summary": "By Tom LeNoble\u2014 This month, we reflect on what I call The Philanthropic Mindset. It is not philanthropy defined by wealth or recognition, but by presence, compassion, and everyday choices. It could be a conversation, a gesture, or a moment of unexpected grace. We often overlook the quiet acts that restore connection and renew hope, [&#8230;]\nThe post Lance Toma: Dedication in the Tenderloin appeared first on San Francisco Bay Times.",
-    "link": "https://sfbaytimes.com/lance-toma-dedication-in-the-tenderloin/?utm_source=rss&utm_medium=rss&utm_campaign=lance-toma-dedication-in-the-tenderloin",
-    "source": "SF Bay Times",
+    "title": "An Update on Contactless Fare Payment across Agencies in California",
+    "summary": "Once Tap Plus launches later this year, it will be available on the agencies that operate roughly 95% of public transit trips in California, but there are some notable laggards...",
+    "link": "https://cal.streetsblog.org/2026/05/27/an-update-on-contactless-fare-payment-across-agencies-in-california",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-27T16:57:31+00:00"
+  },
+  {
+    "title": "Headlines, May 27",
+    "summary": "",
+    "link": "https://sf.streetsblog.org/2026/05/27/headlines-may-27-2",
+    "source": "Streetsblog SF",
+    "county": "Bay Area",
+    "published": "2026-05-27T14:57:21+00:00"
+  },
+  {
+    "title": "Free Swim Program Breaks Generational Fear of Water for Bayview Families",
+    "summary": "The Bayview Safety Swim and Splash Program aims to close the racial disparity in drowning incidents.",
+    "link": "https://ww2.kqed.org/news/2026/05/30/free-swim-program-breaks-generational-fear-of-water-for-bayview-families/",
+    "source": "KQED",
     "county": "San Francisco",
-    "published": "2026-05-21T14:04:12+00:00"
+    "published": "2026-05-30T23:37:58+00:00"
   },
   {
     "title": "A Federal Judge in D.C. Declines to Block Trump\u2019s Executive Order on Voting by Mail",
@@ -2614,13 +2830,5 @@
     "source": "KQED",
     "county": "San Francisco",
     "published": "2026-05-27T20:06:51+00:00"
-  },
-  {
-    "title": "Even Some Tech Workers Can\u2019t Afford to Stay When the Bay is This Expensive",
-    "summary": "The Bay Area is generating enormous wealth and growing impossibly unaffordable, even for well-paid tech workers.",
-    "link": "https://ww2.kqed.org/news/2026/05/27/even-some-tech-workers-cant-afford-to-stay-when-the-bay-is-this-expensive/",
-    "source": "KQED",
-    "county": "Bay Area",
-    "published": "2026-05-27T16:00:43+00:00"
   }
 ]
